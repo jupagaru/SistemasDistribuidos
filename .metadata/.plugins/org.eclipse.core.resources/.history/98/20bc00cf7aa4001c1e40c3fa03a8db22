@@ -1,0 +1,5 @@
+package com.carpetaciudadana.apigateway.security;
+
+public enum Permission {
+
+}

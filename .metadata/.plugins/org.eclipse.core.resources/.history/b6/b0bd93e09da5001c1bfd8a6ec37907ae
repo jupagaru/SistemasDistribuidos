@@ -1,0 +1,21 @@
+package com.carpetaciudadana.apigateway.filters.factory;
+
+import org.springframework.cloud.gateway.filter.GatewayFilter;
+import org.springframework.cloud.gateway.filter.factory.AbstractGatewayFilterFactory;
+import org.springframework.stereotype.Component;
+
+@Component
+public class CarpetaCiudadanaGatewayFilterFactory extends AbstractGatewayFilterFactory<CarpetaCiudadanaGatewayFilterFactory.Configuracion>{
+
+	public class Configuracion {
+
+	}
+
+	@Override
+	public GatewayFilter apply(Configuracion config) {
+		return (exchange, chain) -> {
+			return chain.filter(exchange);
+		};
+	}
+
+}

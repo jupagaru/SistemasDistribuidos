@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<section name="MavenProjectImportWizardPage">
+		<list key="rootDirectory">
+			<item value="/Users/juanpablogarciaurrea/Documents/Academia/Sistemas Distribuidos/workspace/carpeta-ciudadana-users"/>
+			<item value="/Users/juanpablogarciaurrea/Downloads/4_springboot-servicio[oauth2]/config"/>
+			<item value="/Users/juanpablogarciaurrea/Downloads/4_springboot-servicio[oauth2]/springboot-servicio-usuarios-commons"/>
+			<item value="/Users/juanpablogarciaurrea/Downloads/4_springboot-servicio[oauth2]/springboot-servicio-config-server"/>
+			<item value="/Users/juanpablogarciaurrea/Downloads/4_springboot-servicio[oauth2]/springboot-servicio-usuarios"/>
+			<item value="/Users/juanpablogarciaurrea/Downloads/4_springboot-servicio[oauth2]/springboot-servicio-eureka-server"/>
+			<item value="/Users/juanpablogarciaurrea/Downloads/1_springboot-servicio[spring_cloud_gateway_security_jwt]/springboot-servicio-oauth"/>
+			<item value="/Users/juanpablogarciaurrea/Downloads/1_springboot-servicio[spring_cloud_gateway_security_jwt]/springboot-servicio-gateway-server"/>
+			<item value="/Users/juanpablogarciaurrea/Documents/Academia/Cursos/ejemplo firebase/demo-spring-firestore"/>
+			<item value="/Users/juanpablogarciaurrea/Documents/Academia/Sistemas Distribuidos/Repositorios/api-gateway"/>
+			<item value="/Users/juanpablogarciaurrea/Documents/Academia/Sistemas Distribuidos/Repositorios/eureka-server"/>
+		</list>
+		<list key="projectNameTemplate">
+			<item value="[artifactId]"/>
+			<item value="[artifactId]-TRUNK"/>
+			<item value="[artifactId]-[version]"/>
+			<item value="[groupId].[artifactId]"/>
+			<item value="[groupId].[artifactId]-[version]"/>
+			<item value="[name]"/>
+		</list>
+	</section>
+	<section name="org.eclipse.m2e.core.pom.overview">
+	</section>
+	<section name="org.eclipse.m2e.core.pom.dependencies">
+	</section>
+</section>

@@ -1,0 +1,5 @@
+package com.carpetaciudadana.oauth.services;
+
+public class UserService {
+
+}

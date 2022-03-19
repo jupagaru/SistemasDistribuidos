@@ -1,0 +1,5 @@
+package com.carpetaciudadana.oauth.security;
+
+public class AuthorizationServerConfig {
+
+}

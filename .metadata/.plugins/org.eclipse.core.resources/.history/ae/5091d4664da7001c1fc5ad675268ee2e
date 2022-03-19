@@ -1,0 +1,18 @@
+package com.carpetaciudadana.authentication.mapper;
+
+import java.util.List;
+
+import org.mapstruct.Mapper;
+
+
+@Mapper
+public interface UserMapper {
+
+	public UserDTO userstoUserDTO(Users users);
+
+	public Users userDTOtoUser(UserDTO userDTO);
+
+	public List<UserDTO> usersListTouserDTOList(List<Users> users);
+
+	public List<Users> userDTOListToUserList(List<UserDTO> userDTOs);
+}
