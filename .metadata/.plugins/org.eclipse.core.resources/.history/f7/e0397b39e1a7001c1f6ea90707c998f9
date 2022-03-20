@@ -1,0 +1,5 @@
+package com.carpetaciudadana.authentication.controller;
+
+public class KeyCloakController {
+
+}

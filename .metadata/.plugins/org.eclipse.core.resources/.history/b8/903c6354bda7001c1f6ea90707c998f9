@@ -1,0 +1,46 @@
+package com.carpetaciudadana.users.domain;
+
+import java.io.Serializable;
+
+import org.springframework.data.annotation.Id;
+import org.springframework.data.mongodb.core.mapping.Document;
+
+import lombok.AllArgsConstructor;
+import lombok.Data;
+import lombok.NoArgsConstructor;
+
+/**
+ * 
+ * @author juanpablogarciaurrea
+ *
+ */
+@Document(collection = "users")
+@Data
+@AllArgsConstructor
+@NoArgsConstructor
+public class Users implements Serializable{
+
+	private static final long serialVersionUID = -4045581173333250156L;
+
+	
+	@Id
+	private String id;
+	
+	//@Column(name = "email", unique = true, nullable = false)
+	private String email;
+
+	//@Column(name = "name", nullable = false)
+	private String name;
+	
+	//@Column(name = "token")
+	private String token;
+
+	//@Column(name = "address")
+	private String address;
+	
+	//@Column(name = "iperator_id")
+	private Integer iperatorId;
+	
+	//@Column(name = "operator_name")
+	private String operatorName;
+}

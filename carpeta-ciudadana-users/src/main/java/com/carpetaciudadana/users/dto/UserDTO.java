@@ -11,7 +11,7 @@ import lombok.NoArgsConstructor;
 @NoArgsConstructor
 public class UserDTO {
 	
-	private String id;
+	private String uId;
 	
 	@NotNull
 	private String email;
@@ -20,13 +20,8 @@ public class UserDTO {
 	private String name;
 	
 	@NotNull
-	private String token;
+	private String lastName;
 
-	@NotNull
 	private String address;
-	
-	private Integer iperatorId;
-	
-	private String operatorName;
 
 }

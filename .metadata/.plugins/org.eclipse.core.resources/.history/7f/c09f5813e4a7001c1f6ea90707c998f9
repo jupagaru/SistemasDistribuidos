@@ -1,0 +1,5 @@
+package com.carpetaciudadana.authentication.service;
+
+public interface KeyCloakService {
+
+}

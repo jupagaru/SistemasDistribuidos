@@ -23,7 +23,7 @@ spring:
     oauth2:
       resourceserver:
         jwt:
-          issuer-uri: http://localhost:8080/auth/realms/vortexbirdBank
+          issuer-uri: http://localhost:8080/auth/realms/master
 #Register in Eureka Server
 eureka:
   client:

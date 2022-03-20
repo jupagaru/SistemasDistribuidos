@@ -1,0 +1,7 @@
+package com.carpetaciudadana.authentication.service;
+
+@AllArgsConstructor
+@Service
+public class KeyCloakService {
+
+}

@@ -1,0 +1,41 @@
+package com.carpetaciudadana.authentication.config;
+
+import org.jboss.resteasy.client.jaxrs.ResteasyClientBuilder;
+import org.keycloak.OAuth2Constants;
+import org.keycloak.admin.client.Keycloak;
+import org.keycloak.admin.client.KeycloakBuilder;
+
+public class KeyCloakConfig {
+
+	static Keycloak keycloak = null;
+	final static String serverUrl = "http://localhost:8080/auth/realms/vortexbirdBank";
+	public final static String realm = "vortexbirdBank";
+	final static String clientId = "carpeta-ciudadana";
+	final static String clientSecret = "65af40e4-b126-472c-9c03-a959601e4151";
+	final static String userName = "admin";
+	final static String password = "admin";
+
+	public KeyCloakConfig() {
+	}
+
+	public static Keycloak getInstance(){
+        if(keycloak == null){
+           
+            keycloak = KeycloakBuilder.builder()
+                    .serverUrl(serverUrl)
+                    .realm(realm)
+                    .grantType(OAuth2Constants.PASSWORD)
+                    .username(userName)
+                    .password(password)
+                    .clientId(clientId)
+                    .clientSecret(clientSecret)
+                    .resteasyClient(new ResteasyClientBuilder()
+                                   .connectionPoolSize(10)
+                                   .build()
+                                   )
+                    .build();
+        }
+        return keycloak;
+    }
+
+}

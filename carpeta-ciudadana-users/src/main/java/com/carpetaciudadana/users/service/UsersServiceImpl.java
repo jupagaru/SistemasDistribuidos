@@ -79,15 +79,15 @@ public class UsersServiceImpl implements UsersService{
 			throw new Exception("El customer es nulo");
 		}
 
-		if (entity.getId() == null) {
+		if (entity.getUId() == null) {
 			throw new Exception("El user id es nulo");
 		}
 
-		if (usersRepository.existsById(entity.getId()) == false) {
+		if (usersRepository.existsById(entity.getUId()) == false) {
 			throw new Exception("El usuario no existe");
 		}
 
-		usersRepository.deleteById(entity.getId());
+		usersRepository.deleteById(entity.getUId());
 		
 	}
 
