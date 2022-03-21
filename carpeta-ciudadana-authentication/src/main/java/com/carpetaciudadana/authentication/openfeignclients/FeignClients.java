@@ -1,20 +1,19 @@
 package com.carpetaciudadana.authentication.openfeignclients;
 
+import javax.validation.Valid;
+
 import org.springframework.cloud.openfeign.FeignClient;
 import org.springframework.web.bind.annotation.PostMapping;
 import org.springframework.web.bind.annotation.RequestBody;
 
 import com.carpetaciudadana.authentication.dto.UserDTO;
 
-import feign.Headers;
-
-@FeignClient(value = "users")
+@FeignClient(value = "api-gateway")
 public interface FeignClients {
 
-	String AUTH_TOKEN = "Authorization";
+	
 
 	@PostMapping("/users/api/v1/users")
-	@Headers("Content-Type: application/json")
-	public UserDTO save(@RequestBody UserDTO userDTO) throws Exception;
-
+	//@Headers("Content-Type: application/json")
+	public UserDTO save(@Valid @RequestBody UserDTO userDTO) throws Exception;
 }

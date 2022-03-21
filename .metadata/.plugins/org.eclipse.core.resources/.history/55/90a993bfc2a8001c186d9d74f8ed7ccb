@@ -1,0 +1,5 @@
+package com.carpetaciudadana.authentication.config;
+
+public class SecurityConfig {
+
+}
