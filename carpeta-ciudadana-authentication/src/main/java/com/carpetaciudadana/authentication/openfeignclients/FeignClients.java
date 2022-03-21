@@ -14,6 +14,6 @@ public interface FeignClients {
 	
 
 	@PostMapping("/users/api/v1/users")
-	//@Headers("Content-Type: application/json")
 	public UserDTO save(@Valid @RequestBody UserDTO userDTO) throws Exception;
+	
 }

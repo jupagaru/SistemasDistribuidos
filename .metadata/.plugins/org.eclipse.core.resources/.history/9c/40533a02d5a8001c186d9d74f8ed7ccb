@@ -1,0 +1,5 @@
+package com.carpetaciudadana.authentication.dto;
+
+public class Post {
+
+}

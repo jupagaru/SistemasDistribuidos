@@ -11259,3 +11259,450 @@ java.lang.InterruptedException
 
 !ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-03-20 23:48:58.295
 !MESSAGE executing callback sts4.classpath.fsYfrUOL SUCCESS [done]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-03-20 23:54:55.852
+!MESSAGE ClasspathListenerHandler removeClasspathListener sts4.classpath.fsYfrUOL
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-03-20 23:54:55.855
+!MESSAGE unsubscribing from classpath changes: sts4.classpath.fsYfrUOL
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-03-20 23:54:55.857
+!MESSAGE subsribers = {}
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-03-20 23:54:55.857
+!MESSAGE ClasspathListenerHandler removeClasspathListener sts4.classpath.fsYfrUOL => OK
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-03-20 23:55:30.414
+!MESSAGE Entering DelegatingStreamConnectionProvider()
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-03-20 23:55:30.416
+!MESSAGE DelegatingStreamConnectionProvider classloader = org.eclipse.osgi.internal.loader.EquinoxClassLoader@27b2c1e1[org.springframework.tooling.boot.ls:1.32.0.202203131529(id=562)]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-03-20 23:55:30.417
+!MESSAGE SpringBootLanguageServer exists!
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-03-20 23:55:31.381
+!MESSAGE Boot LS startup time from start to initialized: 962ms
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-03-20 23:55:31.425
+!MESSAGE ClasspathListenerHandler addClasspathListener sts4.classpath.DZrjBmRMisBatched = true
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-03-20 23:55:31.425
+!MESSAGE Setting up ClasspathListenerManager
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-03-20 23:55:31.425
+!MESSAGE Scheduling initial event for all projects ...
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-03-20 23:55:31.425
+!MESSAGE Scheduling initial event for all projects DONE
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-03-20 23:55:31.426
+!MESSAGE ClasspathListenerHandler addClasspathListener sts4.classpath.DZrjBmRM => OK
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-03-20 23:55:31.426
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-03-20 23:55:31.432
+!MESSAGE classpath=184 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-03-20 23:55:31.433
+!MESSAGE buffering callback sts4.classpath.DZrjBmRM carpeta-ciudadana-authentication false 184
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-03-20 23:55:31.433
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-03-20 23:55:31.442
+!MESSAGE classpath=146 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-03-20 23:55:31.443
+!MESSAGE buffering callback sts4.classpath.DZrjBmRM api-gateway false 146
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-03-20 23:55:31.443
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-03-20 23:55:31.446
+!MESSAGE classpath=151 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-03-20 23:55:31.446
+!MESSAGE buffering callback sts4.classpath.DZrjBmRM carpeta-ciudadana-users false 151
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-03-20 23:55:31.447
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-03-20 23:55:31.450
+!MESSAGE classpath=129 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-03-20 23:55:31.450
+!MESSAGE buffering callback sts4.classpath.DZrjBmRM eureka-server false 129
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-03-20 23:55:31.451
+!MESSAGE executing callback sts4.classpath.DZrjBmRM 4 batched events
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-03-20 23:55:31.771
+!MESSAGE executing callback sts4.classpath.DZrjBmRM SUCCESS [done]
+
+!ENTRY org.eclipse.lsp4e 2 0 2022-03-21 00:17:46.816
+!MESSAGE Javadoc unavailable. Failed to obtain it.
+!STACK 0
+java.lang.InterruptedException
+	at java.base/java.util.concurrent.CompletableFuture.reportGet(CompletableFuture.java:386)
+	at java.base/java.util.concurrent.CompletableFuture.get(CompletableFuture.java:2096)
+	at org.eclipse.lsp4e.jdt.LSJavaHoverProvider.getHoverInfo2(LSJavaHoverProvider.java:70)
+	at org.eclipse.jdt.internal.ui.text.java.hover.BestMatchHover.getHoverInfo2(BestMatchHover.java:163)
+	at org.eclipse.jdt.internal.ui.text.java.hover.BestMatchHover.getHoverInfo2(BestMatchHover.java:130)
+	at org.eclipse.jdt.internal.ui.text.java.hover.JavaEditorTextHoverProxy.getHoverInfo2(JavaEditorTextHoverProxy.java:89)
+	at org.eclipse.jface.text.TextViewerHoverManager$1.run(TextViewerHoverManager.java:155)
+
+!ENTRY org.eclipse.lsp4e 2 0 2022-03-21 00:19:26.486
+!MESSAGE Javadoc unavailable. Failed to obtain it.
+!STACK 0
+java.lang.InterruptedException
+	at java.base/java.util.concurrent.CompletableFuture.reportGet(CompletableFuture.java:386)
+	at java.base/java.util.concurrent.CompletableFuture.get(CompletableFuture.java:2096)
+	at org.eclipse.lsp4e.jdt.LSJavaHoverProvider.getHoverInfo2(LSJavaHoverProvider.java:70)
+	at org.eclipse.jdt.internal.ui.text.java.hover.BestMatchHover.getHoverInfo2(BestMatchHover.java:163)
+	at org.eclipse.jdt.internal.ui.text.java.hover.BestMatchHover.getHoverInfo2(BestMatchHover.java:130)
+	at org.eclipse.jdt.internal.ui.text.java.hover.JavaEditorTextHoverProxy.getHoverInfo2(JavaEditorTextHoverProxy.java:89)
+	at org.eclipse.jface.text.TextViewerHoverManager$1.run(TextViewerHoverManager.java:155)
+
+!ENTRY org.eclipse.lsp4e 2 0 2022-03-21 00:30:01.156
+!MESSAGE Javadoc unavailable. Failed to obtain it.
+!STACK 0
+java.lang.InterruptedException
+	at java.base/java.util.concurrent.CompletableFuture.reportGet(CompletableFuture.java:386)
+	at java.base/java.util.concurrent.CompletableFuture.get(CompletableFuture.java:2096)
+	at org.eclipse.lsp4e.jdt.LSJavaHoverProvider.getHoverInfo2(LSJavaHoverProvider.java:70)
+	at org.eclipse.jdt.internal.ui.text.java.hover.BestMatchHover.getHoverInfo2(BestMatchHover.java:163)
+	at org.eclipse.jdt.internal.ui.text.java.hover.BestMatchHover.getHoverInfo2(BestMatchHover.java:130)
+	at org.eclipse.jdt.internal.ui.text.java.hover.JavaEditorTextHoverProxy.getHoverInfo2(JavaEditorTextHoverProxy.java:89)
+	at org.eclipse.jface.text.TextViewerHoverManager$1.run(TextViewerHoverManager.java:155)
+
+!ENTRY org.eclipse.lsp4e 2 0 2022-03-21 00:31:50.021
+!MESSAGE Javadoc unavailable. Failed to obtain it.
+!STACK 0
+java.lang.InterruptedException
+	at java.base/java.util.concurrent.CompletableFuture.reportGet(CompletableFuture.java:386)
+	at java.base/java.util.concurrent.CompletableFuture.get(CompletableFuture.java:2096)
+	at org.eclipse.lsp4e.jdt.LSJavaHoverProvider.getHoverInfo2(LSJavaHoverProvider.java:70)
+	at org.eclipse.jdt.internal.ui.text.java.hover.BestMatchHover.getHoverInfo2(BestMatchHover.java:163)
+	at org.eclipse.jdt.internal.ui.text.java.hover.BestMatchHover.getHoverInfo2(BestMatchHover.java:130)
+	at org.eclipse.jdt.internal.ui.text.java.hover.JavaEditorTextHoverProxy.getHoverInfo2(JavaEditorTextHoverProxy.java:89)
+	at org.eclipse.jface.text.TextViewerHoverManager$1.run(TextViewerHoverManager.java:155)
+
+!ENTRY org.eclipse.jdt.apt.pluggable.core 1 1 2022-03-21 00:56:59.159
+!MESSAGE MapStruct: Using accessor naming strategy: org.mapstruct.ap.spi.DefaultAccessorNamingStrategy
+
+!ENTRY org.eclipse.jdt.apt.pluggable.core 1 1 2022-03-21 00:56:59.165
+!MESSAGE MapStruct: Using builder provider: org.mapstruct.ap.spi.DefaultBuilderProvider
+
+!ENTRY org.eclipse.jdt.apt.pluggable.core 1 1 2022-03-21 00:56:59.166
+!MESSAGE MapStruct: Using enum naming strategy: org.mapstruct.ap.spi.DefaultEnumMappingStrategy
+
+!ENTRY org.eclipse.jdt.apt.pluggable.core 1 1 2022-03-21 00:56:59.181
+!MESSAGE  MapStruct: processing: com.carpetaciudadana.users.mapper.UserMapper.
+
+!ENTRY org.eclipse.jdt.apt.pluggable.core 1 1 2022-03-21 00:56:59.251
+!MESSAGE - MapStruct: creating bean mapping method implementation for com.carpetaciudadana.users.dto.UserDTO userstoUserDTO(com.carpetaciudadana.users.domain.Users users).
+
+!ENTRY org.eclipse.jdt.apt.pluggable.core 1 1 2022-03-21 00:56:59.268
+!MESSAGE -- MapStruct: mapping property: users.getAddress() to: public void setAddress(java.lang.String) .
+
+!ENTRY org.eclipse.jdt.apt.pluggable.core 1 1 2022-03-21 00:56:59.269
+!MESSAGE -- MapStruct: selecting property mapping: users.getAddress().
+
+!ENTRY org.eclipse.jdt.apt.pluggable.core 1 1 2022-03-21 00:56:59.269
+!MESSAGE -- MapStruct: mapping property: users.getEmail() to: public void setEmail(java.lang.String) .
+
+!ENTRY org.eclipse.jdt.apt.pluggable.core 1 1 2022-03-21 00:56:59.270
+!MESSAGE -- MapStruct: selecting property mapping: users.getEmail().
+
+!ENTRY org.eclipse.jdt.apt.pluggable.core 1 1 2022-03-21 00:56:59.270
+!MESSAGE -- MapStruct: mapping property: users.getLastName() to: public void setLastName(java.lang.String) .
+
+!ENTRY org.eclipse.jdt.apt.pluggable.core 1 1 2022-03-21 00:56:59.270
+!MESSAGE -- MapStruct: selecting property mapping: users.getLastName().
+
+!ENTRY org.eclipse.jdt.apt.pluggable.core 1 1 2022-03-21 00:56:59.270
+!MESSAGE -- MapStruct: mapping property: users.getUId() to: public void setUId(java.lang.String) .
+
+!ENTRY org.eclipse.jdt.apt.pluggable.core 1 1 2022-03-21 00:56:59.270
+!MESSAGE -- MapStruct: selecting property mapping: users.getUId().
+
+!ENTRY org.eclipse.jdt.apt.pluggable.core 1 1 2022-03-21 00:56:59.272
+!MESSAGE - MapStruct: creating bean mapping method implementation for com.carpetaciudadana.users.domain.Users userDTOtoUser(com.carpetaciudadana.users.dto.UserDTO userDTO).
+
+!ENTRY org.eclipse.jdt.apt.pluggable.core 1 1 2022-03-21 00:56:59.273
+!MESSAGE -- MapStruct: mapping property: userDTO.getAddress() to: public void setAddress(java.lang.String) .
+
+!ENTRY org.eclipse.jdt.apt.pluggable.core 1 1 2022-03-21 00:56:59.275
+!MESSAGE -- MapStruct: selecting property mapping: userDTO.getAddress().
+
+!ENTRY org.eclipse.jdt.apt.pluggable.core 1 1 2022-03-21 00:56:59.275
+!MESSAGE -- MapStruct: mapping property: userDTO.getEmail() to: public void setEmail(java.lang.String) .
+
+!ENTRY org.eclipse.jdt.apt.pluggable.core 1 1 2022-03-21 00:56:59.276
+!MESSAGE -- MapStruct: selecting property mapping: userDTO.getEmail().
+
+!ENTRY org.eclipse.jdt.apt.pluggable.core 1 1 2022-03-21 00:56:59.276
+!MESSAGE -- MapStruct: mapping property: userDTO.getLastName() to: public void setLastName(java.lang.String) .
+
+!ENTRY org.eclipse.jdt.apt.pluggable.core 1 1 2022-03-21 00:56:59.276
+!MESSAGE -- MapStruct: selecting property mapping: userDTO.getLastName().
+
+!ENTRY org.eclipse.jdt.apt.pluggable.core 1 1 2022-03-21 00:56:59.276
+!MESSAGE -- MapStruct: mapping property: userDTO.getUId() to: public void setUId(java.lang.String) .
+
+!ENTRY org.eclipse.jdt.apt.pluggable.core 1 1 2022-03-21 00:56:59.277
+!MESSAGE -- MapStruct: selecting property mapping: userDTO.getUId().
+
+!ENTRY org.eclipse.jdt.apt.pluggable.core 1 1 2022-03-21 00:56:59.279
+!MESSAGE - MapStruct: creating iterable mapping method implementation for java.util.List<com.carpetaciudadana.users.dto.UserDTO> usersListTouserDTOList(java.util.List<com.carpetaciudadana.users.domain.Users> users).
+
+!ENTRY org.eclipse.jdt.apt.pluggable.core 1 1 2022-03-21 00:56:59.280
+!MESSAGE -- MapStruct: selecting element mapping: com.carpetaciudadana.users.dto.UserDTO #userstoUserDTO(users1).
+
+!ENTRY org.eclipse.jdt.apt.pluggable.core 1 1 2022-03-21 00:56:59.283
+!MESSAGE - MapStruct: creating iterable mapping method implementation for java.util.List<com.carpetaciudadana.users.domain.Users> userDTOListToUserList(java.util.List<com.carpetaciudadana.users.dto.UserDTO> userDTOs).
+
+!ENTRY org.eclipse.jdt.apt.pluggable.core 1 1 2022-03-21 00:56:59.285
+!MESSAGE -- MapStruct: selecting element mapping: com.carpetaciudadana.users.domain.Users #userDTOtoUser(userDTO).
+
+!ENTRY org.eclipse.jdt.apt.pluggable.core 1 1 2022-03-21 00:57:43.899
+!MESSAGE MapStruct: Using accessor naming strategy: org.mapstruct.ap.spi.DefaultAccessorNamingStrategy
+
+!ENTRY org.eclipse.jdt.apt.pluggable.core 1 1 2022-03-21 00:57:43.903
+!MESSAGE MapStruct: Using builder provider: org.mapstruct.ap.spi.DefaultBuilderProvider
+
+!ENTRY org.eclipse.jdt.apt.pluggable.core 1 1 2022-03-21 00:57:43.903
+!MESSAGE MapStruct: Using enum naming strategy: org.mapstruct.ap.spi.DefaultEnumMappingStrategy
+
+!ENTRY org.eclipse.jdt.apt.pluggable.core 1 1 2022-03-21 00:57:43.925
+!MESSAGE  MapStruct: processing: com.carpetaciudadana.users.mapper.UserMapper.
+
+!ENTRY org.eclipse.jdt.apt.pluggable.core 1 1 2022-03-21 00:57:43.970
+!MESSAGE - MapStruct: creating bean mapping method implementation for com.carpetaciudadana.users.dto.UserDTO userstoUserDTO(com.carpetaciudadana.users.domain.Users users).
+
+!ENTRY org.eclipse.jdt.apt.pluggable.core 1 1 2022-03-21 00:57:43.979
+!MESSAGE -- MapStruct: mapping property: users.getAddress() to: public void setAddress(java.lang.String) .
+
+!ENTRY org.eclipse.jdt.apt.pluggable.core 1 1 2022-03-21 00:57:43.981
+!MESSAGE -- MapStruct: selecting property mapping: users.getAddress().
+
+!ENTRY org.eclipse.jdt.apt.pluggable.core 1 1 2022-03-21 00:57:43.981
+!MESSAGE -- MapStruct: mapping property: users.getEmail() to: public void setEmail(java.lang.String) .
+
+!ENTRY org.eclipse.jdt.apt.pluggable.core 1 1 2022-03-21 00:57:43.982
+!MESSAGE -- MapStruct: selecting property mapping: users.getEmail().
+
+!ENTRY org.eclipse.jdt.apt.pluggable.core 1 1 2022-03-21 00:57:43.982
+!MESSAGE -- MapStruct: mapping property: users.getFirstName() to: public void setFirstName(java.lang.String) .
+
+!ENTRY org.eclipse.jdt.apt.pluggable.core 1 1 2022-03-21 00:57:43.983
+!MESSAGE -- MapStruct: selecting property mapping: users.getFirstName().
+
+!ENTRY org.eclipse.jdt.apt.pluggable.core 1 1 2022-03-21 00:57:43.983
+!MESSAGE -- MapStruct: mapping property: users.getLastName() to: public void setLastName(java.lang.String) .
+
+!ENTRY org.eclipse.jdt.apt.pluggable.core 1 1 2022-03-21 00:57:43.984
+!MESSAGE -- MapStruct: selecting property mapping: users.getLastName().
+
+!ENTRY org.eclipse.jdt.apt.pluggable.core 1 1 2022-03-21 00:57:43.985
+!MESSAGE -- MapStruct: mapping property: users.getNumIdentificacion() to: public void setNumIdentificacion(java.lang.String) .
+
+!ENTRY org.eclipse.jdt.apt.pluggable.core 1 1 2022-03-21 00:57:43.985
+!MESSAGE -- MapStruct: selecting property mapping: users.getNumIdentificacion().
+
+!ENTRY org.eclipse.jdt.apt.pluggable.core 1 1 2022-03-21 00:57:43.985
+!MESSAGE -- MapStruct: mapping property: users.getPassword() to: public void setPassword(java.lang.String) .
+
+!ENTRY org.eclipse.jdt.apt.pluggable.core 1 1 2022-03-21 00:57:43.987
+!MESSAGE -- MapStruct: selecting property mapping: users.getPassword().
+
+!ENTRY org.eclipse.jdt.apt.pluggable.core 1 1 2022-03-21 00:57:43.987
+!MESSAGE -- MapStruct: mapping property: users.getUId() to: public void setUId(java.lang.String) .
+
+!ENTRY org.eclipse.jdt.apt.pluggable.core 1 1 2022-03-21 00:57:43.987
+!MESSAGE -- MapStruct: selecting property mapping: users.getUId().
+
+!ENTRY org.eclipse.jdt.apt.pluggable.core 1 1 2022-03-21 00:57:43.988
+!MESSAGE -- MapStruct: mapping property: users.getUserName() to: public void setUserName(java.lang.String) .
+
+!ENTRY org.eclipse.jdt.apt.pluggable.core 1 1 2022-03-21 00:57:43.989
+!MESSAGE -- MapStruct: selecting property mapping: users.getUserName().
+
+!ENTRY org.eclipse.jdt.apt.pluggable.core 1 1 2022-03-21 00:57:43.990
+!MESSAGE - MapStruct: creating bean mapping method implementation for com.carpetaciudadana.users.domain.Users userDTOtoUser(com.carpetaciudadana.users.dto.UserDTO userDTO).
+
+!ENTRY org.eclipse.jdt.apt.pluggable.core 1 1 2022-03-21 00:57:43.995
+!MESSAGE -- MapStruct: mapping property: userDTO.getAddress() to: public void setAddress(java.lang.String) .
+
+!ENTRY org.eclipse.jdt.apt.pluggable.core 1 1 2022-03-21 00:57:43.995
+!MESSAGE -- MapStruct: selecting property mapping: userDTO.getAddress().
+
+!ENTRY org.eclipse.jdt.apt.pluggable.core 1 1 2022-03-21 00:57:43.995
+!MESSAGE -- MapStruct: mapping property: userDTO.getEmail() to: public void setEmail(java.lang.String) .
+
+!ENTRY org.eclipse.jdt.apt.pluggable.core 1 1 2022-03-21 00:57:43.995
+!MESSAGE -- MapStruct: selecting property mapping: userDTO.getEmail().
+
+!ENTRY org.eclipse.jdt.apt.pluggable.core 1 1 2022-03-21 00:57:43.995
+!MESSAGE -- MapStruct: mapping property: userDTO.getFirstName() to: public void setFirstName(java.lang.String) .
+
+!ENTRY org.eclipse.jdt.apt.pluggable.core 1 1 2022-03-21 00:57:43.995
+!MESSAGE -- MapStruct: selecting property mapping: userDTO.getFirstName().
+
+!ENTRY org.eclipse.jdt.apt.pluggable.core 1 1 2022-03-21 00:57:43.996
+!MESSAGE -- MapStruct: mapping property: userDTO.getLastName() to: public void setLastName(java.lang.String) .
+
+!ENTRY org.eclipse.jdt.apt.pluggable.core 1 1 2022-03-21 00:57:43.997
+!MESSAGE -- MapStruct: selecting property mapping: userDTO.getLastName().
+
+!ENTRY org.eclipse.jdt.apt.pluggable.core 1 1 2022-03-21 00:57:43.997
+!MESSAGE -- MapStruct: mapping property: userDTO.getNumIdentificacion() to: public void setNumIdentificacion(java.lang.String) .
+
+!ENTRY org.eclipse.jdt.apt.pluggable.core 1 1 2022-03-21 00:57:43.997
+!MESSAGE -- MapStruct: selecting property mapping: userDTO.getNumIdentificacion().
+
+!ENTRY org.eclipse.jdt.apt.pluggable.core 1 1 2022-03-21 00:57:43.997
+!MESSAGE -- MapStruct: mapping property: userDTO.getPassword() to: public void setPassword(java.lang.String) .
+
+!ENTRY org.eclipse.jdt.apt.pluggable.core 1 1 2022-03-21 00:57:43.997
+!MESSAGE -- MapStruct: selecting property mapping: userDTO.getPassword().
+
+!ENTRY org.eclipse.jdt.apt.pluggable.core 1 1 2022-03-21 00:57:43.997
+!MESSAGE -- MapStruct: mapping property: userDTO.getUId() to: public void setUId(java.lang.String) .
+
+!ENTRY org.eclipse.jdt.apt.pluggable.core 1 1 2022-03-21 00:57:43.997
+!MESSAGE -- MapStruct: selecting property mapping: userDTO.getUId().
+
+!ENTRY org.eclipse.jdt.apt.pluggable.core 1 1 2022-03-21 00:57:43.998
+!MESSAGE -- MapStruct: mapping property: userDTO.getUserName() to: public void setUserName(java.lang.String) .
+
+!ENTRY org.eclipse.jdt.apt.pluggable.core 1 1 2022-03-21 00:57:43.998
+!MESSAGE -- MapStruct: selecting property mapping: userDTO.getUserName().
+
+!ENTRY org.eclipse.jdt.apt.pluggable.core 1 1 2022-03-21 00:57:43.999
+!MESSAGE - MapStruct: creating iterable mapping method implementation for java.util.List<com.carpetaciudadana.users.dto.UserDTO> usersListTouserDTOList(java.util.List<com.carpetaciudadana.users.domain.Users> users).
+
+!ENTRY org.eclipse.jdt.apt.pluggable.core 1 1 2022-03-21 00:57:44.002
+!MESSAGE -- MapStruct: selecting element mapping: com.carpetaciudadana.users.dto.UserDTO #userstoUserDTO(users1).
+
+!ENTRY org.eclipse.jdt.apt.pluggable.core 1 1 2022-03-21 00:57:44.003
+!MESSAGE - MapStruct: creating iterable mapping method implementation for java.util.List<com.carpetaciudadana.users.domain.Users> userDTOListToUserList(java.util.List<com.carpetaciudadana.users.dto.UserDTO> userDTOs).
+
+!ENTRY org.eclipse.jdt.apt.pluggable.core 1 1 2022-03-21 00:57:44.003
+!MESSAGE -- MapStruct: selecting element mapping: com.carpetaciudadana.users.domain.Users #userDTOtoUser(userDTO).
+
+!ENTRY org.eclipse.jdt.apt.pluggable.core 1 1 2022-03-21 01:05:37.483
+!MESSAGE MapStruct: Using accessor naming strategy: org.mapstruct.ap.spi.DefaultAccessorNamingStrategy
+
+!ENTRY org.eclipse.jdt.apt.pluggable.core 1 1 2022-03-21 01:05:37.484
+!MESSAGE MapStruct: Using builder provider: org.mapstruct.ap.spi.DefaultBuilderProvider
+
+!ENTRY org.eclipse.jdt.apt.pluggable.core 1 1 2022-03-21 01:05:37.484
+!MESSAGE MapStruct: Using enum naming strategy: org.mapstruct.ap.spi.DefaultEnumMappingStrategy
+
+!ENTRY org.eclipse.jdt.apt.pluggable.core 1 1 2022-03-21 01:05:37.489
+!MESSAGE  MapStruct: processing: com.carpetaciudadana.users.mapper.UserMapper.
+
+!ENTRY org.eclipse.jdt.apt.pluggable.core 1 1 2022-03-21 01:05:37.500
+!MESSAGE - MapStruct: creating bean mapping method implementation for com.carpetaciudadana.users.dto.UserDTO userstoUserDTO(com.carpetaciudadana.users.domain.Users users).
+
+!ENTRY org.eclipse.jdt.apt.pluggable.core 1 1 2022-03-21 01:05:37.503
+!MESSAGE -- MapStruct: mapping property: users.getAddress() to: public void setAddress(java.lang.String) .
+
+!ENTRY org.eclipse.jdt.apt.pluggable.core 1 1 2022-03-21 01:05:37.506
+!MESSAGE -- MapStruct: selecting property mapping: users.getAddress().
+
+!ENTRY org.eclipse.jdt.apt.pluggable.core 1 1 2022-03-21 01:05:37.507
+!MESSAGE -- MapStruct: mapping property: users.getEmail() to: public void setEmail(java.lang.String) .
+
+!ENTRY org.eclipse.jdt.apt.pluggable.core 1 1 2022-03-21 01:05:37.507
+!MESSAGE -- MapStruct: selecting property mapping: users.getEmail().
+
+!ENTRY org.eclipse.jdt.apt.pluggable.core 1 1 2022-03-21 01:05:37.507
+!MESSAGE -- MapStruct: mapping property: users.getFirstName() to: public void setFirstName(java.lang.String) .
+
+!ENTRY org.eclipse.jdt.apt.pluggable.core 1 1 2022-03-21 01:05:37.507
+!MESSAGE -- MapStruct: selecting property mapping: users.getFirstName().
+
+!ENTRY org.eclipse.jdt.apt.pluggable.core 1 1 2022-03-21 01:05:37.507
+!MESSAGE -- MapStruct: mapping property: users.getLastName() to: public void setLastName(java.lang.String) .
+
+!ENTRY org.eclipse.jdt.apt.pluggable.core 1 1 2022-03-21 01:05:37.507
+!MESSAGE -- MapStruct: selecting property mapping: users.getLastName().
+
+!ENTRY org.eclipse.jdt.apt.pluggable.core 1 1 2022-03-21 01:05:37.508
+!MESSAGE -- MapStruct: mapping property: users.getNumIdentificacion() to: public void setNumIdentificacion(java.lang.String) .
+
+!ENTRY org.eclipse.jdt.apt.pluggable.core 1 1 2022-03-21 01:05:37.508
+!MESSAGE -- MapStruct: selecting property mapping: users.getNumIdentificacion().
+
+!ENTRY org.eclipse.jdt.apt.pluggable.core 1 1 2022-03-21 01:05:37.508
+!MESSAGE -- MapStruct: mapping property: users.getUId() to: public void setUId(java.lang.String) .
+
+!ENTRY org.eclipse.jdt.apt.pluggable.core 1 1 2022-03-21 01:05:37.508
+!MESSAGE -- MapStruct: selecting property mapping: users.getUId().
+
+!ENTRY org.eclipse.jdt.apt.pluggable.core 1 1 2022-03-21 01:05:37.508
+!MESSAGE -- MapStruct: mapping property: users.getUserName() to: public void setUserName(java.lang.String) .
+
+!ENTRY org.eclipse.jdt.apt.pluggable.core 1 1 2022-03-21 01:05:37.508
+!MESSAGE -- MapStruct: selecting property mapping: users.getUserName().
+
+!ENTRY org.eclipse.jdt.apt.pluggable.core 1 1 2022-03-21 01:05:37.509
+!MESSAGE - MapStruct: creating bean mapping method implementation for com.carpetaciudadana.users.domain.Users userDTOtoUser(com.carpetaciudadana.users.dto.UserDTO userDTO).
+
+!ENTRY org.eclipse.jdt.apt.pluggable.core 1 1 2022-03-21 01:05:37.510
+!MESSAGE -- MapStruct: mapping property: userDTO.getAddress() to: public void setAddress(java.lang.String) .
+
+!ENTRY org.eclipse.jdt.apt.pluggable.core 1 1 2022-03-21 01:05:37.510
+!MESSAGE -- MapStruct: selecting property mapping: userDTO.getAddress().
+
+!ENTRY org.eclipse.jdt.apt.pluggable.core 1 1 2022-03-21 01:05:37.510
+!MESSAGE -- MapStruct: mapping property: userDTO.getEmail() to: public void setEmail(java.lang.String) .
+
+!ENTRY org.eclipse.jdt.apt.pluggable.core 1 1 2022-03-21 01:05:37.510
+!MESSAGE -- MapStruct: selecting property mapping: userDTO.getEmail().
+
+!ENTRY org.eclipse.jdt.apt.pluggable.core 1 1 2022-03-21 01:05:37.510
+!MESSAGE -- MapStruct: mapping property: userDTO.getFirstName() to: public void setFirstName(java.lang.String) .
+
+!ENTRY org.eclipse.jdt.apt.pluggable.core 1 1 2022-03-21 01:05:37.510
+!MESSAGE -- MapStruct: selecting property mapping: userDTO.getFirstName().
+
+!ENTRY org.eclipse.jdt.apt.pluggable.core 1 1 2022-03-21 01:05:37.511
+!MESSAGE -- MapStruct: mapping property: userDTO.getLastName() to: public void setLastName(java.lang.String) .
+
+!ENTRY org.eclipse.jdt.apt.pluggable.core 1 1 2022-03-21 01:05:37.511
+!MESSAGE -- MapStruct: selecting property mapping: userDTO.getLastName().
+
+!ENTRY org.eclipse.jdt.apt.pluggable.core 1 1 2022-03-21 01:05:37.511
+!MESSAGE -- MapStruct: mapping property: userDTO.getNumIdentificacion() to: public void setNumIdentificacion(java.lang.String) .
+
+!ENTRY org.eclipse.jdt.apt.pluggable.core 1 1 2022-03-21 01:05:37.511
+!MESSAGE -- MapStruct: selecting property mapping: userDTO.getNumIdentificacion().
+
+!ENTRY org.eclipse.jdt.apt.pluggable.core 1 1 2022-03-21 01:05:37.511
+!MESSAGE -- MapStruct: mapping property: userDTO.getUId() to: public void setUId(java.lang.String) .
+
+!ENTRY org.eclipse.jdt.apt.pluggable.core 1 1 2022-03-21 01:05:37.511
+!MESSAGE -- MapStruct: selecting property mapping: userDTO.getUId().
+
+!ENTRY org.eclipse.jdt.apt.pluggable.core 1 1 2022-03-21 01:05:37.511
+!MESSAGE -- MapStruct: mapping property: userDTO.getUserName() to: public void setUserName(java.lang.String) .
+
+!ENTRY org.eclipse.jdt.apt.pluggable.core 1 1 2022-03-21 01:05:37.511
+!MESSAGE -- MapStruct: selecting property mapping: userDTO.getUserName().
+
+!ENTRY org.eclipse.jdt.apt.pluggable.core 1 1 2022-03-21 01:05:37.512
+!MESSAGE - MapStruct: creating iterable mapping method implementation for java.util.List<com.carpetaciudadana.users.dto.UserDTO> usersListTouserDTOList(java.util.List<com.carpetaciudadana.users.domain.Users> users).
+
+!ENTRY org.eclipse.jdt.apt.pluggable.core 1 1 2022-03-21 01:05:37.512
+!MESSAGE -- MapStruct: selecting element mapping: com.carpetaciudadana.users.dto.UserDTO #userstoUserDTO(users1).
+
+!ENTRY org.eclipse.jdt.apt.pluggable.core 1 1 2022-03-21 01:05:37.512
+!MESSAGE - MapStruct: creating iterable mapping method implementation for java.util.List<com.carpetaciudadana.users.domain.Users> userDTOListToUserList(java.util.List<com.carpetaciudadana.users.dto.UserDTO> userDTOs).
+
+!ENTRY org.eclipse.jdt.apt.pluggable.core 1 1 2022-03-21 01:05:37.512
+!MESSAGE -- MapStruct: selecting element mapping: com.carpetaciudadana.users.domain.Users #userDTOtoUser(userDTO).

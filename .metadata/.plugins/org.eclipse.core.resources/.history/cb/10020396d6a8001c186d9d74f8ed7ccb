@@ -1,0 +1,12 @@
+package com.carpetaciudadana.authentication.dto;
+
+public class UserPruebaSwagger {
+	
+	private String id;
+	private String name;
+	private String address;
+	private String email;
+	private String operatorId;
+	private String operatorName;
+
+}

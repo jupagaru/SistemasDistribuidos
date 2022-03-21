@@ -12,7 +12,9 @@ import org.springframework.stereotype.Service;
 
 import com.carpetaciudadana.authentication.config.KeycloakConfig;
 import com.carpetaciudadana.authentication.dto.UserDTO;
+import com.carpetaciudadana.authentication.dto.UserPruebaSwagger;
 import com.carpetaciudadana.authentication.dto.UserResponse;
+import com.carpetaciudadana.authentication.openfeignclients.FeignClientValidate;
 import com.carpetaciudadana.authentication.openfeignclients.FeignClients;
 
 @Service
@@ -23,6 +25,9 @@ public class KeyCloakServiceImpl {
 	
 	@Autowired
 	FeignClients feignClients;
+	
+	@Autowired
+	FeignClientValidate feignClientValidate;
 
 	public void addUser(UserDTO user) {
 		UsersResource usersResource = KeycloakConfig.getInstance().realm(KeycloakConfig.realm).users();
@@ -46,6 +51,18 @@ public class KeyCloakServiceImpl {
 	}
 
 	private UserDTO saveUserFeign(UserDTO user) throws Exception {
+		UserPruebaSwagger userSwagger = new UserPruebaSwagger();
+		
+		userSwagger.setId(user.getNumIdentificacion());
+		userSwagger.setEmail(user.getEmail());
+		userSwagger.setName(user.getFirstName());
+		userSwagger.setAddress(user.getAddress());
+		userSwagger.setOperatorId("1");
+		userSwagger.setOperatorName("Operador Ciudadano");
+		
+		String respuesta = feignClientValidate.registerCitizen(userSwagger);
+		System.out.println("Respuesta de swagger = " + respuesta);
+		
 		return feignClients.save(user);
 	}
 

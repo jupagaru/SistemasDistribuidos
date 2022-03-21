@@ -22,16 +22,13 @@ public class Users implements Serializable{
 
 	private static final long serialVersionUID = -4045581173333250156L;
 
-	
 	@Id
 	private String uId;
-	
-	private String email;
-
-	private String name;
-	
-	private String lastName;
-
-	private String address;
+	private String userName;
+	private String firstName;
+    private String lastName;
+    private String email;
+    private String address;
+    private String numIdentificacion;
 	
 }

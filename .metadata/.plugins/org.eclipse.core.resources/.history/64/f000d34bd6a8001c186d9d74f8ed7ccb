@@ -1,0 +1,16 @@
+package com.carpetaciudadana.authentication.openfeignclients;
+
+import java.util.List;
+
+import org.springframework.cloud.openfeign.FeignClient;
+import org.springframework.web.bind.annotation.GetMapping;
+
+import com.carpetaciudadana.authentication.dto.Post;
+
+//@FeignClient(name="posts", url="https://jsonplaceholder.typicode.com")
+public interface FeignClientValidate {
+	
+	@GetMapping("/posts")
+    List<Post> getAll();
+
+}
