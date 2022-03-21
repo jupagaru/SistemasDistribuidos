@@ -29,6 +29,7 @@ spring:
       resourceserver:
         jwt:
           issuer-uri: http://localhost:31002/auth/realms/master
+          
 #Register in Eureka Server
 eureka:
   client:
