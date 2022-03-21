@@ -11,6 +11,7 @@ import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RestController;
 
 import com.carpetaciudadana.authentication.dto.UserDTO;
+import com.carpetaciudadana.authentication.dto.UserRequest;
 import com.carpetaciudadana.authentication.dto.UserResponse;
 import com.carpetaciudadana.authentication.service.KeyCloakServiceImpl;
 
@@ -28,9 +29,9 @@ public class KeyCloakController {
 		return "User Added Successfully.";
 	}
 
-	@GetMapping("/{userName}")
-	public UserResponse getUser(@PathVariable("userName") String userName) {
-		UserResponse user = service.getUser(userName);
+	@PostMapping("/login")
+	public UserResponse getUser(@RequestBody UserRequest userRequest) {
+		UserResponse user = service.getUser(userRequest);
 		return user;
 	}
 

@@ -13,6 +13,7 @@ import org.springframework.stereotype.Service;
 import com.carpetaciudadana.authentication.config.KeycloakConfig;
 import com.carpetaciudadana.authentication.dto.UserDTO;
 import com.carpetaciudadana.authentication.dto.UserPruebaSwagger;
+import com.carpetaciudadana.authentication.dto.UserRequest;
 import com.carpetaciudadana.authentication.dto.UserResponse;
 import com.carpetaciudadana.authentication.openfeignclients.FeignClientValidate;
 import com.carpetaciudadana.authentication.openfeignclients.FeignClients;
@@ -34,7 +35,7 @@ public class KeyCloakServiceImpl {
 		CredentialRepresentation credentialRepresentation = createPasswordCredentials(user.getPassword());
 
 		UserRepresentation kcUser = new UserRepresentation();
-		kcUser.setUsername(user.getUserName());
+		kcUser.setUsername(user.getEmail());
 		kcUser.setCredentials(Collections.singletonList(credentialRepresentation));
 		kcUser.setFirstName(user.getFirstName());
 		kcUser.setLastName(user.getLastName());
@@ -42,6 +43,7 @@ public class KeyCloakServiceImpl {
 		kcUser.setEnabled(true);
 		kcUser.setEmailVerified(true);
 		usersResource.create(kcUser);
+
 		try {
 			saveUserFeign(user);
 		} catch (Exception e) {
@@ -57,11 +59,12 @@ public class KeyCloakServiceImpl {
 		userSwagger.setEmail(user.getEmail());
 		userSwagger.setName(user.getFirstName());
 		userSwagger.setAddress(user.getAddress());
-		userSwagger.setOperatorId("1");
-		userSwagger.setOperatorName("Operador Ciudadano");
+		userSwagger.setOperatorId("4672"); // TODO Defiir en las propiedades 
+		userSwagger.setOperatorName("Operador Franco Garcia"); // TODO Defiir en las propiedades
 		
-		String respuesta = feignClientValidate.registerCitizen(userSwagger);
-		System.out.println("Respuesta de swagger = " + respuesta);
+		// TODO Descomentar para que vaya al centralizador
+		//String respuesta = feignClientValidate.registerCitizen(userSwagger);
+		//System.out.println("Respuesta de swagger = " + respuesta);
 		
 		return feignClients.save(user);
 	}
@@ -74,15 +77,27 @@ public class KeyCloakServiceImpl {
 		return passwordCredentials;
 	}
 
-	public UserResponse getUser(String userName) {
+	public UserResponse getUser(UserRequest userRequest) {
 		UsersResource usersResource = getInstance();
-		List<UserRepresentation> user = usersResource.search(userName, true);
+		List<UserRepresentation> user = usersResource.search(userRequest.getEmail(), true);
 		UserResponse userResponse = new UserResponse();
 		if (user != null) {
 			userResponse.setToken(KeycloakConfig.getToken());
+			try {
+				UserDTO userfeig = getUserFeign(userRequest.getEmail());
+				System.out.println("userFeig = " + userfeig);
+				userResponse.setUid(userfeig.getUId());
+			} catch (Exception e) {
+				e.printStackTrace();
+			}
 		}
 		return userResponse;
 
+	}
+	
+	private UserDTO getUserFeign(String email) throws Exception {
+		
+		return feignClients.findByEmail(email);
 	}
 
 	public void deleteUser(String userId) {

@@ -1,17 +1,16 @@
 package com.carpetaciudadana.authentication.service;
 
-import java.util.List;
-
 import org.keycloak.admin.client.resource.UsersResource;
-import org.keycloak.representations.idm.UserRepresentation;
 
 import com.carpetaciudadana.authentication.dto.UserDTO;
+import com.carpetaciudadana.authentication.dto.UserRequest;
+import com.carpetaciudadana.authentication.dto.UserResponse;
 
 public interface KeyCloakService {
 
 	public void addUser(UserDTO user);
 
-	public List<UserRepresentation> getUser(String userName);
+	public UserResponse getUser(UserRequest userRequest);
 
 	public void deleteUser(String userId);
 

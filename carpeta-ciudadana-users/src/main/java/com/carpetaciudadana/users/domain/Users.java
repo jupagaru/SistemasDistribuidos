@@ -24,7 +24,6 @@ public class Users implements Serializable{
 
 	@Id
 	private String uId;
-	private String userName;
 	private String firstName;
     private String lastName;
     private String email;

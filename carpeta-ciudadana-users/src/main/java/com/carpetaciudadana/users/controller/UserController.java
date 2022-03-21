@@ -54,6 +54,13 @@ public class UserController {
 		userDTO = userMapper.userstoUserDTO(user);
 		return userDTO;
 	}
+	
+	@GetMapping("/email/{email}")
+	public UserDTO findByEmail(@PathVariable("email") String email) throws Exception {
+		Users user = (usersService.findByEmail(email));
+		UserDTO userDTO = userMapper.userstoUserDTO(user);
+		return userDTO;
+	}
 
 	@GetMapping("/{id}")
 	public UserDTO findById(@PathVariable("id") String id) throws Exception {
