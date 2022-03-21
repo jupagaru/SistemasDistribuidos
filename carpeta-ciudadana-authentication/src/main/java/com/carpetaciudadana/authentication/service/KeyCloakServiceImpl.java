@@ -13,12 +13,16 @@ import org.springframework.stereotype.Service;
 import com.carpetaciudadana.authentication.config.KeycloakConfig;
 import com.carpetaciudadana.authentication.dto.UserDTO;
 import com.carpetaciudadana.authentication.dto.UserResponse;
+import com.carpetaciudadana.authentication.openfeignclients.FeignClients;
 
 @Service
 public class KeyCloakServiceImpl {
 
+	/*@Autowired
+	UserServiceCircuitBreaker userServiceCircuitBreaker;*/
+	
 	@Autowired
-	UserServiceCircuitBreaker userServiceCircuitBreaker;
+	FeignClients feignClients;
 
 	public void addUser(UserDTO user) {
 		UsersResource usersResource = KeycloakConfig.getInstance().realm(KeycloakConfig.realm).users();
@@ -42,7 +46,7 @@ public class KeyCloakServiceImpl {
 	}
 
 	private UserDTO saveUserFeign(UserDTO user) throws Exception {
-		return userServiceCircuitBreaker.saveUser(user);
+		return feignClients.save(user);
 	}
 
 	private static CredentialRepresentation createPasswordCredentials(String password) {

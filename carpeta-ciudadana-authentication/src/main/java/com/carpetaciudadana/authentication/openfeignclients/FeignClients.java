@@ -8,7 +8,7 @@ import com.carpetaciudadana.authentication.dto.UserDTO;
 
 import feign.Headers;
 
-@FeignClient(name = "users", url = "api-gateway", configuration = FeignInterceptor.class)
+@FeignClient(value = "users")
 public interface FeignClients {
 
 	String AUTH_TOKEN = "Authorization";
