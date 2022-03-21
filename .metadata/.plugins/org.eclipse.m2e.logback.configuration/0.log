@@ -13152,3 +13152,1185 @@ Caused by: org.codehaus.plexus.util.xml.pull.XmlPullParserException: end tag nam
 2022-03-21 12:43:42,472 [Worker-458: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
 2022-03-21 12:43:42,473 [Worker-458: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
 2022-03-21 12:43:42,473 [Worker-458: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/juanpablogarciaurrea/Documents/Academia/Sistemas Distribuidos/workspace/api-gateway/src/test/resources
+2022-03-21 12:45:24,201 [Worker-459: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-03-21 12:45:24,205 [Worker-459: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-03-21 12:45:24,207 [Worker-459: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-03-21 12:45:24,297 [Worker-459: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-03-21 12:45:24,303 [Worker-459: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-03-21 12:45:24,303 [Worker-459: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-03-21 12:45:24,303 [Worker-459: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/juanpablogarciaurrea/Documents/Academia/Sistemas Distribuidos/workspace/carpeta-ciudadana-documents/src/test/resources
+2022-03-21 12:45:38,815 [Worker-459: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-03-21 12:45:38,817 [Worker-459: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-03-21 12:45:38,818 [Worker-459: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-03-21 12:45:38,948 [Worker-459: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-03-21 12:45:38,953 [Worker-459: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-03-21 12:45:38,953 [Worker-459: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-03-21 12:45:38,953 [Worker-459: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/juanpablogarciaurrea/Documents/Academia/Sistemas Distribuidos/workspace/carpeta-ciudadana-documents/src/test/resources
+2022-03-21 12:47:10,420 [Worker-454: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-03-21 12:47:10,421 [Worker-454: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-03-21 12:47:10,422 [Worker-454: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-03-21 12:47:10,425 [Worker-454: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-03-21 12:47:10,427 [Worker-454: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-03-21 12:47:10,427 [Worker-454: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-03-21 12:47:10,427 [Worker-454: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/juanpablogarciaurrea/Documents/Academia/Sistemas Distribuidos/workspace/carpeta-ciudadana-documents/src/test/resources
+2022-03-21 12:47:25,930 [Worker-454: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-03-21 12:47:25,931 [Worker-454: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-03-21 12:47:25,931 [Worker-454: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-03-21 12:47:25,983 [Worker-454: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-03-21 12:47:25,986 [Worker-454: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-03-21 12:47:25,986 [Worker-454: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-03-21 12:47:25,986 [Worker-454: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/juanpablogarciaurrea/Documents/Academia/Sistemas Distribuidos/workspace/carpeta-ciudadana-documents/src/test/resources
+2022-03-21 12:47:53,750 [Worker-453: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-03-21 12:47:53,750 [Worker-453: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-03-21 12:47:53,750 [Worker-453: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-03-21 12:47:53,841 [Worker-453: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-03-21 12:47:53,843 [Worker-453: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-03-21 12:47:53,843 [Worker-453: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-03-21 12:47:53,843 [Worker-453: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/juanpablogarciaurrea/Documents/Academia/Sistemas Distribuidos/workspace/carpeta-ciudadana-documents/src/test/resources
+2022-03-21 12:49:37,709 [Worker-455: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-03-21 12:49:37,710 [Worker-455: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-03-21 12:49:37,711 [Worker-455: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-03-21 12:49:37,712 [Worker-455: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-03-21 12:49:37,714 [Worker-455: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-03-21 12:49:37,714 [Worker-455: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-03-21 12:49:37,714 [Worker-455: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/juanpablogarciaurrea/Documents/Academia/Sistemas Distribuidos/workspace/carpeta-ciudadana-documents/src/test/resources
+2022-03-21 12:50:18,588 [Worker-454: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-03-21 12:50:18,592 [Worker-454: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-03-21 12:50:18,592 [Worker-454: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-03-21 12:50:18,650 [Worker-454: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-03-21 12:50:18,653 [Worker-454: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-03-21 12:50:18,653 [Worker-454: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-03-21 12:50:18,653 [Worker-454: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/juanpablogarciaurrea/Documents/Academia/Sistemas Distribuidos/workspace/carpeta-ciudadana-documents/src/test/resources
+2022-03-21 12:50:53,245 [Worker-453: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-03-21 12:50:53,245 [Worker-453: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-03-21 12:50:53,247 [Worker-453: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-03-21 12:50:53,267 [Worker-453: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-03-21 12:50:53,268 [Worker-453: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-03-21 12:50:53,268 [Worker-453: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-03-21 12:50:53,268 [Worker-453: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/juanpablogarciaurrea/Documents/Academia/Sistemas Distribuidos/workspace/carpeta-ciudadana-documents/src/test/resources
+2022-03-21 12:51:13,737 [Worker-456: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-03-21 12:51:13,737 [Worker-456: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-03-21 12:51:13,738 [Worker-456: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-03-21 12:51:13,847 [Worker-456: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-03-21 12:51:13,848 [Worker-456: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-03-21 12:51:13,848 [Worker-456: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-03-21 12:51:13,848 [Worker-456: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/juanpablogarciaurrea/Documents/Academia/Sistemas Distribuidos/workspace/carpeta-ciudadana-documents/src/test/resources
+2022-03-21 12:51:38,640 [Worker-454: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-03-21 12:51:38,641 [Worker-454: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-03-21 12:51:38,642 [Worker-454: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-03-21 12:51:38,737 [Worker-454: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-03-21 12:51:38,739 [Worker-454: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-03-21 12:51:38,739 [Worker-454: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-03-21 12:51:38,739 [Worker-454: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/juanpablogarciaurrea/Documents/Academia/Sistemas Distribuidos/workspace/carpeta-ciudadana-documents/src/test/resources
+2022-03-21 12:52:48,208 [Worker-460: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-03-21 12:52:48,210 [Worker-460: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-03-21 12:52:48,210 [Worker-460: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-03-21 12:52:48,275 [Worker-460: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-03-21 12:52:48,277 [Worker-460: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-03-21 12:52:48,277 [Worker-460: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-03-21 12:52:48,277 [Worker-460: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/juanpablogarciaurrea/Documents/Academia/Sistemas Distribuidos/workspace/carpeta-ciudadana-documents/src/test/resources
+2022-03-21 12:53:13,857 [Worker-457: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-03-21 12:53:13,857 [Worker-457: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-03-21 12:53:13,858 [Worker-457: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-03-21 12:53:13,898 [Worker-457: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-03-21 12:53:13,901 [Worker-457: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-03-21 12:53:13,901 [Worker-457: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-03-21 12:53:13,902 [Worker-457: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/juanpablogarciaurrea/Documents/Academia/Sistemas Distribuidos/workspace/carpeta-ciudadana-documents/src/test/resources
+2022-03-21 12:54:14,234 [Worker-453: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2022-03-21 12:54:14,402 [Worker-453: Updating Maven Project] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.carpetaciudadana.documents:carpeta-ciudadana-documents:0.0.1-SNAPSHOT @ /Users/juanpablogarciaurrea/Documents/Academia/Sistemas Distribuidos/workspace/carpeta-ciudadana-documents/pom.xml.
+2022-03-21 12:54:15,151 [Worker-453: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /carpeta-ciudadana-documents/src/main/java
+2022-03-21 12:54:15,151 [Worker-453: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /carpeta-ciudadana-documents/src/main/resources
+2022-03-21 12:54:15,151 [Worker-453: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /carpeta-ciudadana-documents/src/main/resources
+2022-03-21 12:54:15,151 [Worker-453: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /carpeta-ciudadana-documents/src/test/java
+2022-03-21 12:54:15,317 [Worker-453: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 1 sec
+2022-03-21 12:54:15,666 [Worker-457: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-03-21 12:54:15,666 [Worker-457: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-03-21 12:54:15,667 [Worker-457: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-03-21 12:54:15,667 [Worker-457: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-03-21 12:54:15,668 [Worker-457: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-03-21 12:54:15,668 [Worker-457: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-03-21 12:54:15,668 [Worker-457: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/juanpablogarciaurrea/Documents/Academia/Sistemas Distribuidos/workspace/carpeta-ciudadana-documents/src/test/resources
+2022-03-21 12:54:18,120 [Worker-460: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-03-21 12:54:18,120 [Worker-460: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-03-21 12:54:18,120 [Worker-460: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-03-21 12:54:18,143 [Worker-460: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-03-21 12:54:18,147 [Worker-460: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-03-21 12:54:18,147 [Worker-460: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-03-21 12:54:18,147 [Worker-460: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/juanpablogarciaurrea/Documents/Academia/Sistemas Distribuidos/workspace/carpeta-ciudadana-documents/src/test/resources
+2022-03-21 12:55:27,140 [Worker-459: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-03-21 12:55:27,142 [Worker-459: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-03-21 12:55:27,142 [Worker-459: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-03-21 12:55:27,213 [Worker-459: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-03-21 12:55:27,219 [Worker-459: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-03-21 12:55:27,219 [Worker-459: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-03-21 12:55:27,219 [Worker-459: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/juanpablogarciaurrea/Documents/Academia/Sistemas Distribuidos/workspace/carpeta-ciudadana-documents/src/test/resources
+2022-03-21 12:57:08,260 [Worker-455: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-03-21 12:57:08,260 [Worker-455: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-03-21 12:57:08,261 [Worker-455: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-03-21 12:57:08,326 [Worker-455: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-03-21 12:57:08,327 [Worker-455: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-03-21 12:57:08,327 [Worker-455: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-03-21 12:57:08,327 [Worker-455: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/juanpablogarciaurrea/Documents/Academia/Sistemas Distribuidos/workspace/carpeta-ciudadana-documents/src/test/resources
+2022-03-21 12:57:32,397 [Worker-460: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-03-21 12:57:32,398 [Worker-460: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-03-21 12:57:32,398 [Worker-460: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-03-21 12:57:32,416 [Worker-460: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-03-21 12:57:32,417 [Worker-460: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-03-21 12:57:32,417 [Worker-460: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-03-21 12:57:32,417 [Worker-460: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/juanpablogarciaurrea/Documents/Academia/Sistemas Distribuidos/workspace/carpeta-ciudadana-documents/src/test/resources
+2022-03-21 12:57:38,419 [Worker-453: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-03-21 12:57:38,419 [Worker-453: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-03-21 12:57:38,419 [Worker-453: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-03-21 12:57:38,439 [Worker-453: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-03-21 12:57:38,441 [Worker-453: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-03-21 12:57:38,441 [Worker-453: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-03-21 12:57:38,441 [Worker-453: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/juanpablogarciaurrea/Documents/Academia/Sistemas Distribuidos/workspace/carpeta-ciudadana-documents/src/test/resources
+2022-03-21 12:59:22,517 [Worker-453: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-03-21 12:59:22,534 [Worker-453: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-03-21 12:59:22,546 [Worker-453: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-03-21 12:59:22,634 [Worker-453: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-03-21 12:59:22,636 [Worker-453: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-03-21 12:59:22,636 [Worker-453: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-03-21 12:59:22,637 [Worker-453: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/juanpablogarciaurrea/Documents/Academia/Sistemas Distribuidos/workspace/carpeta-ciudadana-documents/src/test/resources
+2022-03-21 13:05:13,752 [Worker-461: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-03-21 13:05:13,753 [Worker-461: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-03-21 13:05:13,754 [Worker-461: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-03-21 13:05:13,782 [Worker-461: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-03-21 13:05:13,782 [Worker-461: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-03-21 13:05:13,782 [Worker-461: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-03-21 13:05:13,782 [Worker-461: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/juanpablogarciaurrea/Documents/Academia/Sistemas Distribuidos/workspace/carpeta-ciudadana-documents/src/test/resources
+2022-03-21 13:05:37,541 [Worker-463: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-03-21 13:05:37,541 [Worker-463: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-03-21 13:05:37,542 [Worker-463: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-03-21 13:05:37,554 [Worker-463: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-03-21 13:05:37,555 [Worker-463: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-03-21 13:05:37,555 [Worker-463: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-03-21 13:05:37,555 [Worker-463: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/juanpablogarciaurrea/Documents/Academia/Sistemas Distribuidos/workspace/carpeta-ciudadana-documents/src/test/resources
+2022-03-21 13:07:31,947 [Worker-463: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-03-21 13:07:31,964 [Worker-463: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-03-21 13:07:31,975 [Worker-463: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-03-21 13:07:32,019 [Worker-463: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-03-21 13:07:32,020 [Worker-463: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-03-21 13:07:32,020 [Worker-463: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-03-21 13:07:32,021 [Worker-463: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/juanpablogarciaurrea/Documents/Academia/Sistemas Distribuidos/workspace/carpeta-ciudadana-documents/src/test/resources
+2022-03-21 13:08:05,593 [Worker-463: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-03-21 13:08:05,593 [Worker-463: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-03-21 13:08:05,594 [Worker-463: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-03-21 13:08:05,611 [Worker-463: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-03-21 13:08:05,612 [Worker-463: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-03-21 13:08:05,612 [Worker-463: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-03-21 13:08:05,612 [Worker-463: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/juanpablogarciaurrea/Documents/Academia/Sistemas Distribuidos/workspace/carpeta-ciudadana-documents/src/test/resources
+2022-03-21 13:08:54,833 [Worker-461: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-03-21 13:08:54,833 [Worker-461: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-03-21 13:08:54,833 [Worker-461: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-03-21 13:08:54,839 [Worker-461: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-03-21 13:08:54,840 [Worker-461: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-03-21 13:08:54,840 [Worker-461: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-03-21 13:08:54,840 [Worker-461: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/juanpablogarciaurrea/Documents/Academia/Sistemas Distribuidos/workspace/carpeta-ciudadana-documents/src/test/resources
+2022-03-21 13:08:58,736 [Worker-461: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-03-21 13:08:58,736 [Worker-461: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-03-21 13:08:58,736 [Worker-461: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-03-21 13:08:59,057 [Worker-461: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-03-21 13:08:59,058 [Worker-461: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-03-21 13:08:59,058 [Worker-461: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-03-21 13:08:59,058 [Worker-461: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/juanpablogarciaurrea/Documents/Academia/Sistemas Distribuidos/workspace/carpeta-ciudadana-documents/src/test/resources
+2022-03-21 13:09:13,844 [Worker-457: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-03-21 13:09:13,849 [Worker-457: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-03-21 13:09:13,849 [Worker-457: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-03-21 13:09:13,861 [Worker-457: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-03-21 13:09:13,862 [Worker-457: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-03-21 13:09:13,862 [Worker-457: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-03-21 13:09:13,862 [Worker-457: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/juanpablogarciaurrea/Documents/Academia/Sistemas Distribuidos/workspace/carpeta-ciudadana-documents/src/test/resources
+2022-03-21 13:09:29,958 [Worker-463: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-03-21 13:09:29,958 [Worker-463: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-03-21 13:09:29,962 [Worker-463: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-03-21 13:09:29,974 [Worker-463: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-03-21 13:09:29,974 [Worker-463: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-03-21 13:09:29,974 [Worker-463: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-03-21 13:09:29,974 [Worker-463: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/juanpablogarciaurrea/Documents/Academia/Sistemas Distribuidos/workspace/carpeta-ciudadana-documents/src/test/resources
+2022-03-21 13:09:54,203 [Worker-457: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-03-21 13:09:54,204 [Worker-457: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-03-21 13:09:54,204 [Worker-457: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-03-21 13:09:54,220 [Worker-457: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-03-21 13:09:54,221 [Worker-457: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-03-21 13:09:54,221 [Worker-457: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-03-21 13:09:54,221 [Worker-457: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/juanpablogarciaurrea/Documents/Academia/Sistemas Distribuidos/workspace/carpeta-ciudadana-documents/src/test/resources
+2022-03-21 13:10:41,313 [Worker-462: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-03-21 13:10:41,313 [Worker-462: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-03-21 13:10:41,314 [Worker-462: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-03-21 13:10:41,327 [Worker-462: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-03-21 13:10:41,329 [Worker-462: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-03-21 13:10:41,329 [Worker-462: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-03-21 13:10:41,329 [Worker-462: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/juanpablogarciaurrea/Documents/Academia/Sistemas Distribuidos/workspace/carpeta-ciudadana-documents/src/test/resources
+2022-03-21 13:11:01,814 [Worker-457: Building Workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-03-21 13:11:01,815 [Worker-457: Building Workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-03-21 13:11:01,815 [Worker-457: Building Workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-03-21 13:11:01,828 [Worker-457: Building Workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-03-21 13:11:01,829 [Worker-457: Building Workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-03-21 13:11:01,829 [Worker-457: Building Workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-03-21 13:11:01,829 [Worker-457: Building Workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/juanpablogarciaurrea/Documents/Academia/Sistemas Distribuidos/workspace/carpeta-ciudadana-documents/src/test/resources
+2022-03-21 13:11:16,134 [Worker-461: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-03-21 13:11:16,135 [Worker-461: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-03-21 13:11:16,136 [Worker-461: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-03-21 13:11:16,208 [Worker-461: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-03-21 13:11:16,209 [Worker-461: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-03-21 13:11:16,209 [Worker-461: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-03-21 13:11:16,209 [Worker-461: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/juanpablogarciaurrea/Documents/Academia/Sistemas Distribuidos/workspace/carpeta-ciudadana-documents/src/test/resources
+2022-03-21 13:12:46,432 [Worker-456: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.carpetaciudadana.documents:carpeta-ciudadana-documents:0.0.1-SNAPSHOT @ /Users/juanpablogarciaurrea/Documents/Academia/Sistemas Distribuidos/workspace/carpeta-ciudadana-documents/pom.xml.
+2022-03-21 13:12:47,355 [Worker-464: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-03-21 13:12:47,355 [Worker-464: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-03-21 13:12:47,355 [Worker-464: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-03-21 13:12:47,448 [Worker-464: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-03-21 13:12:47,449 [Worker-464: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-03-21 13:12:47,449 [Worker-464: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-03-21 13:12:47,449 [Worker-464: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/juanpablogarciaurrea/Documents/Academia/Sistemas Distribuidos/workspace/carpeta-ciudadana-documents/src/test/resources
+2022-03-21 13:13:04,577 [Worker-456: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.carpetaciudadana.documents:carpeta-ciudadana-documents:0.0.1-SNAPSHOT @ /Users/juanpablogarciaurrea/Documents/Academia/Sistemas Distribuidos/workspace/carpeta-ciudadana-documents/pom.xml.
+2022-03-21 13:13:06,946 [Worker-456: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-03-21 13:13:06,947 [Worker-456: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-03-21 13:13:06,948 [Worker-456: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-03-21 13:13:07,136 [Worker-456: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-03-21 13:13:07,140 [Worker-456: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-03-21 13:13:07,140 [Worker-456: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-03-21 13:13:07,140 [Worker-456: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/juanpablogarciaurrea/Documents/Academia/Sistemas Distribuidos/workspace/carpeta-ciudadana-documents/src/test/resources
+2022-03-21 13:13:44,673 [Worker-461: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2022-03-21 13:13:45,508 [Worker-461: Updating Maven Project] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.carpetaciudadana.documents:carpeta-ciudadana-documents:0.0.1-SNAPSHOT @ /Users/juanpablogarciaurrea/Documents/Academia/Sistemas Distribuidos/workspace/carpeta-ciudadana-documents/pom.xml.
+2022-03-21 13:13:45,741 [Worker-461: Updating Maven Project] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.vobi.bank:api-gateway:0.0.1-SNAPSHOT @ /Users/juanpablogarciaurrea/Documents/Academia/Sistemas Distribuidos/workspace/api-gateway/pom.xml.
+2022-03-21 13:13:45,811 [Worker-461: Updating Maven Project] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.carpetaciudadana.user:carpeta-ciudadana-user:0.0.1-SNAPSHOT @ /Users/juanpablogarciaurrea/Documents/Academia/Sistemas Distribuidos/workspace/carpeta-ciudadana-users/pom.xml.
+2022-03-21 13:13:45,837 [Worker-461: Updating Maven Project] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.vobi.bank:eureka-server:0.0.1-SNAPSHOT @ /Users/juanpablogarciaurrea/Documents/Academia/Sistemas Distribuidos/workspace/eureka-server/pom.xml.
+2022-03-21 13:13:46,314 [Worker-461: Updating Maven Project] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.carpetaciudadana.authentication:carpeta-ciudadana-authentication:0.0.1-SNAPSHOT @ /Users/juanpablogarciaurrea/Documents/Academia/Sistemas Distribuidos/workspace/carpeta-ciudadana-authentication/pom.xml.
+2022-03-21 13:13:47,036 [Worker-461: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /carpeta-ciudadana-documents/src/main/java
+2022-03-21 13:13:47,036 [Worker-461: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /carpeta-ciudadana-documents/src/main/resources
+2022-03-21 13:13:47,036 [Worker-461: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /carpeta-ciudadana-documents/src/main/resources
+2022-03-21 13:13:47,036 [Worker-461: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /carpeta-ciudadana-documents/src/test/java
+2022-03-21 13:13:47,193 [Worker-461: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 2 sec
+2022-03-21 13:13:47,978 [Worker-468: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-03-21 13:13:48,060 [Worker-468: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-03-21 13:13:48,060 [Worker-468: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-03-21 13:13:48,061 [Worker-468: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-03-21 13:13:48,061 [Worker-468: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/juanpablogarciaurrea/Documents/Academia/Sistemas Distribuidos/workspace/api-gateway/src/test/resources
+2022-03-21 13:13:48,440 [Worker-461: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-03-21 13:13:48,441 [Worker-461: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-03-21 13:13:48,444 [Worker-461: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-03-21 13:13:48,444 [Worker-461: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-03-21 13:13:48,450 [Worker-461: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-03-21 13:13:48,450 [Worker-461: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-03-21 13:13:48,450 [Worker-461: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/juanpablogarciaurrea/Documents/Academia/Sistemas Distribuidos/workspace/carpeta-ciudadana-authentication/src/test/resources
+2022-03-21 13:13:49,058 [Worker-461: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-03-21 13:13:49,058 [Worker-461: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-03-21 13:13:49,063 [Worker-461: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-03-21 13:13:49,129 [Worker-461: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-03-21 13:13:49,132 [Worker-461: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-03-21 13:13:49,132 [Worker-461: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-03-21 13:13:49,132 [Worker-461: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/juanpablogarciaurrea/Documents/Academia/Sistemas Distribuidos/workspace/carpeta-ciudadana-documents/src/test/resources
+2022-03-21 13:13:49,461 [Worker-461: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-03-21 13:13:49,461 [Worker-461: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-03-21 13:13:49,461 [Worker-461: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-03-21 13:13:49,462 [Worker-461: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-03-21 13:13:49,463 [Worker-461: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-03-21 13:13:49,463 [Worker-461: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-03-21 13:13:49,463 [Worker-461: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/juanpablogarciaurrea/Documents/Academia/Sistemas Distribuidos/workspace/carpeta-ciudadana-users/src/test/resources
+2022-03-21 13:13:49,565 [Worker-461: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-03-21 13:13:49,565 [Worker-461: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-03-21 13:13:49,566 [Worker-461: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-03-21 13:13:49,566 [Worker-461: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-03-21 13:13:49,566 [Worker-461: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-03-21 13:13:49,566 [Worker-461: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-03-21 13:13:49,566 [Worker-461: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/juanpablogarciaurrea/Documents/Academia/Sistemas Distribuidos/workspace/eureka-server/src/test/resources
+2022-03-21 13:13:59,966 [Worker-457: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-03-21 13:13:59,966 [Worker-457: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-03-21 13:13:59,966 [Worker-457: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-03-21 13:14:00,021 [Worker-457: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-03-21 13:14:00,023 [Worker-457: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-03-21 13:14:00,023 [Worker-457: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-03-21 13:14:00,023 [Worker-457: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/juanpablogarciaurrea/Documents/Academia/Sistemas Distribuidos/workspace/carpeta-ciudadana-documents/src/test/resources
+2022-03-21 13:14:11,081 [Worker-457: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-03-21 13:14:11,082 [Worker-457: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-03-21 13:14:11,082 [Worker-457: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-03-21 13:14:11,141 [Worker-457: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-03-21 13:14:11,142 [Worker-457: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-03-21 13:14:11,142 [Worker-457: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-03-21 13:14:11,142 [Worker-457: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/juanpablogarciaurrea/Documents/Academia/Sistemas Distribuidos/workspace/carpeta-ciudadana-documents/src/test/resources
+2022-03-21 13:14:18,594 [Worker-467: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-03-21 13:14:18,594 [Worker-467: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-03-21 13:14:18,594 [Worker-467: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-03-21 13:14:18,658 [Worker-467: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-03-21 13:14:18,659 [Worker-467: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-03-21 13:14:18,659 [Worker-467: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-03-21 13:14:18,659 [Worker-467: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/juanpablogarciaurrea/Documents/Academia/Sistemas Distribuidos/workspace/carpeta-ciudadana-documents/src/test/resources
+2022-03-21 13:14:41,594 [Worker-462: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-03-21 13:14:41,594 [Worker-462: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-03-21 13:14:41,594 [Worker-462: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-03-21 13:14:41,627 [Worker-462: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-03-21 13:14:41,628 [Worker-462: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-03-21 13:14:41,628 [Worker-462: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-03-21 13:14:41,628 [Worker-462: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/juanpablogarciaurrea/Documents/Academia/Sistemas Distribuidos/workspace/carpeta-ciudadana-documents/src/test/resources
+2022-03-21 13:15:21,362 [Worker-468: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-03-21 13:15:21,440 [Worker-468: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-03-21 13:15:21,440 [Worker-468: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-03-21 13:15:21,469 [Worker-468: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-03-21 13:15:21,470 [Worker-468: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-03-21 13:15:21,471 [Worker-468: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-03-21 13:15:21,471 [Worker-468: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/juanpablogarciaurrea/Documents/Academia/Sistemas Distribuidos/workspace/carpeta-ciudadana-documents/src/test/resources
+2022-03-21 13:16:19,392 [Worker-461: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-03-21 13:16:19,399 [Worker-461: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-03-21 13:16:19,409 [Worker-461: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-03-21 13:16:19,523 [Worker-461: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-03-21 13:16:19,524 [Worker-461: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-03-21 13:16:19,524 [Worker-461: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-03-21 13:16:19,524 [Worker-461: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/juanpablogarciaurrea/Documents/Academia/Sistemas Distribuidos/workspace/carpeta-ciudadana-documents/src/test/resources
+2022-03-21 13:17:09,672 [Worker-461: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-03-21 13:17:09,672 [Worker-461: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-03-21 13:17:09,673 [Worker-461: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-03-21 13:17:09,741 [Worker-461: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-03-21 13:17:09,742 [Worker-461: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-03-21 13:17:09,742 [Worker-461: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-03-21 13:17:09,742 [Worker-461: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/juanpablogarciaurrea/Documents/Academia/Sistemas Distribuidos/workspace/carpeta-ciudadana-documents/src/test/resources
+2022-03-21 13:20:05,873 [Worker-467: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-03-21 13:20:05,876 [Worker-467: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-03-21 13:20:05,879 [Worker-467: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-03-21 13:20:06,023 [Worker-467: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-03-21 13:20:06,024 [Worker-467: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-03-21 13:20:06,024 [Worker-467: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-03-21 13:20:06,024 [Worker-467: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/juanpablogarciaurrea/Documents/Academia/Sistemas Distribuidos/workspace/carpeta-ciudadana-documents/src/test/resources
+2022-03-21 13:22:32,356 [Worker-471: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-03-21 13:22:32,359 [Worker-471: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-03-21 13:22:32,361 [Worker-471: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-03-21 13:22:32,407 [Worker-471: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-03-21 13:22:32,410 [Worker-471: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-03-21 13:22:32,410 [Worker-471: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-03-21 13:22:32,410 [Worker-471: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/juanpablogarciaurrea/Documents/Academia/Sistemas Distribuidos/workspace/carpeta-ciudadana-documents/src/test/resources
+2022-03-21 13:26:02,545 [Worker-465: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-03-21 13:26:02,547 [Worker-465: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-03-21 13:26:02,549 [Worker-465: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-03-21 13:26:02,647 [Worker-465: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-03-21 13:26:02,648 [Worker-465: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-03-21 13:26:02,648 [Worker-465: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-03-21 13:26:02,648 [Worker-465: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/juanpablogarciaurrea/Documents/Academia/Sistemas Distribuidos/workspace/carpeta-ciudadana-documents/src/test/resources
+2022-03-21 13:28:08,105 [Worker-472: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-03-21 13:28:08,109 [Worker-472: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-03-21 13:28:08,111 [Worker-472: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-03-21 13:28:08,235 [Worker-472: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-03-21 13:28:08,236 [Worker-472: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-03-21 13:28:08,236 [Worker-472: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-03-21 13:28:08,236 [Worker-472: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/juanpablogarciaurrea/Documents/Academia/Sistemas Distribuidos/workspace/carpeta-ciudadana-documents/src/test/resources
+2022-03-21 13:28:21,966 [Worker-471: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-03-21 13:28:21,967 [Worker-471: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-03-21 13:28:21,968 [Worker-471: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-03-21 13:28:22,006 [Worker-471: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-03-21 13:28:22,010 [Worker-471: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-03-21 13:28:22,011 [Worker-471: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-03-21 13:28:22,011 [Worker-471: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/juanpablogarciaurrea/Documents/Academia/Sistemas Distribuidos/workspace/carpeta-ciudadana-documents/src/test/resources
+2022-03-21 13:28:46,729 [Worker-475: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-03-21 13:28:46,729 [Worker-475: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-03-21 13:28:46,729 [Worker-475: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-03-21 13:28:46,758 [Worker-475: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-03-21 13:28:46,759 [Worker-475: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-03-21 13:28:46,759 [Worker-475: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-03-21 13:28:46,759 [Worker-475: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/juanpablogarciaurrea/Documents/Academia/Sistemas Distribuidos/workspace/carpeta-ciudadana-documents/src/test/resources
+2022-03-21 13:29:02,785 [Worker-465: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-03-21 13:29:02,785 [Worker-465: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-03-21 13:29:02,785 [Worker-465: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-03-21 13:29:02,797 [Worker-465: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-03-21 13:29:02,798 [Worker-465: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-03-21 13:29:02,798 [Worker-465: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-03-21 13:29:02,798 [Worker-465: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/juanpablogarciaurrea/Documents/Academia/Sistemas Distribuidos/workspace/carpeta-ciudadana-documents/src/test/resources
+2022-03-21 13:31:17,863 [Worker-475: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-03-21 13:31:17,865 [Worker-475: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-03-21 13:31:17,865 [Worker-475: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-03-21 13:31:17,895 [Worker-475: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-03-21 13:31:17,897 [Worker-475: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-03-21 13:31:17,897 [Worker-475: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-03-21 13:31:17,897 [Worker-475: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/juanpablogarciaurrea/Documents/Academia/Sistemas Distribuidos/workspace/carpeta-ciudadana-documents/src/test/resources
+2022-03-21 15:03:11,390 [Worker-481: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-03-21 15:03:11,767 [Worker-481: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-03-21 15:03:11,768 [Worker-481: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-03-21 15:03:11,896 [Worker-481: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-03-21 15:03:11,898 [Worker-481: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-03-21 15:03:11,898 [Worker-481: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-03-21 15:03:11,898 [Worker-481: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/juanpablogarciaurrea/Documents/Academia/Sistemas Distribuidos/workspace/carpeta-ciudadana-documents/src/test/resources
+2022-03-21 15:03:43,642 [Worker-493: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-03-21 15:03:43,642 [Worker-493: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-03-21 15:03:43,643 [Worker-493: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-03-21 15:03:43,675 [Worker-493: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-03-21 15:03:43,677 [Worker-493: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-03-21 15:03:43,677 [Worker-493: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-03-21 15:03:43,677 [Worker-493: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/juanpablogarciaurrea/Documents/Academia/Sistemas Distribuidos/workspace/carpeta-ciudadana-documents/src/test/resources
+2022-03-21 15:03:50,253 [Worker-492: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-03-21 15:03:50,254 [Worker-492: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-03-21 15:03:50,255 [Worker-492: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-03-21 15:03:50,307 [Worker-492: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-03-21 15:03:50,308 [Worker-492: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-03-21 15:03:50,308 [Worker-492: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-03-21 15:03:50,308 [Worker-492: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/juanpablogarciaurrea/Documents/Academia/Sistemas Distribuidos/workspace/carpeta-ciudadana-documents/src/test/resources
+2022-03-21 15:04:52,525 [Worker-496: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.carpetaciudadana.documents:carpeta-ciudadana-documents:0.0.1-SNAPSHOT @ /Users/juanpablogarciaurrea/Documents/Academia/Sistemas Distribuidos/workspace/carpeta-ciudadana-documents/pom.xml.
+2022-03-21 15:04:54,351 [Worker-481: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-03-21 15:04:54,352 [Worker-481: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-03-21 15:04:54,352 [Worker-481: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-03-21 15:04:54,393 [Worker-481: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-03-21 15:04:54,393 [Worker-481: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-03-21 15:04:54,393 [Worker-481: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-03-21 15:04:54,393 [Worker-481: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/juanpablogarciaurrea/Documents/Academia/Sistemas Distribuidos/workspace/carpeta-ciudadana-documents/src/test/resources
+2022-03-21 15:05:06,006 [Worker-473: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-03-21 15:05:06,007 [Worker-473: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-03-21 15:05:06,008 [Worker-473: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-03-21 15:05:06,020 [Worker-473: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-03-21 15:05:06,021 [Worker-473: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-03-21 15:05:06,021 [Worker-473: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-03-21 15:05:06,021 [Worker-473: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/juanpablogarciaurrea/Documents/Academia/Sistemas Distribuidos/workspace/carpeta-ciudadana-documents/src/test/resources
+2022-03-21 15:05:08,382 [Worker-465: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-03-21 15:05:08,382 [Worker-465: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-03-21 15:05:08,382 [Worker-465: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-03-21 15:05:08,383 [Worker-465: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-03-21 15:05:08,384 [Worker-465: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-03-21 15:05:08,384 [Worker-465: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-03-21 15:05:08,384 [Worker-465: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/juanpablogarciaurrea/Documents/Academia/Sistemas Distribuidos/workspace/carpeta-ciudadana-documents/src/test/resources
+2022-03-21 15:05:25,243 [Worker-484: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2022-03-21 15:05:25,712 [Worker-484: Updating Maven Project] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.carpetaciudadana.documents:carpeta-ciudadana-documents:0.0.1-SNAPSHOT @ /Users/juanpablogarciaurrea/Documents/Academia/Sistemas Distribuidos/workspace/carpeta-ciudadana-documents/pom.xml.
+2022-03-21 15:05:25,995 [Worker-484: Updating Maven Project] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.vobi.bank:api-gateway:0.0.1-SNAPSHOT @ /Users/juanpablogarciaurrea/Documents/Academia/Sistemas Distribuidos/workspace/api-gateway/pom.xml.
+2022-03-21 15:05:26,092 [Worker-484: Updating Maven Project] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.carpetaciudadana.user:carpeta-ciudadana-user:0.0.1-SNAPSHOT @ /Users/juanpablogarciaurrea/Documents/Academia/Sistemas Distribuidos/workspace/carpeta-ciudadana-users/pom.xml.
+2022-03-21 15:05:26,141 [Worker-484: Updating Maven Project] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.vobi.bank:eureka-server:0.0.1-SNAPSHOT @ /Users/juanpablogarciaurrea/Documents/Academia/Sistemas Distribuidos/workspace/eureka-server/pom.xml.
+2022-03-21 15:05:26,163 [Worker-484: Updating Maven Project] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.carpetaciudadana.authentication:carpeta-ciudadana-authentication:0.0.1-SNAPSHOT @ /Users/juanpablogarciaurrea/Documents/Academia/Sistemas Distribuidos/workspace/carpeta-ciudadana-authentication/pom.xml.
+2022-03-21 15:05:27,791 [Worker-484: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /carpeta-ciudadana-documents/src/main/java
+2022-03-21 15:05:27,791 [Worker-484: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /carpeta-ciudadana-documents/src/main/resources
+2022-03-21 15:05:27,791 [Worker-484: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /carpeta-ciudadana-documents/src/main/resources
+2022-03-21 15:05:27,791 [Worker-484: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /carpeta-ciudadana-documents/src/test/java
+2022-03-21 15:05:27,905 [Worker-484: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 2 sec
+2022-03-21 15:05:28,924 [Worker-473: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-03-21 15:05:28,926 [Worker-473: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-03-21 15:05:28,926 [Worker-473: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-03-21 15:05:28,927 [Worker-473: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-03-21 15:05:28,927 [Worker-473: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/juanpablogarciaurrea/Documents/Academia/Sistemas Distribuidos/workspace/api-gateway/src/test/resources
+2022-03-21 15:05:29,489 [Worker-473: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-03-21 15:05:29,490 [Worker-473: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-03-21 15:05:29,491 [Worker-473: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-03-21 15:05:29,491 [Worker-473: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-03-21 15:05:29,492 [Worker-473: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-03-21 15:05:29,492 [Worker-473: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-03-21 15:05:29,492 [Worker-473: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/juanpablogarciaurrea/Documents/Academia/Sistemas Distribuidos/workspace/carpeta-ciudadana-authentication/src/test/resources
+2022-03-21 15:05:30,618 [Worker-473: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-03-21 15:05:30,623 [Worker-473: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-03-21 15:05:30,627 [Worker-473: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-03-21 15:05:30,693 [Worker-473: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-03-21 15:05:30,694 [Worker-473: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-03-21 15:05:30,694 [Worker-473: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-03-21 15:05:30,694 [Worker-473: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/juanpablogarciaurrea/Documents/Academia/Sistemas Distribuidos/workspace/carpeta-ciudadana-documents/src/test/resources
+2022-03-21 15:05:31,302 [Worker-473: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-03-21 15:05:31,302 [Worker-473: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-03-21 15:05:31,302 [Worker-473: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-03-21 15:05:31,302 [Worker-473: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-03-21 15:05:31,303 [Worker-473: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-03-21 15:05:31,303 [Worker-473: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-03-21 15:05:31,303 [Worker-473: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/juanpablogarciaurrea/Documents/Academia/Sistemas Distribuidos/workspace/carpeta-ciudadana-users/src/test/resources
+2022-03-21 15:05:31,517 [Worker-473: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-03-21 15:05:31,517 [Worker-473: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-03-21 15:05:31,517 [Worker-473: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-03-21 15:05:31,517 [Worker-473: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-03-21 15:05:31,517 [Worker-473: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-03-21 15:05:31,517 [Worker-473: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-03-21 15:05:31,517 [Worker-473: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/juanpablogarciaurrea/Documents/Academia/Sistemas Distribuidos/workspace/eureka-server/src/test/resources
+2022-03-21 15:05:40,521 [Worker-492: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-03-21 15:05:40,521 [Worker-492: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-03-21 15:05:40,522 [Worker-492: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-03-21 15:05:40,546 [Worker-492: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-03-21 15:05:40,606 [Worker-492: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-03-21 15:05:40,606 [Worker-492: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-03-21 15:05:40,607 [Worker-492: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/juanpablogarciaurrea/Documents/Academia/Sistemas Distribuidos/workspace/carpeta-ciudadana-documents/src/test/resources
+2022-03-21 15:05:54,444 [Worker-496: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-03-21 15:05:54,446 [Worker-496: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-03-21 15:05:54,449 [Worker-496: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-03-21 15:05:54,474 [Worker-496: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-03-21 15:05:54,475 [Worker-496: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-03-21 15:05:54,475 [Worker-496: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-03-21 15:05:54,475 [Worker-496: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/juanpablogarciaurrea/Documents/Academia/Sistemas Distribuidos/workspace/carpeta-ciudadana-documents/src/test/resources
+2022-03-21 15:09:13,880 [Worker-492: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-03-21 15:09:13,884 [Worker-492: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-03-21 15:09:13,887 [Worker-492: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-03-21 15:09:13,984 [Worker-492: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-03-21 15:09:13,986 [Worker-492: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-03-21 15:09:13,986 [Worker-492: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-03-21 15:09:13,986 [Worker-492: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/juanpablogarciaurrea/Documents/Academia/Sistemas Distribuidos/workspace/carpeta-ciudadana-documents/src/test/resources
+2022-03-21 15:13:20,461 [Worker-493: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-03-21 15:13:20,464 [Worker-493: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-03-21 15:13:20,468 [Worker-493: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-03-21 15:13:20,650 [Worker-493: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-03-21 15:13:20,667 [Worker-493: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-03-21 15:13:20,668 [Worker-493: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-03-21 15:13:20,668 [Worker-493: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/juanpablogarciaurrea/Documents/Academia/Sistemas Distribuidos/workspace/carpeta-ciudadana-documents/src/test/resources
+2022-03-21 15:13:20,778 [Worker-480: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-03-21 15:13:20,778 [Worker-480: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-03-21 15:13:20,778 [Worker-480: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-03-21 15:13:20,823 [Worker-480: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-03-21 15:13:20,823 [Worker-480: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-03-21 15:13:20,823 [Worker-480: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-03-21 15:13:20,823 [Worker-480: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/juanpablogarciaurrea/Documents/Academia/Sistemas Distribuidos/workspace/carpeta-ciudadana-documents/src/test/resources
+2022-03-21 15:14:25,217 [Worker-492: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-03-21 15:14:25,219 [Worker-492: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-03-21 15:14:25,222 [Worker-492: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-03-21 15:14:25,285 [Worker-492: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-03-21 15:14:25,286 [Worker-492: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-03-21 15:14:25,286 [Worker-492: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-03-21 15:14:25,286 [Worker-492: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/juanpablogarciaurrea/Documents/Academia/Sistemas Distribuidos/workspace/carpeta-ciudadana-documents/src/test/resources
+2022-03-21 15:15:05,501 [Worker-465: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-03-21 15:15:05,502 [Worker-465: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-03-21 15:15:05,503 [Worker-465: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-03-21 15:15:05,519 [Worker-465: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-03-21 15:15:05,523 [Worker-465: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-03-21 15:15:05,523 [Worker-465: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-03-21 15:15:05,523 [Worker-465: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/juanpablogarciaurrea/Documents/Academia/Sistemas Distribuidos/workspace/carpeta-ciudadana-documents/src/test/resources
+2022-03-21 15:15:15,944 [Worker-494: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-03-21 15:15:15,944 [Worker-494: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-03-21 15:15:15,945 [Worker-494: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-03-21 15:15:15,964 [Worker-494: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-03-21 15:15:15,965 [Worker-494: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-03-21 15:15:15,965 [Worker-494: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-03-21 15:15:15,965 [Worker-494: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/juanpablogarciaurrea/Documents/Academia/Sistemas Distribuidos/workspace/carpeta-ciudadana-documents/src/test/resources
+2022-03-21 15:18:36,420 [Worker-493: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-03-21 15:18:36,422 [Worker-493: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-03-21 15:18:36,422 [Worker-493: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-03-21 15:18:36,456 [Worker-493: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-03-21 15:18:36,457 [Worker-493: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-03-21 15:18:36,457 [Worker-493: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-03-21 15:18:36,457 [Worker-493: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/juanpablogarciaurrea/Documents/Academia/Sistemas Distribuidos/workspace/carpeta-ciudadana-documents/src/test/resources
+2022-03-21 15:18:51,093 [Worker-465: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-03-21 15:18:51,097 [Worker-465: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-03-21 15:18:51,100 [Worker-465: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-03-21 15:18:51,152 [Worker-465: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-03-21 15:18:51,158 [Worker-465: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-03-21 15:18:51,158 [Worker-465: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-03-21 15:18:51,158 [Worker-465: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/juanpablogarciaurrea/Documents/Academia/Sistemas Distribuidos/workspace/carpeta-ciudadana-documents/src/test/resources
+2022-03-21 15:19:16,786 [Worker-484: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-03-21 15:19:16,790 [Worker-484: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-03-21 15:19:16,791 [Worker-484: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-03-21 15:19:16,814 [Worker-484: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-03-21 15:19:16,818 [Worker-484: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-03-21 15:19:16,818 [Worker-484: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-03-21 15:19:16,818 [Worker-484: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/juanpablogarciaurrea/Documents/Academia/Sistemas Distribuidos/workspace/carpeta-ciudadana-documents/src/test/resources
+2022-03-21 15:20:35,525 [Worker-473: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-03-21 15:20:35,526 [Worker-473: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-03-21 15:20:35,527 [Worker-473: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-03-21 15:20:35,551 [Worker-473: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-03-21 15:20:35,554 [Worker-473: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-03-21 15:20:35,554 [Worker-473: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-03-21 15:20:35,554 [Worker-473: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/juanpablogarciaurrea/Documents/Academia/Sistemas Distribuidos/workspace/carpeta-ciudadana-documents/src/test/resources
+2022-03-21 15:21:28,227 [Worker-497: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-03-21 15:21:28,231 [Worker-497: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-03-21 15:21:28,232 [Worker-497: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-03-21 15:21:28,247 [Worker-497: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-03-21 15:21:28,248 [Worker-497: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-03-21 15:21:28,248 [Worker-497: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-03-21 15:21:28,248 [Worker-497: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/juanpablogarciaurrea/Documents/Academia/Sistemas Distribuidos/workspace/carpeta-ciudadana-documents/src/test/resources
+2022-03-21 15:21:31,988 [Worker-499: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-03-21 15:21:31,988 [Worker-499: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-03-21 15:21:31,989 [Worker-499: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-03-21 15:21:32,004 [Worker-499: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-03-21 15:21:32,005 [Worker-499: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-03-21 15:21:32,005 [Worker-499: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-03-21 15:21:32,005 [Worker-499: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/juanpablogarciaurrea/Documents/Academia/Sistemas Distribuidos/workspace/carpeta-ciudadana-documents/src/test/resources
+2022-03-21 15:22:37,362 [Worker-473: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-03-21 15:22:37,369 [Worker-473: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-03-21 15:22:37,374 [Worker-473: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-03-21 15:22:37,585 [Worker-473: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-03-21 15:22:37,588 [Worker-473: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-03-21 15:22:37,588 [Worker-473: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-03-21 15:22:37,588 [Worker-473: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/juanpablogarciaurrea/Documents/Academia/Sistemas Distribuidos/workspace/carpeta-ciudadana-documents/src/test/resources
+2022-03-21 15:27:10,607 [Worker-501: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-03-21 15:27:10,611 [Worker-501: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-03-21 15:27:10,613 [Worker-501: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-03-21 15:27:10,687 [Worker-501: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-03-21 15:27:10,691 [Worker-501: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-03-21 15:27:10,691 [Worker-501: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-03-21 15:27:10,691 [Worker-501: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/juanpablogarciaurrea/Documents/Academia/Sistemas Distribuidos/workspace/carpeta-ciudadana-documents/src/test/resources
+2022-03-21 15:27:17,589 [Worker-501: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-03-21 15:27:17,589 [Worker-501: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-03-21 15:27:17,590 [Worker-501: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-03-21 15:27:17,643 [Worker-501: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-03-21 15:27:17,644 [Worker-501: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-03-21 15:27:17,644 [Worker-501: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-03-21 15:27:17,644 [Worker-501: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/juanpablogarciaurrea/Documents/Academia/Sistemas Distribuidos/workspace/carpeta-ciudadana-documents/src/test/resources
+2022-03-21 15:27:31,743 [Worker-500: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-03-21 15:27:31,744 [Worker-500: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-03-21 15:27:31,744 [Worker-500: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-03-21 15:27:31,755 [Worker-500: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-03-21 15:27:31,757 [Worker-500: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-03-21 15:27:31,757 [Worker-500: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-03-21 15:27:31,757 [Worker-500: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/juanpablogarciaurrea/Documents/Academia/Sistemas Distribuidos/workspace/carpeta-ciudadana-documents/src/test/resources
+2022-03-21 15:28:39,818 [Worker-501: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-03-21 15:28:39,818 [Worker-501: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-03-21 15:28:39,819 [Worker-501: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-03-21 15:28:39,836 [Worker-501: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-03-21 15:28:39,836 [Worker-501: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-03-21 15:28:39,836 [Worker-501: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-03-21 15:28:39,836 [Worker-501: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/juanpablogarciaurrea/Documents/Academia/Sistemas Distribuidos/workspace/carpeta-ciudadana-documents/src/test/resources
+2022-03-21 15:28:45,170 [Worker-484: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-03-21 15:28:45,170 [Worker-484: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-03-21 15:28:45,170 [Worker-484: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-03-21 15:28:45,186 [Worker-484: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-03-21 15:28:45,187 [Worker-484: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-03-21 15:28:45,187 [Worker-484: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-03-21 15:28:45,187 [Worker-484: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/juanpablogarciaurrea/Documents/Academia/Sistemas Distribuidos/workspace/carpeta-ciudadana-documents/src/test/resources
+2022-03-21 15:30:39,983 [Worker-503: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-03-21 15:30:39,983 [Worker-503: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-03-21 15:30:39,983 [Worker-503: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-03-21 15:30:40,061 [Worker-503: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-03-21 15:30:40,062 [Worker-503: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-03-21 15:30:40,062 [Worker-503: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-03-21 15:30:40,062 [Worker-503: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/juanpablogarciaurrea/Documents/Academia/Sistemas Distribuidos/workspace/carpeta-ciudadana-documents/src/test/resources
+2022-03-21 15:30:42,324 [Worker-504: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-03-21 15:30:42,325 [Worker-504: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-03-21 15:30:42,325 [Worker-504: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-03-21 15:30:42,326 [Worker-504: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-03-21 15:30:42,327 [Worker-504: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-03-21 15:30:42,327 [Worker-504: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-03-21 15:30:42,327 [Worker-504: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/juanpablogarciaurrea/Documents/Academia/Sistemas Distribuidos/workspace/carpeta-ciudadana-documents/src/test/resources
+2022-03-21 15:31:30,345 [Worker-500: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-03-21 15:31:30,349 [Worker-500: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-03-21 15:31:30,354 [Worker-500: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-03-21 15:31:30,516 [Worker-500: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-03-21 15:31:30,521 [Worker-500: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-03-21 15:31:30,521 [Worker-500: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-03-21 15:31:30,521 [Worker-500: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/juanpablogarciaurrea/Documents/Academia/Sistemas Distribuidos/workspace/carpeta-ciudadana-documents/src/test/resources
+2022-03-21 15:35:54,884 [Worker-505: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-03-21 15:35:54,885 [Worker-505: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-03-21 15:35:54,885 [Worker-505: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-03-21 15:35:54,984 [Worker-505: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-03-21 15:35:54,985 [Worker-505: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-03-21 15:35:54,985 [Worker-505: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-03-21 15:35:54,985 [Worker-505: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/juanpablogarciaurrea/Documents/Academia/Sistemas Distribuidos/workspace/carpeta-ciudadana-documents/src/test/resources
+2022-03-21 15:36:06,622 [Worker-501: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-03-21 15:36:06,623 [Worker-501: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-03-21 15:36:06,623 [Worker-501: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-03-21 15:36:06,670 [Worker-501: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-03-21 15:36:06,671 [Worker-501: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-03-21 15:36:06,671 [Worker-501: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-03-21 15:36:06,671 [Worker-501: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/juanpablogarciaurrea/Documents/Academia/Sistemas Distribuidos/workspace/carpeta-ciudadana-documents/src/test/resources
+2022-03-21 16:09:11,134 [Worker-517: Import Getting Started Content] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.carpetaciudadana.config:config-server:0.0.1-SNAPSHOT @ /Users/juanpablogarciaurrea/Documents/Academia/Sistemas Distribuidos/workspace/config-server/pom.xml.
+2022-03-21 16:09:14,821 [Worker-517: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /config-server/src/main/java
+2022-03-21 16:09:14,823 [Worker-517: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /config-server/src/main/resources
+2022-03-21 16:09:14,824 [Worker-517: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /config-server/src/main/resources
+2022-03-21 16:09:14,832 [Worker-517: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /config-server/src/test/java
+2022-03-21 16:09:15,480 [Worker-517: Import Getting Started Content] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Imported and configured 1 project(s) in 7 sec
+2022-03-21 16:09:15,510 [Worker-517: Import Getting Started Content] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2022-03-21 16:09:15,977 [Worker-517: Import Getting Started Content] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.carpetaciudadana.config:config-server:0.0.1-SNAPSHOT @ /Users/juanpablogarciaurrea/Documents/Academia/Sistemas Distribuidos/workspace/config-server/pom.xml.
+2022-03-21 16:09:18,845 [Worker-517: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /config-server/src/main/java
+2022-03-21 16:09:18,846 [Worker-517: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /config-server/src/main/resources
+2022-03-21 16:09:18,846 [Worker-517: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /config-server/src/main/resources
+2022-03-21 16:09:18,846 [Worker-517: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /config-server/src/test/java
+2022-03-21 16:09:18,948 [Worker-517: Import Getting Started Content] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 3 sec
+2022-03-21 16:09:19,411 [Worker-501: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-03-21 16:09:19,411 [Worker-501: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-03-21 16:09:19,413 [Worker-501: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-03-21 16:09:19,418 [Worker-501: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-03-21 16:09:19,421 [Worker-501: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-03-21 16:09:19,421 [Worker-501: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-03-21 16:09:19,421 [Worker-501: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/juanpablogarciaurrea/Documents/Academia/Sistemas Distribuidos/workspace/config-server/src/test/resources
+2022-03-21 16:10:28,042 [Worker-517: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-03-21 16:10:28,047 [Worker-517: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-03-21 16:10:28,048 [Worker-517: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-03-21 16:10:28,620 [Worker-517: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-03-21 16:10:28,625 [Worker-517: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-03-21 16:10:28,625 [Worker-517: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-03-21 16:10:28,625 [Worker-517: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/juanpablogarciaurrea/Documents/Academia/Sistemas Distribuidos/workspace/config-server/src/test/resources
+2022-03-21 16:11:22,030 [Worker-517: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-03-21 16:11:22,078 [Worker-517: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-03-21 16:11:22,087 [Worker-517: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-03-21 16:11:22,265 [Worker-517: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-03-21 16:11:22,271 [Worker-517: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-03-21 16:11:22,271 [Worker-517: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-03-21 16:11:22,271 [Worker-517: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/juanpablogarciaurrea/Documents/Academia/Sistemas Distribuidos/workspace/config-server/src/test/resources
+2022-03-21 16:11:22,446 [Worker-516: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-03-21 16:11:22,447 [Worker-516: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-03-21 16:11:22,447 [Worker-516: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-03-21 16:11:22,578 [Worker-516: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-03-21 16:11:22,595 [Worker-516: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-03-21 16:11:22,595 [Worker-516: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-03-21 16:11:22,595 [Worker-516: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/juanpablogarciaurrea/Documents/Academia/Sistemas Distribuidos/workspace/config-server/src/test/resources
+2022-03-21 16:12:39,682 [Worker-520: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-03-21 16:12:39,686 [Worker-520: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-03-21 16:12:39,691 [Worker-520: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-03-21 16:12:39,925 [Worker-520: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-03-21 16:12:39,931 [Worker-520: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-03-21 16:12:39,931 [Worker-520: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-03-21 16:12:39,931 [Worker-520: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/juanpablogarciaurrea/Documents/Academia/Sistemas Distribuidos/workspace/config-server/src/test/resources
+2022-03-21 16:12:40,089 [Worker-518: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-03-21 16:12:40,089 [Worker-518: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-03-21 16:12:40,090 [Worker-518: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-03-21 16:12:40,222 [Worker-518: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-03-21 16:12:40,224 [Worker-518: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-03-21 16:12:40,224 [Worker-518: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-03-21 16:12:40,224 [Worker-518: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/juanpablogarciaurrea/Documents/Academia/Sistemas Distribuidos/workspace/config-server/src/test/resources
+2022-03-21 16:12:46,594 [Worker-522: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-03-21 16:12:46,594 [Worker-522: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-03-21 16:12:46,594 [Worker-522: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-03-21 16:12:46,726 [Worker-522: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-03-21 16:12:46,732 [Worker-522: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-03-21 16:12:46,732 [Worker-522: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-03-21 16:12:46,732 [Worker-522: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/juanpablogarciaurrea/Documents/Academia/Sistemas Distribuidos/workspace/config-server/src/test/resources
+2022-03-21 16:12:46,839 [Worker-522: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-03-21 16:12:46,839 [Worker-522: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-03-21 16:12:46,839 [Worker-522: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-03-21 16:12:46,972 [Worker-522: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-03-21 16:12:46,975 [Worker-522: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-03-21 16:12:46,975 [Worker-522: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-03-21 16:12:46,975 [Worker-522: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/juanpablogarciaurrea/Documents/Academia/Sistemas Distribuidos/workspace/config-server/src/test/resources
+2022-03-21 16:21:15,831 [Worker-525: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2022-03-21 16:21:16,212 [Worker-525: Updating Maven Project] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.carpetaciudadana.authentication:carpeta-ciudadana-authentication:0.0.1-SNAPSHOT @ /Users/juanpablogarciaurrea/Documents/Academia/Sistemas Distribuidos/workspace/carpeta-ciudadana-authentication/pom.xml.
+2022-03-21 16:21:17,843 [Worker-525: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /carpeta-ciudadana-authentication/src/main/java
+2022-03-21 16:21:17,843 [Worker-525: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /carpeta-ciudadana-authentication/src/main/resources
+2022-03-21 16:21:17,843 [Worker-525: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /carpeta-ciudadana-authentication/src/main/resources
+2022-03-21 16:21:17,844 [Worker-525: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /carpeta-ciudadana-authentication/src/test/java
+2022-03-21 16:21:18,721 [Worker-525: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 2 sec
+2022-03-21 16:21:20,315 [Worker-524: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-03-21 16:21:20,317 [Worker-524: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-03-21 16:21:20,321 [Worker-524: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-03-21 16:21:20,325 [Worker-524: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-03-21 16:21:20,327 [Worker-524: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-03-21 16:21:20,327 [Worker-524: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-03-21 16:21:20,327 [Worker-524: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/juanpablogarciaurrea/Documents/Academia/Sistemas Distribuidos/workspace/carpeta-ciudadana-authentication/src/test/resources
+2022-03-21 16:21:20,502 [Worker-484: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-03-21 16:21:20,502 [Worker-484: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-03-21 16:21:20,502 [Worker-484: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-03-21 16:21:20,632 [Worker-484: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-03-21 16:21:20,635 [Worker-484: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-03-21 16:21:20,635 [Worker-484: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-03-21 16:21:20,635 [Worker-484: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/juanpablogarciaurrea/Documents/Academia/Sistemas Distribuidos/workspace/carpeta-ciudadana-authentication/src/test/resources
+2022-03-21 16:21:34,439 [Worker-484: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2022-03-21 16:21:34,568 [Worker-484: Updating Maven Project] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.carpetaciudadana.documents:carpeta-ciudadana-documents:0.0.1-SNAPSHOT @ /Users/juanpablogarciaurrea/Documents/Academia/Sistemas Distribuidos/workspace/carpeta-ciudadana-documents/pom.xml.
+2022-03-21 16:21:35,284 [Worker-484: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /carpeta-ciudadana-documents/src/main/java
+2022-03-21 16:21:35,284 [Worker-484: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /carpeta-ciudadana-documents/src/main/resources
+2022-03-21 16:21:35,284 [Worker-484: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /carpeta-ciudadana-documents/src/main/resources
+2022-03-21 16:21:35,284 [Worker-484: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /carpeta-ciudadana-documents/src/test/java
+2022-03-21 16:21:35,608 [Worker-484: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 1 sec
+2022-03-21 16:21:36,878 [Worker-518: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-03-21 16:21:36,879 [Worker-518: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-03-21 16:21:36,879 [Worker-518: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-03-21 16:21:36,891 [Worker-518: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-03-21 16:21:36,894 [Worker-518: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-03-21 16:21:36,894 [Worker-518: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-03-21 16:21:36,894 [Worker-518: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/juanpablogarciaurrea/Documents/Academia/Sistemas Distribuidos/workspace/carpeta-ciudadana-documents/src/test/resources
+2022-03-21 16:21:52,700 [Worker-518: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2022-03-21 16:21:53,699 [Worker-518: Updating Maven Project] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.carpetaciudadana.user:carpeta-ciudadana-user:0.0.1-SNAPSHOT @ /Users/juanpablogarciaurrea/Documents/Academia/Sistemas Distribuidos/workspace/carpeta-ciudadana-users/pom.xml.
+2022-03-21 16:21:54,567 [Worker-518: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /carpeta-ciudadana-users/src/main/java
+2022-03-21 16:21:54,568 [Worker-518: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /carpeta-ciudadana-users/src/main/resources
+2022-03-21 16:21:54,568 [Worker-518: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /carpeta-ciudadana-users/src/main/resources
+2022-03-21 16:21:54,568 [Worker-518: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /carpeta-ciudadana-users/src/test/java
+2022-03-21 16:21:55,062 [Worker-518: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 2 sec
+2022-03-21 16:21:56,395 [Worker-519: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-03-21 16:21:56,397 [Worker-519: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-03-21 16:21:56,399 [Worker-519: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-03-21 16:21:56,404 [Worker-519: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-03-21 16:21:56,405 [Worker-519: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-03-21 16:21:56,405 [Worker-519: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-03-21 16:21:56,405 [Worker-519: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/juanpablogarciaurrea/Documents/Academia/Sistemas Distribuidos/workspace/carpeta-ciudadana-users/src/test/resources
+2022-03-21 16:23:20,134 [Worker-525: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-03-21 16:23:20,149 [Worker-525: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-03-21 16:23:20,157 [Worker-525: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-03-21 16:23:20,161 [Worker-525: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-03-21 16:23:20,199 [Worker-525: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-03-21 16:23:20,199 [Worker-525: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-03-21 16:23:20,199 [Worker-525: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/juanpablogarciaurrea/Documents/Academia/Sistemas Distribuidos/workspace/carpeta-ciudadana-authentication/src/test/resources
+2022-03-21 16:23:31,672 [Worker-511: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-03-21 16:23:31,672 [Worker-511: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-03-21 16:23:31,673 [Worker-511: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-03-21 16:23:31,673 [Worker-511: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-03-21 16:23:31,674 [Worker-511: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-03-21 16:23:31,674 [Worker-511: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-03-21 16:23:31,674 [Worker-511: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/juanpablogarciaurrea/Documents/Academia/Sistemas Distribuidos/workspace/carpeta-ciudadana-authentication/src/test/resources
+2022-03-21 16:24:15,855 [Worker-519: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-03-21 16:24:15,863 [Worker-519: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-03-21 16:24:15,867 [Worker-519: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-03-21 16:24:15,869 [Worker-519: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-03-21 16:24:15,900 [Worker-519: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-03-21 16:24:15,900 [Worker-519: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-03-21 16:24:15,900 [Worker-519: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/juanpablogarciaurrea/Documents/Academia/Sistemas Distribuidos/workspace/carpeta-ciudadana-authentication/src/test/resources
+2022-03-21 16:24:16,029 [Worker-523: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-03-21 16:24:16,029 [Worker-523: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-03-21 16:24:16,029 [Worker-523: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-03-21 16:24:16,078 [Worker-523: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-03-21 16:24:16,079 [Worker-523: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-03-21 16:24:16,079 [Worker-523: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-03-21 16:24:16,079 [Worker-523: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/juanpablogarciaurrea/Documents/Academia/Sistemas Distribuidos/workspace/carpeta-ciudadana-authentication/src/test/resources
+2022-03-21 16:37:49,200 [Worker-527: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-03-21 16:37:49,206 [Worker-527: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-03-21 16:37:49,209 [Worker-527: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-03-21 16:37:49,213 [Worker-527: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-03-21 16:37:49,226 [Worker-527: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-03-21 16:37:49,226 [Worker-527: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-03-21 16:37:49,226 [Worker-527: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/juanpablogarciaurrea/Documents/Academia/Sistemas Distribuidos/workspace/carpeta-ciudadana-authentication/src/test/resources
+2022-03-21 16:47:00,414 [Worker-531: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-03-21 16:47:00,416 [Worker-531: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-03-21 16:47:00,417 [Worker-531: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-03-21 16:47:00,420 [Worker-531: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-03-21 16:47:00,421 [Worker-531: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-03-21 16:47:00,421 [Worker-531: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-03-21 16:47:00,421 [Worker-531: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/juanpablogarciaurrea/Documents/Academia/Sistemas Distribuidos/workspace/carpeta-ciudadana-authentication/src/test/resources
+2022-03-21 16:49:11,697 [Worker-530: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-03-21 16:49:11,698 [Worker-530: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-03-21 16:49:11,698 [Worker-530: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-03-21 16:49:11,812 [Worker-530: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-03-21 16:49:11,813 [Worker-530: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-03-21 16:49:11,813 [Worker-530: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-03-21 16:49:11,813 [Worker-530: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/juanpablogarciaurrea/Documents/Academia/Sistemas Distribuidos/workspace/config-server/src/test/resources
+2022-03-21 16:49:11,923 [Worker-532: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-03-21 16:49:11,923 [Worker-532: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-03-21 16:49:11,923 [Worker-532: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-03-21 16:49:12,032 [Worker-532: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-03-21 16:49:12,032 [Worker-532: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-03-21 16:49:12,032 [Worker-532: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-03-21 16:49:12,032 [Worker-532: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/juanpablogarciaurrea/Documents/Academia/Sistemas Distribuidos/workspace/config-server/src/test/resources
+2022-03-21 16:50:50,888 [Worker-523: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-03-21 16:50:50,891 [Worker-523: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-03-21 16:50:50,891 [Worker-523: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-03-21 16:50:50,893 [Worker-523: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-03-21 16:50:50,901 [Worker-523: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-03-21 16:50:50,901 [Worker-523: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-03-21 16:50:50,901 [Worker-523: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/juanpablogarciaurrea/Documents/Academia/Sistemas Distribuidos/workspace/carpeta-ciudadana-authentication/src/test/resources
+2022-03-21 16:51:04,332 [Worker-532: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-03-21 16:51:04,332 [Worker-532: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-03-21 16:51:04,334 [Worker-532: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-03-21 16:51:04,334 [Worker-532: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-03-21 16:51:04,337 [Worker-532: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-03-21 16:51:04,337 [Worker-532: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-03-21 16:51:04,337 [Worker-532: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/juanpablogarciaurrea/Documents/Academia/Sistemas Distribuidos/workspace/carpeta-ciudadana-authentication/src/test/resources
+2022-03-21 16:55:40,838 [Worker-539: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2022-03-21 16:55:42,332 [Worker-539: Updating Maven Project] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.carpetaciudadana.config:config-server:0.0.1-SNAPSHOT @ /Users/juanpablogarciaurrea/Documents/Academia/Sistemas Distribuidos/workspace/config-server/pom.xml.
+2022-03-21 16:55:42,858 [Worker-539: Updating Maven Project] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.vobi.bank:api-gateway:0.0.1-SNAPSHOT @ /Users/juanpablogarciaurrea/Documents/Academia/Sistemas Distribuidos/workspace/api-gateway/pom.xml.
+2022-03-21 16:55:43,114 [Worker-539: Updating Maven Project] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.carpetaciudadana.user:carpeta-ciudadana-user:0.0.1-SNAPSHOT @ /Users/juanpablogarciaurrea/Documents/Academia/Sistemas Distribuidos/workspace/carpeta-ciudadana-users/pom.xml.
+2022-03-21 16:55:43,198 [Worker-539: Updating Maven Project] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.vobi.bank:eureka-server:0.0.1-SNAPSHOT @ /Users/juanpablogarciaurrea/Documents/Academia/Sistemas Distribuidos/workspace/eureka-server/pom.xml.
+2022-03-21 16:55:43,232 [Worker-539: Updating Maven Project] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.carpetaciudadana.authentication:carpeta-ciudadana-authentication:0.0.1-SNAPSHOT @ /Users/juanpablogarciaurrea/Documents/Academia/Sistemas Distribuidos/workspace/carpeta-ciudadana-authentication/pom.xml.
+2022-03-21 16:55:45,616 [Worker-539: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /carpeta-ciudadana-authentication/src/main/java
+2022-03-21 16:55:45,617 [Worker-539: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /carpeta-ciudadana-authentication/src/main/resources
+2022-03-21 16:55:45,617 [Worker-539: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /carpeta-ciudadana-authentication/src/main/resources
+2022-03-21 16:55:45,617 [Worker-539: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /carpeta-ciudadana-authentication/src/test/java
+2022-03-21 16:55:45,820 [Worker-539: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 4 sec
+2022-03-21 16:55:47,564 [Worker-535: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-03-21 16:55:47,576 [Worker-535: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-03-21 16:55:47,588 [Worker-535: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-03-21 16:55:47,591 [Worker-535: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-03-21 16:55:47,591 [Worker-535: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/juanpablogarciaurrea/Documents/Academia/Sistemas Distribuidos/workspace/api-gateway/src/test/resources
+2022-03-21 16:55:49,366 [Worker-535: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-03-21 16:55:49,366 [Worker-535: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-03-21 16:55:49,368 [Worker-535: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-03-21 16:55:49,368 [Worker-535: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-03-21 16:55:49,377 [Worker-535: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-03-21 16:55:49,377 [Worker-535: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-03-21 16:55:49,377 [Worker-535: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/juanpablogarciaurrea/Documents/Academia/Sistemas Distribuidos/workspace/carpeta-ciudadana-authentication/src/test/resources
+2022-03-21 16:55:49,509 [Worker-535: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-03-21 16:55:49,509 [Worker-535: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-03-21 16:55:49,510 [Worker-535: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-03-21 16:55:49,510 [Worker-535: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-03-21 16:55:49,510 [Worker-535: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-03-21 16:55:49,510 [Worker-535: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-03-21 16:55:49,510 [Worker-535: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/juanpablogarciaurrea/Documents/Academia/Sistemas Distribuidos/workspace/carpeta-ciudadana-users/src/test/resources
+2022-03-21 16:55:49,611 [Worker-535: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-03-21 16:55:49,611 [Worker-535: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-03-21 16:55:49,611 [Worker-535: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-03-21 16:55:49,611 [Worker-535: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-03-21 16:55:49,611 [Worker-535: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-03-21 16:55:49,611 [Worker-535: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-03-21 16:55:49,611 [Worker-535: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/juanpablogarciaurrea/Documents/Academia/Sistemas Distribuidos/workspace/config-server/src/test/resources
+2022-03-21 16:55:50,279 [Worker-535: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-03-21 16:55:50,282 [Worker-535: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-03-21 16:55:50,282 [Worker-535: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-03-21 16:55:50,282 [Worker-535: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-03-21 16:55:50,283 [Worker-535: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-03-21 16:55:50,283 [Worker-535: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-03-21 16:55:50,283 [Worker-535: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/juanpablogarciaurrea/Documents/Academia/Sistemas Distribuidos/workspace/eureka-server/src/test/resources
+2022-03-21 16:57:21,972 [Worker-541: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-03-21 16:57:21,975 [Worker-541: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-03-21 16:57:21,981 [Worker-541: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-03-21 16:57:22,102 [Worker-541: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-03-21 16:57:22,103 [Worker-541: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-03-21 16:57:22,103 [Worker-541: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-03-21 16:57:22,103 [Worker-541: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/juanpablogarciaurrea/Documents/Academia/Sistemas Distribuidos/workspace/config-server/src/test/resources
+2022-03-21 17:00:23,823 [Worker-544: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.carpetaciudadana.authentication:carpeta-ciudadana-authentication:0.0.1-SNAPSHOT @ /Users/juanpablogarciaurrea/Documents/Academia/Sistemas Distribuidos/workspace/carpeta-ciudadana-authentication/pom.xml.
+2022-03-21 17:00:24,781 [Worker-544: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-03-21 17:00:24,781 [Worker-544: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-03-21 17:00:24,782 [Worker-544: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-03-21 17:00:24,783 [Worker-544: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-03-21 17:00:24,786 [Worker-544: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-03-21 17:00:24,786 [Worker-544: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-03-21 17:00:24,786 [Worker-544: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/juanpablogarciaurrea/Documents/Academia/Sistemas Distribuidos/workspace/carpeta-ciudadana-authentication/src/test/resources
+2022-03-21 17:00:27,663 [Worker-538: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-03-21 17:00:27,664 [Worker-538: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-03-21 17:00:27,665 [Worker-538: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-03-21 17:00:27,666 [Worker-538: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-03-21 17:00:27,673 [Worker-538: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-03-21 17:00:27,673 [Worker-538: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-03-21 17:00:27,673 [Worker-538: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/juanpablogarciaurrea/Documents/Academia/Sistemas Distribuidos/workspace/carpeta-ciudadana-authentication/src/test/resources
+2022-03-21 17:00:34,208 [Worker-545: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2022-03-21 17:00:35,175 [Worker-545: Updating Maven Project] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.carpetaciudadana.config:config-server:0.0.1-SNAPSHOT @ /Users/juanpablogarciaurrea/Documents/Academia/Sistemas Distribuidos/workspace/config-server/pom.xml.
+2022-03-21 17:00:35,269 [Worker-545: Updating Maven Project] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.carpetaciudadana.user:carpeta-ciudadana-user:0.0.1-SNAPSHOT @ /Users/juanpablogarciaurrea/Documents/Academia/Sistemas Distribuidos/workspace/carpeta-ciudadana-users/pom.xml.
+2022-03-21 17:00:35,369 [Worker-545: Updating Maven Project] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.vobi.bank:eureka-server:0.0.1-SNAPSHOT @ /Users/juanpablogarciaurrea/Documents/Academia/Sistemas Distribuidos/workspace/eureka-server/pom.xml.
+2022-03-21 17:00:35,399 [Worker-545: Updating Maven Project] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.carpetaciudadana.authentication:carpeta-ciudadana-authentication:0.0.1-SNAPSHOT @ /Users/juanpablogarciaurrea/Documents/Academia/Sistemas Distribuidos/workspace/carpeta-ciudadana-authentication/pom.xml.
+2022-03-21 17:00:38,042 [Worker-545: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /carpeta-ciudadana-authentication/src/main/java
+2022-03-21 17:00:38,042 [Worker-545: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /carpeta-ciudadana-authentication/src/main/resources
+2022-03-21 17:00:38,042 [Worker-545: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /carpeta-ciudadana-authentication/src/main/resources
+2022-03-21 17:00:38,042 [Worker-545: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /carpeta-ciudadana-authentication/src/test/java
+2022-03-21 17:00:38,370 [Worker-545: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 4 sec
+2022-03-21 17:00:41,087 [Worker-538: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-03-21 17:00:41,092 [Worker-538: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-03-21 17:00:41,092 [Worker-538: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-03-21 17:00:41,092 [Worker-538: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-03-21 17:00:41,133 [Worker-538: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-03-21 17:00:41,133 [Worker-538: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-03-21 17:00:41,133 [Worker-538: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/juanpablogarciaurrea/Documents/Academia/Sistemas Distribuidos/workspace/carpeta-ciudadana-authentication/src/test/resources
+2022-03-21 17:00:41,792 [Worker-538: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-03-21 17:00:41,792 [Worker-538: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-03-21 17:00:41,793 [Worker-538: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-03-21 17:00:41,793 [Worker-538: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-03-21 17:00:41,793 [Worker-538: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-03-21 17:00:41,793 [Worker-538: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-03-21 17:00:41,793 [Worker-538: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/juanpablogarciaurrea/Documents/Academia/Sistemas Distribuidos/workspace/carpeta-ciudadana-users/src/test/resources
+2022-03-21 17:00:41,903 [Worker-538: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-03-21 17:00:41,903 [Worker-538: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-03-21 17:00:41,903 [Worker-538: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-03-21 17:00:41,903 [Worker-538: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-03-21 17:00:41,904 [Worker-538: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-03-21 17:00:41,904 [Worker-538: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-03-21 17:00:41,904 [Worker-538: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/juanpablogarciaurrea/Documents/Academia/Sistemas Distribuidos/workspace/config-server/src/test/resources
+2022-03-21 17:00:42,291 [Worker-538: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-03-21 17:00:42,292 [Worker-538: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-03-21 17:00:42,292 [Worker-538: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-03-21 17:00:42,292 [Worker-538: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-03-21 17:00:42,292 [Worker-538: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-03-21 17:00:42,292 [Worker-538: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-03-21 17:00:42,292 [Worker-538: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/juanpablogarciaurrea/Documents/Academia/Sistemas Distribuidos/workspace/eureka-server/src/test/resources
+2022-03-21 17:01:14,725 [Worker-548: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.carpetaciudadana.documents:carpeta-ciudadana-documents:0.0.1-SNAPSHOT @ /Users/juanpablogarciaurrea/Documents/Academia/Sistemas Distribuidos/workspace/carpeta-ciudadana-documents/pom.xml.
+2022-03-21 17:01:16,085 [Worker-548: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-03-21 17:01:16,085 [Worker-548: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-03-21 17:01:16,087 [Worker-548: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-03-21 17:01:16,281 [Worker-548: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-03-21 17:01:16,281 [Worker-548: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-03-21 17:01:16,281 [Worker-548: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-03-21 17:01:16,281 [Worker-548: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/juanpablogarciaurrea/Documents/Academia/Sistemas Distribuidos/workspace/carpeta-ciudadana-documents/src/test/resources
+2022-03-21 17:01:18,160 [Worker-543: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-03-21 17:01:18,160 [Worker-543: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-03-21 17:01:18,160 [Worker-543: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-03-21 17:01:18,175 [Worker-543: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-03-21 17:01:18,177 [Worker-543: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-03-21 17:01:18,178 [Worker-543: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-03-21 17:01:18,178 [Worker-543: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/juanpablogarciaurrea/Documents/Academia/Sistemas Distribuidos/workspace/carpeta-ciudadana-documents/src/test/resources
+2022-03-21 17:02:05,526 [Worker-547: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-03-21 17:02:05,534 [Worker-547: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-03-21 17:02:05,542 [Worker-547: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-03-21 17:02:05,544 [Worker-547: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-03-21 17:02:05,546 [Worker-547: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-03-21 17:02:05,546 [Worker-547: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-03-21 17:02:05,546 [Worker-547: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/juanpablogarciaurrea/Documents/Academia/Sistemas Distribuidos/workspace/carpeta-ciudadana-documents/src/test/resources
+2022-03-21 17:02:05,658 [Worker-547: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-03-21 17:02:05,658 [Worker-547: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-03-21 17:02:05,658 [Worker-547: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-03-21 17:02:05,658 [Worker-547: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-03-21 17:02:05,669 [Worker-547: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-03-21 17:02:05,669 [Worker-547: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-03-21 17:02:05,669 [Worker-547: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/juanpablogarciaurrea/Documents/Academia/Sistemas Distribuidos/workspace/carpeta-ciudadana-documents/src/test/resources
+2022-03-21 17:02:12,296 [Worker-548: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-03-21 17:02:12,297 [Worker-548: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-03-21 17:02:12,297 [Worker-548: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-03-21 17:02:12,297 [Worker-548: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-03-21 17:02:12,298 [Worker-548: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-03-21 17:02:12,298 [Worker-548: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-03-21 17:02:12,298 [Worker-548: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/juanpablogarciaurrea/Documents/Academia/Sistemas Distribuidos/workspace/carpeta-ciudadana-documents/src/test/resources
+2022-03-21 17:02:23,276 [Worker-543: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-03-21 17:02:23,277 [Worker-543: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-03-21 17:02:23,280 [Worker-543: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-03-21 17:02:23,280 [Worker-543: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-03-21 17:02:23,281 [Worker-543: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-03-21 17:02:23,281 [Worker-543: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-03-21 17:02:23,281 [Worker-543: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/juanpablogarciaurrea/Documents/Academia/Sistemas Distribuidos/workspace/carpeta-ciudadana-documents/src/test/resources
+2022-03-21 17:02:55,108 [Worker-546: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.carpetaciudadana.user:carpeta-ciudadana-user:0.0.1-SNAPSHOT @ /Users/juanpablogarciaurrea/Documents/Academia/Sistemas Distribuidos/workspace/carpeta-ciudadana-users/pom.xml.
+2022-03-21 17:02:57,575 [Worker-549: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-03-21 17:02:57,575 [Worker-549: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-03-21 17:02:57,575 [Worker-549: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-03-21 17:02:57,880 [Worker-549: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-03-21 17:02:57,881 [Worker-549: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-03-21 17:02:57,881 [Worker-549: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-03-21 17:02:57,881 [Worker-549: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/juanpablogarciaurrea/Documents/Academia/Sistemas Distribuidos/workspace/carpeta-ciudadana-users/src/test/resources
+2022-03-21 17:03:08,324 [Worker-544: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-03-21 17:03:08,327 [Worker-544: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-03-21 17:03:08,330 [Worker-544: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-03-21 17:03:08,331 [Worker-544: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-03-21 17:03:08,335 [Worker-544: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-03-21 17:03:08,335 [Worker-544: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-03-21 17:03:08,335 [Worker-544: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/juanpablogarciaurrea/Documents/Academia/Sistemas Distribuidos/workspace/carpeta-ciudadana-users/src/test/resources
+2022-03-21 17:03:08,446 [Worker-546: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-03-21 17:03:08,446 [Worker-546: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-03-21 17:03:08,447 [Worker-546: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-03-21 17:03:08,447 [Worker-546: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-03-21 17:03:08,448 [Worker-546: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-03-21 17:03:08,448 [Worker-546: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-03-21 17:03:08,448 [Worker-546: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/juanpablogarciaurrea/Documents/Academia/Sistemas Distribuidos/workspace/carpeta-ciudadana-users/src/test/resources
+2022-03-21 17:03:14,190 [Worker-547: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-03-21 17:03:14,190 [Worker-547: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-03-21 17:03:14,191 [Worker-547: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-03-21 17:03:14,191 [Worker-547: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-03-21 17:03:14,192 [Worker-547: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-03-21 17:03:14,192 [Worker-547: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-03-21 17:03:14,192 [Worker-547: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/juanpablogarciaurrea/Documents/Academia/Sistemas Distribuidos/workspace/carpeta-ciudadana-users/src/test/resources
+2022-03-21 17:04:58,126 [Worker-546: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.vobi.bank:eureka-server:0.0.1-SNAPSHOT @ /Users/juanpablogarciaurrea/Documents/Academia/Sistemas Distribuidos/workspace/eureka-server/pom.xml.
+2022-03-21 17:04:59,597 [Worker-547: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-03-21 17:04:59,604 [Worker-547: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-03-21 17:04:59,610 [Worker-547: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-03-21 17:04:59,676 [Worker-547: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-03-21 17:04:59,677 [Worker-547: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-03-21 17:04:59,677 [Worker-547: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-03-21 17:04:59,677 [Worker-547: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/juanpablogarciaurrea/Documents/Academia/Sistemas Distribuidos/workspace/eureka-server/src/test/resources
+2022-03-21 17:05:14,209 [Worker-544: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-03-21 17:05:14,213 [Worker-544: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-03-21 17:05:14,214 [Worker-544: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-03-21 17:05:14,215 [Worker-544: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-03-21 17:05:14,249 [Worker-544: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-03-21 17:05:14,249 [Worker-544: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-03-21 17:05:14,249 [Worker-544: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/juanpablogarciaurrea/Documents/Academia/Sistemas Distribuidos/workspace/eureka-server/src/test/resources
+2022-03-21 17:05:14,371 [Worker-547: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-03-21 17:05:14,371 [Worker-547: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-03-21 17:05:14,371 [Worker-547: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-03-21 17:05:14,371 [Worker-547: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-03-21 17:05:14,372 [Worker-547: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-03-21 17:05:14,372 [Worker-547: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-03-21 17:05:14,372 [Worker-547: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/juanpablogarciaurrea/Documents/Academia/Sistemas Distribuidos/workspace/eureka-server/src/test/resources
+2022-03-21 17:06:32,497 [Worker-546: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-03-21 17:06:32,500 [Worker-546: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-03-21 17:06:32,500 [Worker-546: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-03-21 17:06:32,507 [Worker-546: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-03-21 17:06:32,507 [Worker-546: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/juanpablogarciaurrea/Documents/Academia/Sistemas Distribuidos/workspace/api-gateway/src/test/resources
+2022-03-21 17:06:32,612 [Worker-547: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-03-21 17:06:32,613 [Worker-547: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-03-21 17:06:32,613 [Worker-547: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-03-21 17:06:32,614 [Worker-547: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-03-21 17:06:32,614 [Worker-547: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/juanpablogarciaurrea/Documents/Academia/Sistemas Distribuidos/workspace/api-gateway/src/test/resources
+2022-03-21 17:07:35,155 [Worker-547: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-03-21 17:07:35,159 [Worker-547: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-03-21 17:07:35,160 [Worker-547: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-03-21 17:07:35,171 [Worker-547: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-03-21 17:07:35,171 [Worker-547: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/juanpablogarciaurrea/Documents/Academia/Sistemas Distribuidos/workspace/api-gateway/src/test/resources
+2022-03-21 17:11:00,919 [Worker-542: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-03-21 17:11:00,929 [Worker-542: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-03-21 17:11:00,930 [Worker-542: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-03-21 17:11:00,944 [Worker-542: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-03-21 17:11:00,945 [Worker-542: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/juanpablogarciaurrea/Documents/Academia/Sistemas Distribuidos/workspace/api-gateway/src/test/resources
+2022-03-21 17:11:22,669 [Worker-547: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-03-21 17:11:22,670 [Worker-547: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-03-21 17:11:22,774 [Worker-547: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-03-21 17:11:22,816 [Worker-547: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-03-21 17:11:22,816 [Worker-547: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/juanpablogarciaurrea/Documents/Academia/Sistemas Distribuidos/workspace/api-gateway/src/test/resources
+2022-03-21 17:11:47,782 [Worker-553: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.vobi.bank:api-gateway:0.0.1-SNAPSHOT @ /Users/juanpablogarciaurrea/Documents/Academia/Sistemas Distribuidos/workspace/api-gateway/pom.xml.
+2022-03-21 17:11:49,620 [Worker-553: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-03-21 17:11:49,626 [Worker-553: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-03-21 17:11:49,641 [Worker-553: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-03-21 17:11:49,644 [Worker-553: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-03-21 17:11:49,644 [Worker-553: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/juanpablogarciaurrea/Documents/Academia/Sistemas Distribuidos/workspace/api-gateway/src/test/resources
+2022-03-21 17:11:51,454 [Worker-542: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-03-21 17:11:51,459 [Worker-542: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-03-21 17:11:51,461 [Worker-542: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-03-21 17:11:51,461 [Worker-542: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-03-21 17:11:51,462 [Worker-542: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/juanpablogarciaurrea/Documents/Academia/Sistemas Distribuidos/workspace/api-gateway/src/test/resources
+2022-03-21 17:11:52,974 [Worker-547: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-03-21 17:11:52,978 [Worker-547: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-03-21 17:11:52,981 [Worker-547: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-03-21 17:11:52,981 [Worker-547: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-03-21 17:11:52,981 [Worker-547: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/juanpablogarciaurrea/Documents/Academia/Sistemas Distribuidos/workspace/api-gateway/src/test/resources
+2022-03-21 17:11:57,530 [Worker-551: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-03-21 17:11:57,532 [Worker-551: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-03-21 17:11:57,532 [Worker-551: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-03-21 17:11:57,533 [Worker-551: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-03-21 17:11:57,533 [Worker-551: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/juanpablogarciaurrea/Documents/Academia/Sistemas Distribuidos/workspace/api-gateway/src/test/resources
+2022-03-21 17:12:13,745 [Worker-552: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-03-21 17:12:13,746 [Worker-552: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-03-21 17:12:13,746 [Worker-552: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-03-21 17:12:13,754 [Worker-552: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-03-21 17:12:13,754 [Worker-552: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/juanpablogarciaurrea/Documents/Academia/Sistemas Distribuidos/workspace/api-gateway/src/test/resources
+2022-03-21 17:12:30,838 [Worker-546: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2022-03-21 17:12:31,630 [Worker-546: Updating Maven Project] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.vobi.bank:api-gateway:0.0.1-SNAPSHOT @ /Users/juanpablogarciaurrea/Documents/Academia/Sistemas Distribuidos/workspace/api-gateway/pom.xml.
+2022-03-21 17:12:32,093 [Worker-546: Updating Maven Project] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.carpetaciudadana.user:carpeta-ciudadana-user:0.0.1-SNAPSHOT @ /Users/juanpablogarciaurrea/Documents/Academia/Sistemas Distribuidos/workspace/carpeta-ciudadana-users/pom.xml.
+2022-03-21 17:12:32,415 [Worker-546: Updating Maven Project] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.vobi.bank:eureka-server:0.0.1-SNAPSHOT @ /Users/juanpablogarciaurrea/Documents/Academia/Sistemas Distribuidos/workspace/eureka-server/pom.xml.
+2022-03-21 17:12:32,595 [Worker-546: Updating Maven Project] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.carpetaciudadana.authentication:carpeta-ciudadana-authentication:0.0.1-SNAPSHOT @ /Users/juanpablogarciaurrea/Documents/Academia/Sistemas Distribuidos/workspace/carpeta-ciudadana-authentication/pom.xml.
+2022-03-21 17:12:34,909 [Worker-546: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /api-gateway/src/main/java
+2022-03-21 17:12:34,913 [Worker-546: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /api-gateway/src/main/resources
+2022-03-21 17:12:34,913 [Worker-546: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /api-gateway/src/main/resources
+2022-03-21 17:12:34,913 [Worker-546: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /api-gateway/src/test/java
+2022-03-21 17:12:35,310 [Worker-546: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 4 sec
+2022-03-21 17:12:37,456 [Worker-551: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-03-21 17:12:37,461 [Worker-551: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-03-21 17:12:37,461 [Worker-551: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-03-21 17:12:37,486 [Worker-551: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-03-21 17:12:37,486 [Worker-551: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/juanpablogarciaurrea/Documents/Academia/Sistemas Distribuidos/workspace/api-gateway/src/test/resources
+2022-03-21 17:12:37,686 [Worker-553: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-03-21 17:12:37,687 [Worker-553: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-03-21 17:12:37,688 [Worker-553: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-03-21 17:12:37,690 [Worker-553: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-03-21 17:12:37,690 [Worker-553: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/juanpablogarciaurrea/Documents/Academia/Sistemas Distribuidos/workspace/api-gateway/src/test/resources
+2022-03-21 17:12:39,678 [Worker-553: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-03-21 17:12:39,679 [Worker-553: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-03-21 17:12:39,684 [Worker-553: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-03-21 17:12:39,684 [Worker-553: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-03-21 17:12:39,686 [Worker-553: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-03-21 17:12:39,686 [Worker-553: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-03-21 17:12:39,686 [Worker-553: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/juanpablogarciaurrea/Documents/Academia/Sistemas Distribuidos/workspace/carpeta-ciudadana-authentication/src/test/resources
+2022-03-21 17:12:41,015 [Worker-551: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-03-21 17:12:41,016 [Worker-551: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-03-21 17:12:41,016 [Worker-551: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-03-21 17:12:41,016 [Worker-551: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-03-21 17:12:41,025 [Worker-551: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-03-21 17:12:41,025 [Worker-551: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-03-21 17:12:41,025 [Worker-551: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/juanpablogarciaurrea/Documents/Academia/Sistemas Distribuidos/workspace/carpeta-ciudadana-users/src/test/resources
+2022-03-21 17:12:41,289 [Worker-551: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-03-21 17:12:41,289 [Worker-551: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-03-21 17:12:41,289 [Worker-551: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-03-21 17:12:41,289 [Worker-551: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-03-21 17:12:41,291 [Worker-551: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-03-21 17:12:41,291 [Worker-551: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-03-21 17:12:41,291 [Worker-551: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/juanpablogarciaurrea/Documents/Academia/Sistemas Distribuidos/workspace/eureka-server/src/test/resources
+2022-03-21 17:15:10,750 [Worker-556: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-03-21 17:15:10,784 [Worker-556: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-03-21 17:15:10,784 [Worker-556: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-03-21 17:15:10,791 [Worker-556: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-03-21 17:15:10,791 [Worker-556: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/juanpablogarciaurrea/Documents/Academia/Sistemas Distribuidos/workspace/api-gateway/src/test/resources
+2022-03-21 17:15:22,969 [Worker-554: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-03-21 17:15:22,970 [Worker-554: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-03-21 17:15:23,007 [Worker-554: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-03-21 17:15:23,009 [Worker-554: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-03-21 17:15:23,009 [Worker-554: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/juanpablogarciaurrea/Documents/Academia/Sistemas Distribuidos/workspace/api-gateway/src/test/resources
+2022-03-21 17:21:32,881 [Worker-536: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2022-03-21 17:21:33,297 [Worker-536: Updating Maven Project] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.vobi.bank:api-gateway:0.0.1-SNAPSHOT @ /Users/juanpablogarciaurrea/Documents/Academia/Sistemas Distribuidos/workspace/api-gateway/pom.xml.
+2022-03-21 17:21:36,941 [Worker-536: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /api-gateway/src/main/java
+2022-03-21 17:21:36,946 [Worker-536: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /api-gateway/src/main/resources
+2022-03-21 17:21:36,946 [Worker-536: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /api-gateway/src/main/resources
+2022-03-21 17:21:36,946 [Worker-536: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /api-gateway/src/test/java
+2022-03-21 17:21:38,411 [Worker-536: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 5 sec
+2022-03-21 17:21:42,177 [Worker-564: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-03-21 17:21:42,185 [Worker-564: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-03-21 17:21:42,197 [Worker-564: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-03-21 17:21:42,211 [Worker-564: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-03-21 17:21:42,211 [Worker-564: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/juanpablogarciaurrea/Documents/Academia/Sistemas Distribuidos/workspace/api-gateway/src/test/resources
+2022-03-21 17:21:42,625 [Worker-523: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-03-21 17:21:42,625 [Worker-523: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-03-21 17:21:42,628 [Worker-523: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-03-21 17:21:42,630 [Worker-523: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-03-21 17:21:42,630 [Worker-523: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/juanpablogarciaurrea/Documents/Academia/Sistemas Distribuidos/workspace/api-gateway/src/test/resources
+2022-03-21 17:22:02,662 [Worker-556: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-03-21 17:22:02,694 [Worker-556: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-03-21 17:22:02,695 [Worker-556: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-03-21 17:22:02,704 [Worker-556: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-03-21 17:22:02,704 [Worker-556: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/juanpablogarciaurrea/Documents/Academia/Sistemas Distribuidos/workspace/api-gateway/src/test/resources
+2022-03-21 17:22:32,062 [Worker-558: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-03-21 17:22:32,064 [Worker-558: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-03-21 17:22:32,065 [Worker-558: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-03-21 17:22:32,065 [Worker-558: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-03-21 17:22:32,072 [Worker-558: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-03-21 17:22:32,072 [Worker-558: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-03-21 17:22:32,072 [Worker-558: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/juanpablogarciaurrea/Documents/Academia/Sistemas Distribuidos/workspace/eureka-server/src/test/resources
+2022-03-21 17:24:33,125 [Worker-563: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2022-03-21 17:24:33,621 [Worker-563: Updating Maven Project] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.vobi.bank:eureka-server:0.0.1-SNAPSHOT @ /Users/juanpablogarciaurrea/Documents/Academia/Sistemas Distribuidos/workspace/eureka-server/pom.xml.
+2022-03-21 17:24:34,206 [Worker-563: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /eureka-server/src/main/java
+2022-03-21 17:24:34,207 [Worker-563: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /eureka-server/src/main/resources
+2022-03-21 17:24:34,207 [Worker-563: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /eureka-server/src/main/resources
+2022-03-21 17:24:34,207 [Worker-563: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /eureka-server/src/test/java
+2022-03-21 17:24:34,474 [Worker-563: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 1 sec
+2022-03-21 17:24:35,240 [Worker-571: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-03-21 17:24:35,243 [Worker-571: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-03-21 17:24:35,246 [Worker-571: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-03-21 17:24:35,247 [Worker-571: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-03-21 17:24:35,254 [Worker-571: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-03-21 17:24:35,254 [Worker-571: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-03-21 17:24:35,254 [Worker-571: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/juanpablogarciaurrea/Documents/Academia/Sistemas Distribuidos/workspace/eureka-server/src/test/resources
