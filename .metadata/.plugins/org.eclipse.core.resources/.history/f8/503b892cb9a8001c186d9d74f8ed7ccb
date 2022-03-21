@@ -1,0 +1,24 @@
+spring.application.name=users
+server.port=${PORT:0}
+#server.port=9093
+
+#Spring DataSource Basic Config
+#spring.datasource.url=jdbc:postgresql://127.0.0.1:5432/capreta-ciudadana
+#spring.datasource.username= postgres
+#spring.datasource.password= postgres
+
+#Mongo
+#spring.data.mongodb.database=carpeta-ciudadana
+#spring.data.mongodb.port=27017
+#spring.data.mongodb.host=localhost
+spring.data.mongodb.uri=mongodb+srv://jpgarciau:A86rey81aE7UJ6QE@cluster0.3ty0t.mongodb.net/myFirstDatabase?retryWrites=true&w=majority
+
+## Eureka
+eureka.instance.instance-id=${spring.application.name}:${spring.application.instance_id:${random.value}}
+eureka.client.service-url.defaultZone=http://localhost:1111/eureka
+eureka.instance.prefer-ip-address=true
+
+#spring.config.import=optional:configserver:
+
+#Url del Identity Provider para validar el token de seguridad
+spring.security.oauth2.resourceserver.jwt.issuer-uri=http://localhost:8080/auth/realms/master

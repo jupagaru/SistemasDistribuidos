@@ -1,0 +1,18 @@
+package com.carpetaciudadana.authentication.service;
+
+import org.springframework.beans.factory.annotation.Autowired;
+
+import com.carpetaciudadana.authentication.dto.User;
+import com.carpetaciudadana.authentication.openfeignclients.FeignClients;
+
+public class UserServiceCircuitBreakerImpl implements UserServiceCircuitBreaker{
+
+	@Autowired
+	FeignClients feignClients;
+	
+	@Override
+	public User saveUser(User user) throws Exception {
+		return feignClients.save(user);
+	}
+
+}

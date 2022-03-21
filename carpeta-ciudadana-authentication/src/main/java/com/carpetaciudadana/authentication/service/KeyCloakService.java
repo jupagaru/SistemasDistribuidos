@@ -8,20 +8,17 @@ import org.keycloak.representations.idm.UserRepresentation;
 import com.carpetaciudadana.authentication.dto.UserDTO;
 
 public interface KeyCloakService {
-	
-	public void addUser(UserDTO userDTO);
 
-    public List<UserRepresentation> getUser(String userName);
+	public void addUser(UserDTO user);
 
-    public void updateUser(String userId, UserDTO userDTO);
-    
-    public void deleteUser(String userId);
+	public List<UserRepresentation> getUser(String userName);
 
-    public void sendVerificationLink(String userId);
+	public void deleteUser(String userId);
 
-    public void sendResetPassword(String userId);
+	public void sendVerificationLink(String userId);
 
-    public UsersResource getInstance();
+	public void sendResetPassword(String userId);
 
+	public UsersResource getInstance();
 
 }

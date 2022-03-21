@@ -35,7 +35,12 @@ public class KeycloakConfig {
                                    )
                     .build();
         }
+        System.out.println("Prueba jp = " + keycloak.tokenManager().getAccessTokenString());
         return keycloak;
+    }
+    
+    public static String getToken() {
+    	return keycloak.tokenManager().getAccessTokenString();
     }
 
 }

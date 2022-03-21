@@ -1,0 +1,27 @@
+package com.carpetaciudadana.authentication.service;
+
+import org.springframework.beans.factory.annotation.Autowired;
+import org.springframework.stereotype.Component;
+
+import com.carpetaciudadana.authentication.dto.User;
+import com.carpetaciudadana.authentication.openfeignclients.FeignClients;
+
+import io.github.resilience4j.circuitbreaker.annotation.CircuitBreaker;
+
+@Component
+public class UserServiceCircuitBreakerImpl implements UserServiceCircuitBreaker{
+
+	@Autowired
+	FeignClients feignClients;
+	
+	@Override
+	@CircuitBreaker(name = "users", fallbackMethod = "fallbackSaveUser")
+	public User saveUser(User user) throws Exception {
+		return feignClients.save(user);
+	}
+	
+	public User fallbackSaveUser(User user, Throwable e) throws Exception {
+		throw new Exception("Lo siento, el servicio de USER no se encuentra disponible");
+	}
+
+}

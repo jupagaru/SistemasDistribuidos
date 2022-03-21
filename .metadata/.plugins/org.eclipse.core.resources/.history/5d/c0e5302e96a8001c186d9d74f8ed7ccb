@@ -1,0 +1,13 @@
+package com.carpetaciudadana.authentication.service;
+
+import com.carpetaciudadana.authentication.dto.User;
+
+public class UserServiceCircuitBreakerImpl implements UserServiceCircuitBreaker{
+
+	@Override
+	public User saveUser(User user) throws Exception {
+		// TODO Auto-generated method stub
+		return null;
+	}
+
+}

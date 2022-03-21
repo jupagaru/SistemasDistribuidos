@@ -7,32 +7,42 @@ import java.util.List;
 import org.keycloak.admin.client.resource.UsersResource;
 import org.keycloak.representations.idm.CredentialRepresentation;
 import org.keycloak.representations.idm.UserRepresentation;
+import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 
-import com.carpetaciudadana.authentication.config.Credentials;
 import com.carpetaciudadana.authentication.config.KeycloakConfig;
-import com.carpetaciudadana.authentication.dto.User;
 import com.carpetaciudadana.authentication.dto.UserDTO;
-
-import lombok.AllArgsConstructor;
+import com.carpetaciudadana.authentication.dto.UserResponse;
 
 @Service
 public class KeyCloakServiceImpl {
 
-	public void addUser(User user) {
+	@Autowired
+	UserServiceCircuitBreaker userServiceCircuitBreaker;
+
+	public void addUser(UserDTO user) {
 		UsersResource usersResource = KeycloakConfig.getInstance().realm(KeycloakConfig.realm).users();
 		CredentialRepresentation credentialRepresentation = createPasswordCredentials(user.getPassword());
 
 		UserRepresentation kcUser = new UserRepresentation();
-		kcUser.setUsername(user.getEmail());
+		kcUser.setUsername(user.getUserName());
 		kcUser.setCredentials(Collections.singletonList(credentialRepresentation));
 		kcUser.setFirstName(user.getFirstName());
 		kcUser.setLastName(user.getLastName());
 		kcUser.setEmail(user.getEmail());
 		kcUser.setEnabled(true);
-		kcUser.setEmailVerified(false);
+		kcUser.setEmailVerified(true);
 		usersResource.create(kcUser);
+		try {
+			saveUserFeign(user);
+		} catch (Exception e) {
+			e.printStackTrace();
+		}
 
+	}
+
+	private UserDTO saveUserFeign(UserDTO user) throws Exception {
+		return userServiceCircuitBreaker.saveUser(user);
 	}
 
 	private static CredentialRepresentation createPasswordCredentials(String password) {
@@ -43,24 +53,15 @@ public class KeyCloakServiceImpl {
 		return passwordCredentials;
 	}
 
-	public List<UserRepresentation> getUser(String userName) {
+	public UserResponse getUser(String userName) {
 		UsersResource usersResource = getInstance();
 		List<UserRepresentation> user = usersResource.search(userName, true);
-		return user;
+		UserResponse userResponse = new UserResponse();
+		if (user != null) {
+			userResponse.setToken(KeycloakConfig.getToken());
+		}
+		return userResponse;
 
-	}
-
-	public void updateUser(String userId, UserDTO userDTO) {
-		CredentialRepresentation credential = Credentials.createPasswordCredentials(userDTO.getPassword());
-		UserRepresentation user = new UserRepresentation();
-		user.setUsername(userDTO.getUserName());
-		user.setFirstName(userDTO.getFirstname());
-		user.setLastName(userDTO.getLastName());
-		user.setEmail(userDTO.getEmailId());
-		user.setCredentials(Collections.singletonList(credential));
-
-		UsersResource usersResource = getInstance();
-		usersResource.get(userId).update(user);
 	}
 
 	public void deleteUser(String userId) {

@@ -1,17 +1,21 @@
 package com.carpetaciudadana.authentication.dto;
 
 import lombok.AllArgsConstructor;
-import lombok.Getter;
-import lombok.Setter;
+import lombok.Data;
+import lombok.NoArgsConstructor;
 
+@Data
 @AllArgsConstructor
-@Getter
-@Setter
+@NoArgsConstructor
 public class UserDTO {
-
+    
+	private String uId;
 	private String userName;
-	private String emailId;
-	private String password;
-	private String firstname;
-	private String lastName;
+	private String firstName;
+    private String lastName;
+    private String password;
+    private String email;
+    private String address;
+    
+
 }

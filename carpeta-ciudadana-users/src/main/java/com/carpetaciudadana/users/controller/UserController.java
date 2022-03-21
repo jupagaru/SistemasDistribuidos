@@ -22,21 +22,20 @@ import com.carpetaciudadana.users.service.UsersService;
 @RestController
 @RequestMapping("/api/v1/users")
 public class UserController {
-	
-	
+
 	@Autowired
 	UsersService usersService;
-	
+
 	@Autowired
 	UserMapper userMapper;
-	
+
 	@DeleteMapping("/{id}")
 	public void delete(@PathVariable("id") String id) throws Exception {
 //		cbFactory.create("users").run(() -> usersService.deleteById(id));
 		usersService.deleteById(id);
-			
+
 	}
-	
+
 	@PutMapping
 	public UserDTO update(@Valid @RequestBody UserDTO userDTO) throws Exception {
 		Users user = userMapper.userDTOtoUser(userDTO);
@@ -45,7 +44,7 @@ public class UserController {
 
 		return userDTO;
 	}
-	
+
 	@PostMapping
 	public UserDTO save(@Valid @RequestBody UserDTO userDTO) throws Exception {
 		Users user = userMapper.userDTOtoUser(userDTO);
@@ -53,19 +52,19 @@ public class UserController {
 		userDTO = userMapper.userstoUserDTO(user);
 		return userDTO;
 	}
-	
+
 	@GetMapping("/{id}")
-	public UserDTO findById(@PathVariable("id") String id) throws Exception{
-		Users user=(usersService.findById(id).isPresent()==true)?usersService.findById(id).get():null;
+	public UserDTO findById(@PathVariable("id") String id) throws Exception {
+		Users user = (usersService.findById(id).isPresent() == true) ? usersService.findById(id).get() : null;
 		UserDTO userDTO = userMapper.userstoUserDTO(user);
 		return userDTO;
 	}
-	
+
 	@GetMapping
-	public List<UserDTO> findAll() throws Exception{
+	public List<UserDTO> findAll() throws Exception {
 		List<Users> users = usersService.findAll();
 		List<UserDTO> userDTOs = userMapper.usersListTouserDTOList(users);
-		
+
 		return userDTOs;
 	}
 
