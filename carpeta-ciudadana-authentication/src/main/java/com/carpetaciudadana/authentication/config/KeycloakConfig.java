@@ -8,10 +8,10 @@ import org.keycloak.admin.client.KeycloakBuilder;
 public class KeycloakConfig {
 
 	static Keycloak keycloak = null;
-    final static String serverUrl = "http://localhost:8080/auth";
+    final static String serverUrl = "http://localhost:31002/auth";//"http://localhost:8080/auth";
     public final static String realm = "master";
     final static String clientId = "carpeta-ciudadana";
-    final static String clientSecret = "3e32405d-e9f2-46a4-a449-e53df4325a2c";
+    final static String clientSecret = "a2b5144a-a39e-4d8b-af98-7c0caca2e05c";//"3e32405d-e9f2-46a4-a449-e53df4325a2c";
     final static String userName = "admin";
     final static String password = "admin";
 
