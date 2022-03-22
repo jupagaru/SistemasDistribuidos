@@ -87,6 +87,7 @@ public class KeyCloakServiceImpl {
 				UserDTO userfeig = getUserFeign(userRequest.getEmail());
 				System.out.println("userFeig = " + userfeig);
 				userResponse.setUid(userfeig.getUId());
+				userResponse.setDocumentId(userfeig.getNumIdentificacion());
 			} catch (Exception e) {
 				e.printStackTrace();
 			}

@@ -20,10 +20,10 @@ public class SecurityConfig extends WebSecurityConfigurerAdapter {
 
 	@Override
 	protected void configure(HttpSecurity http) throws Exception {
-		http.authorizeRequests().antMatchers("/**/login").permitAll()
+		http.authorizeRequests().antMatchers("/*/login/**").permitAll()
 				//.antMatchers(MATCHERS_ACTUATOR_PROMETHEUS).permitAll()
 				// Todo request -> Autenticado
-				.anyRequest().permitAll()
+				.anyRequest().authenticated()
 				// Todo request tener el rol
 				// .anyRequest().access("authenticated AND hasRole('bank_holder')")
 				.and().oauth2ResourceServer().jwt(jwt -> jwt.jwtAuthenticationConverter(jwtAuthenticationConverter()));

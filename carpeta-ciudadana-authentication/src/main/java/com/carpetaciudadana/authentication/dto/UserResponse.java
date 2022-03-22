@@ -7,5 +7,6 @@ public class UserResponse {
 	
 	String token;
 	String uid  ; 
+	String documentId;
 
 }
