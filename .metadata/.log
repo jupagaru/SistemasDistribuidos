@@ -5678,3 +5678,819 @@ java.util.concurrent.TimeoutException
 
 !ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-03-23 00:38:29.591
 !MESSAGE executing callback sts4.classpath.bubzJMbS SUCCESS [done]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-03-23 00:43:13.881
+!MESSAGE ClasspathListenerHandler removeClasspathListener sts4.classpath.bubzJMbS
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-03-23 00:43:13.912
+!MESSAGE unsubscribing from classpath changes: sts4.classpath.bubzJMbS
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-03-23 00:43:13.919
+!MESSAGE subsribers = {}
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-03-23 00:43:13.921
+!MESSAGE ClasspathListenerHandler removeClasspathListener sts4.classpath.bubzJMbS => OK
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-03-23 00:43:24.769
+!MESSAGE Entering DelegatingStreamConnectionProvider()
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-03-23 00:43:24.789
+!MESSAGE DelegatingStreamConnectionProvider classloader = org.eclipse.osgi.internal.loader.EquinoxClassLoader@3d2bcf0a[org.springframework.tooling.boot.ls:1.32.0.202203131529(id=562)]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-03-23 00:43:24.789
+!MESSAGE SpringBootLanguageServer exists!
+
+!ENTRY org.eclipse.lsp4e 4 0 2022-03-23 00:43:26.075
+!MESSAGE TimeoutException
+!STACK 0
+java.util.concurrent.TimeoutException
+	at java.base/java.util.concurrent.CompletableFuture.timedGet(CompletableFuture.java:1960)
+	at java.base/java.util.concurrent.CompletableFuture.get(CompletableFuture.java:2095)
+	at org.eclipse.lsp4e.LanguageServerWrapper.supportsWorkspaceFolderCapability(LanguageServerWrapper.java:550)
+	at org.eclipse.lsp4e.LanguageServerWrapper.canOperate(LanguageServerWrapper.java:539)
+	at org.eclipse.lsp4e.LanguageServerWrapper.canOperate(LanguageServerWrapper.java:872)
+	at org.eclipse.lsp4e.LanguageServiceAccessor.lambda$6(LanguageServiceAccessor.java:361)
+	at java.base/java.util.stream.ReferencePipeline$2$1.accept(ReferencePipeline.java:178)
+	at java.base/java.util.stream.ReferencePipeline$2$1.accept(ReferencePipeline.java:179)
+	at java.base/java.util.HashMap$KeySpliterator.forEachRemaining(HashMap.java:1707)
+	at java.base/java.util.stream.AbstractPipeline.copyInto(AbstractPipeline.java:509)
+	at java.base/java.util.stream.AbstractPipeline.wrapAndCopyInto(AbstractPipeline.java:499)
+	at java.base/java.util.stream.ReduceOps$ReduceOp.evaluateSequential(ReduceOps.java:921)
+	at java.base/java.util.stream.AbstractPipeline.evaluate(AbstractPipeline.java:234)
+	at java.base/java.util.stream.ReferencePipeline.collect(ReferencePipeline.java:682)
+	at org.eclipse.lsp4e.LanguageServiceAccessor.getLSWrappers(LanguageServiceAccessor.java:362)
+	at org.eclipse.lsp4e.LanguageServiceAccessor.getLanguageServers(LanguageServiceAccessor.java:588)
+	at org.eclipse.lsp4e.operations.codelens.CodeLensProvider.provideCodeMinings(CodeLensProvider.java:41)
+	at org.eclipse.lsp4e.operations.codelens.CodeLensProvider.provideCodeMinings(CodeLensProvider.java:73)
+	at org.eclipse.jface.internal.text.codemining.CodeMiningManager.lambda$2(CodeMiningManager.java:189)
+	at java.base/java.util.stream.ReferencePipeline$3$1.accept(ReferencePipeline.java:197)
+	at java.base/java.util.Spliterators$ArraySpliterator.forEachRemaining(Spliterators.java:992)
+	at java.base/java.util.stream.AbstractPipeline.copyInto(AbstractPipeline.java:509)
+	at java.base/java.util.stream.AbstractPipeline.wrapAndCopyInto(AbstractPipeline.java:499)
+	at java.base/java.util.stream.ReduceOps$ReduceOp.evaluateSequential(ReduceOps.java:921)
+	at java.base/java.util.stream.AbstractPipeline.evaluate(AbstractPipeline.java:234)
+	at java.base/java.util.stream.ReferencePipeline.collect(ReferencePipeline.java:682)
+	at org.eclipse.jface.internal.text.codemining.CodeMiningManager.getCodeMinings(CodeMiningManager.java:195)
+	at org.eclipse.jface.internal.text.codemining.CodeMiningManager.updateCodeMinings(CodeMiningManager.java:140)
+	at org.eclipse.jface.internal.text.codemining.CodeMiningManager.run(CodeMiningManager.java:129)
+	at org.eclipse.jface.text.source.SourceViewer.updateCodeMinings(SourceViewer.java:1313)
+	at org.eclipse.jface.text.source.SourceViewer.ensureCodeMiningManagerInstalled(SourceViewer.java:1301)
+	at org.eclipse.jface.text.source.SourceViewer.setCodeMiningAnnotationPainter(SourceViewer.java:1320)
+	at org.eclipse.ui.texteditor.SourceViewerDecorationSupport.showAnnotations(SourceViewerDecorationSupport.java:830)
+	at org.eclipse.ui.texteditor.SourceViewerDecorationSupport.updateTextDecorations(SourceViewerDecorationSupport.java:301)
+	at org.eclipse.ui.texteditor.SourceViewerDecorationSupport.install(SourceViewerDecorationSupport.java:269)
+	at org.eclipse.ui.texteditor.AbstractDecoratedTextEditor.createPartControl(AbstractDecoratedTextEditor.java:456)
+	at org.eclipse.ui.internal.genericeditor.ExtensionBasedTextEditor.createPartControl(ExtensionBasedTextEditor.java:166)
+	at org.eclipse.ui.internal.e4.compatibility.CompatibilityPart.createPartControl(CompatibilityPart.java:158)
+	at org.eclipse.ui.internal.e4.compatibility.CompatibilityEditor.createPartControl(CompatibilityEditor.java:96)
+	at org.eclipse.ui.internal.e4.compatibility.CompatibilityPart.create(CompatibilityPart.java:365)
+	at jdk.internal.reflect.GeneratedMethodAccessor151.invoke(Unknown Source)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:568)
+	at org.eclipse.e4.core.internal.di.MethodRequestor.execute(MethodRequestor.java:58)
+	at org.eclipse.e4.core.internal.di.InjectorImpl.processAnnotated(InjectorImpl.java:995)
+	at org.eclipse.e4.core.internal.di.InjectorImpl.processAnnotated(InjectorImpl.java:960)
+	at org.eclipse.e4.core.internal.di.InjectorImpl.internalInject(InjectorImpl.java:140)
+	at org.eclipse.e4.core.internal.di.InjectorImpl.internalMake(InjectorImpl.java:403)
+	at org.eclipse.e4.core.internal.di.InjectorImpl.make(InjectorImpl.java:330)
+	at org.eclipse.e4.core.contexts.ContextInjectionFactory.make(ContextInjectionFactory.java:202)
+	at org.eclipse.e4.ui.internal.workbench.ReflectionContributionFactory.createFromBundle(ReflectionContributionFactory.java:91)
+	at org.eclipse.e4.ui.internal.workbench.ReflectionContributionFactory.doCreate(ReflectionContributionFactory.java:60)
+	at org.eclipse.e4.ui.internal.workbench.ReflectionContributionFactory.create(ReflectionContributionFactory.java:42)
+	at org.eclipse.e4.ui.workbench.renderers.swt.ContributedPartRenderer.createWidget(ContributedPartRenderer.java:132)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.createWidget(PartRenderingEngine.java:995)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.safeCreateGui(PartRenderingEngine.java:659)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.safeCreateGui(PartRenderingEngine.java:763)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine$2.run(PartRenderingEngine.java:728)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:45)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.createGui(PartRenderingEngine.java:712)
+	at org.eclipse.e4.ui.internal.workbench.PartServiceImpl.lambda$0(PartServiceImpl.java:105)
+	at org.eclipse.e4.ui.services.internal.events.UIEventHandler.lambda$0(UIEventHandler.java:38)
+	at org.eclipse.swt.widgets.Synchronizer.syncExec(Synchronizer.java:236)
+	at org.eclipse.ui.internal.UISynchronizer.syncExec(UISynchronizer.java:133)
+	at org.eclipse.swt.widgets.Display.syncExec(Display.java:5186)
+	at org.eclipse.e4.ui.workbench.swt.DisplayUISynchronize.syncExec(DisplayUISynchronize.java:34)
+	at org.eclipse.e4.ui.services.internal.events.UIEventHandler.handleEvent(UIEventHandler.java:38)
+	at org.eclipse.equinox.internal.event.EventHandlerWrapper.handleEvent(EventHandlerWrapper.java:205)
+	at org.eclipse.equinox.internal.event.EventHandlerTracker.dispatchEvent(EventHandlerTracker.java:203)
+	at org.eclipse.equinox.internal.event.EventHandlerTracker.dispatchEvent(EventHandlerTracker.java:1)
+	at org.eclipse.osgi.framework.eventmgr.EventManager.dispatchEvent(EventManager.java:234)
+	at org.eclipse.osgi.framework.eventmgr.ListenerQueue.dispatchEventSynchronous(ListenerQueue.java:151)
+	at org.eclipse.equinox.internal.event.EventAdminImpl.dispatchEvent(EventAdminImpl.java:133)
+	at org.eclipse.equinox.internal.event.EventAdminImpl.sendEvent(EventAdminImpl.java:75)
+	at org.eclipse.equinox.internal.event.EventComponent.sendEvent(EventComponent.java:44)
+	at org.eclipse.e4.ui.services.internal.events.EventBroker.send(EventBroker.java:55)
+	at org.eclipse.e4.ui.internal.workbench.UIEventPublisher.notifyChanged(UIEventPublisher.java:63)
+	at org.eclipse.emf.common.notify.impl.BasicNotifierImpl.eNotify(BasicNotifierImpl.java:424)
+	at org.eclipse.e4.ui.model.application.ui.impl.ElementContainerImpl.setSelectedElementGen(ElementContainerImpl.java:170)
+	at org.eclipse.e4.ui.model.application.ui.impl.ElementContainerImpl.setSelectedElement(ElementContainerImpl.java:188)
+	at org.eclipse.e4.ui.internal.workbench.ModelServiceImpl.showElementInWindow(ModelServiceImpl.java:660)
+	at org.eclipse.e4.ui.internal.workbench.ModelServiceImpl.bringToTop(ModelServiceImpl.java:624)
+	at org.eclipse.e4.ui.internal.workbench.PartServiceImpl.delegateBringToTop(PartServiceImpl.java:787)
+	at org.eclipse.e4.ui.internal.workbench.PartServiceImpl.bringToTop(PartServiceImpl.java:401)
+	at org.eclipse.e4.ui.internal.workbench.PartServiceImpl.showPart(PartServiceImpl.java:1261)
+	at org.eclipse.ui.internal.WorkbenchPage.busyOpenEditor(WorkbenchPage.java:3207)
+	at org.eclipse.ui.internal.WorkbenchPage.lambda$9(WorkbenchPage.java:3097)
+	at org.eclipse.swt.custom.BusyIndicator.showWhile(BusyIndicator.java:74)
+	at org.eclipse.ui.internal.WorkbenchPage.openEditor(WorkbenchPage.java:3095)
+	at org.eclipse.ui.internal.WorkbenchPage.openEditor(WorkbenchPage.java:3065)
+	at org.eclipse.ui.internal.WorkbenchPage.openEditor(WorkbenchPage.java:3056)
+	at org.eclipse.ui.ide.IDE.openEditor(IDE.java:569)
+	at org.eclipse.ui.ide.IDE.openEditor(IDE.java:524)
+	at org.eclipse.jdt.internal.ui.javaeditor.EditorUtility.openInEditor(EditorUtility.java:367)
+	at org.eclipse.jdt.internal.ui.javaeditor.EditorUtility.openInEditor(EditorUtility.java:172)
+	at org.eclipse.jdt.ui.actions.OpenAction.run(OpenAction.java:288)
+	at org.eclipse.jdt.ui.actions.OpenAction.run(OpenAction.java:254)
+	at org.eclipse.jdt.ui.actions.SelectionDispatchAction.dispatchRun(SelectionDispatchAction.java:274)
+	at org.eclipse.jdt.ui.actions.SelectionDispatchAction.run(SelectionDispatchAction.java:252)
+	at org.eclipse.jdt.internal.ui.packageview.PackageExplorerActionGroup.handleOpen(PackageExplorerActionGroup.java:366)
+	at org.eclipse.jdt.internal.ui.packageview.PackageExplorerPart$3.open(PackageExplorerPart.java:545)
+	at org.eclipse.ui.OpenAndLinkWithEditorHelper$InternalListener.open(OpenAndLinkWithEditorHelper.java:48)
+	at org.eclipse.jface.viewers.StructuredViewer$2.run(StructuredViewer.java:800)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:45)
+	at org.eclipse.jface.util.SafeRunnable.run(SafeRunnable.java:174)
+	at org.eclipse.jface.viewers.StructuredViewer.fireOpen(StructuredViewer.java:797)
+	at org.eclipse.jface.viewers.StructuredViewer.handleOpen(StructuredViewer.java:1116)
+	at org.eclipse.jface.util.OpenStrategy.fireOpenEvent(OpenStrategy.java:296)
+	at org.eclipse.jface.util.OpenStrategy$1.handleEvent(OpenStrategy.java:331)
+	at org.eclipse.swt.widgets.EventTable.sendEvent(EventTable.java:89)
+	at org.eclipse.swt.widgets.Display.sendEvent(Display.java:4579)
+	at org.eclipse.swt.widgets.Widget.sendEvent(Widget.java:1524)
+	at org.eclipse.swt.widgets.Widget.sendEvent(Widget.java:1547)
+	at org.eclipse.swt.widgets.Widget.sendEvent(Widget.java:1532)
+	at org.eclipse.swt.widgets.Widget.notifyListeners(Widget.java:1325)
+	at org.eclipse.swt.widgets.Display.runDeferredEvents(Display.java:4365)
+	at org.eclipse.swt.widgets.Display.readAndDispatch(Display.java:3941)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine$5.run(PartRenderingEngine.java:1155)
+	at org.eclipse.core.databinding.observable.Realm.runWithDefault(Realm.java:338)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.run(PartRenderingEngine.java:1046)
+	at org.eclipse.e4.ui.internal.workbench.E4Workbench.createAndRunUI(E4Workbench.java:155)
+	at org.eclipse.ui.internal.Workbench.lambda$3(Workbench.java:644)
+	at org.eclipse.core.databinding.observable.Realm.runWithDefault(Realm.java:338)
+	at org.eclipse.ui.internal.Workbench.createAndRunWorkbench(Workbench.java:551)
+	at org.eclipse.ui.PlatformUI.createAndRunWorkbench(PlatformUI.java:156)
+	at org.eclipse.ui.internal.ide.application.IDEApplication.start(IDEApplication.java:152)
+	at org.eclipse.equinox.internal.app.EclipseAppHandle.run(EclipseAppHandle.java:203)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.runApplication(EclipseAppLauncher.java:136)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.start(EclipseAppLauncher.java:104)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:401)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:255)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:568)
+	at org.eclipse.equinox.launcher.Main.invokeFramework(Main.java:659)
+	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:596)
+	at org.eclipse.equinox.launcher.Main.run(Main.java:1467)
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-03-23 00:43:26.922
+!MESSAGE Boot LS startup time from start to initialized: 2087ms
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-03-23 00:43:27.053
+!MESSAGE ClasspathListenerHandler addClasspathListener sts4.classpath.QQhDOWssisBatched = true
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-03-23 00:43:27.066
+!MESSAGE Setting up ClasspathListenerManager
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-03-23 00:43:27.073
+!MESSAGE Scheduling initial event for all projects ...
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-03-23 00:43:27.076
+!MESSAGE Scheduling initial event for all projects DONE
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-03-23 00:43:27.076
+!MESSAGE ClasspathListenerHandler addClasspathListener sts4.classpath.QQhDOWss => OK
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-03-23 00:43:27.083
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-03-23 00:43:27.127
+!MESSAGE classpath=147 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-03-23 00:43:27.129
+!MESSAGE buffering callback sts4.classpath.QQhDOWss carpeta-ciudadana-documents false 147
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-03-23 00:43:27.129
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-03-23 00:43:27.148
+!MESSAGE classpath=149 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-03-23 00:43:27.153
+!MESSAGE buffering callback sts4.classpath.QQhDOWss api-gateway false 149
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-03-23 00:43:27.154
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-03-23 00:43:27.176
+!MESSAGE classpath=187 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-03-23 00:43:27.178
+!MESSAGE buffering callback sts4.classpath.QQhDOWss carpeta-ciudadana-authentication false 187
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-03-23 00:43:27.181
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-03-23 00:43:27.194
+!MESSAGE classpath=154 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-03-23 00:43:27.197
+!MESSAGE buffering callback sts4.classpath.QQhDOWss carpeta-ciudadana-users false 154
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-03-23 00:43:27.198
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-03-23 00:43:27.212
+!MESSAGE classpath=129 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-03-23 00:43:27.217
+!MESSAGE buffering callback sts4.classpath.QQhDOWss eureka-server false 129
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-03-23 00:43:27.217
+!MESSAGE executing callback sts4.classpath.QQhDOWss 5 batched events
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-03-23 00:43:29.321
+!MESSAGE executing callback sts4.classpath.QQhDOWss FAILED
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 4 0 2022-03-23 00:43:29.329
+!MESSAGE TimeoutException
+!STACK 0
+java.util.concurrent.TimeoutException
+	at java.base/java.util.concurrent.CompletableFuture.timedGet(CompletableFuture.java:1960)
+	at java.base/java.util.concurrent.CompletableFuture.get(CompletableFuture.java:2095)
+	at org.springframework.tooling.ls.eclipse.commons.LSP4ECommandExecutor.executeClientCommand(LSP4ECommandExecutor.java:37)
+	at org.springframework.tooling.jdt.ls.commons.classpath.SendClasspathNotificationsJob.flush(SendClasspathNotificationsJob.java:178)
+	at org.springframework.tooling.jdt.ls.commons.classpath.SendClasspathNotificationsJob.run(SendClasspathNotificationsJob.java:149)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-03-23 00:44:03.890
+!MESSAGE ClasspathListenerHandler removeClasspathListener sts4.classpath.QQhDOWss
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-03-23 00:44:03.892
+!MESSAGE unsubscribing from classpath changes: sts4.classpath.QQhDOWss
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-03-23 00:44:03.894
+!MESSAGE subsribers = {}
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-03-23 00:44:03.894
+!MESSAGE ClasspathListenerHandler removeClasspathListener sts4.classpath.QQhDOWss => OK
+
+!ENTRY org.eclipse.jdt.apt.pluggable.core 1 1 2022-03-23 00:44:38.458
+!MESSAGE MapStruct: Using accessor naming strategy: org.mapstruct.ap.spi.DefaultAccessorNamingStrategy
+
+!ENTRY org.eclipse.jdt.apt.pluggable.core 1 1 2022-03-23 00:44:38.470
+!MESSAGE MapStruct: Using builder provider: org.mapstruct.ap.spi.DefaultBuilderProvider
+
+!ENTRY org.eclipse.jdt.apt.pluggable.core 1 1 2022-03-23 00:44:38.470
+!MESSAGE MapStruct: Using enum naming strategy: org.mapstruct.ap.spi.DefaultEnumMappingStrategy
+
+!ENTRY org.eclipse.jdt.apt.pluggable.core 1 1 2022-03-23 00:44:38.585
+!MESSAGE  MapStruct: processing: com.carpetaciudadana.documents.mapper.DocumentMapper.
+
+!ENTRY org.eclipse.jdt.apt.pluggable.core 1 1 2022-03-23 00:44:39.806
+!MESSAGE MapStruct: Using accessor naming strategy: org.mapstruct.ap.spi.DefaultAccessorNamingStrategy
+
+!ENTRY org.eclipse.jdt.apt.pluggable.core 1 1 2022-03-23 00:44:39.809
+!MESSAGE MapStruct: Using builder provider: org.mapstruct.ap.spi.DefaultBuilderProvider
+
+!ENTRY org.eclipse.jdt.apt.pluggable.core 1 1 2022-03-23 00:44:39.809
+!MESSAGE MapStruct: Using enum naming strategy: org.mapstruct.ap.spi.DefaultEnumMappingStrategy
+
+!ENTRY org.eclipse.jdt.apt.pluggable.core 1 1 2022-03-23 00:44:39.831
+!MESSAGE  MapStruct: processing: com.carpetaciudadana.documents.mapper.DocumentMapper.
+
+!ENTRY org.eclipse.jdt.apt.pluggable.core 1 1 2022-03-23 00:44:40.094
+!MESSAGE - MapStruct: creating bean mapping method implementation for com.carpetaciudadana.documents.dto.DocumentDTO documentstoDocumentDTO(com.carpetaciudadana.documents.domain.Documents documents).
+
+!ENTRY org.eclipse.jdt.apt.pluggable.core 1 1 2022-03-23 00:44:40.117
+!MESSAGE -- MapStruct: mapping property: documents.getDate() to: public void setDate(java.lang.String) .
+
+!ENTRY org.eclipse.jdt.apt.pluggable.core 1 1 2022-03-23 00:44:40.124
+!MESSAGE -- MapStruct: selecting property mapping: documents.getDate().
+
+!ENTRY org.eclipse.jdt.apt.pluggable.core 1 1 2022-03-23 00:44:40.124
+!MESSAGE -- MapStruct: mapping property: documents.getFileName() to: public void setFileName(java.lang.String) .
+
+!ENTRY org.eclipse.jdt.apt.pluggable.core 1 1 2022-03-23 00:44:40.124
+!MESSAGE -- MapStruct: selecting property mapping: documents.getFileName().
+
+!ENTRY org.eclipse.jdt.apt.pluggable.core 1 1 2022-03-23 00:44:40.124
+!MESSAGE -- MapStruct: mapping property: documents.getFileSize() to: public void setFileSize(java.lang.String) .
+
+!ENTRY org.eclipse.jdt.apt.pluggable.core 1 1 2022-03-23 00:44:40.125
+!MESSAGE -- MapStruct: selecting property mapping: documents.getFileSize().
+
+!ENTRY org.eclipse.jdt.apt.pluggable.core 1 1 2022-03-23 00:44:40.125
+!MESSAGE -- MapStruct: mapping property: documents.getFileType() to: public void setFileType(java.lang.String) .
+
+!ENTRY org.eclipse.jdt.apt.pluggable.core 1 1 2022-03-23 00:44:40.125
+!MESSAGE -- MapStruct: selecting property mapping: documents.getFileType().
+
+!ENTRY org.eclipse.jdt.apt.pluggable.core 1 1 2022-03-23 00:44:40.125
+!MESSAGE -- MapStruct: mapping property: documents.getId() to: public void setId(java.lang.String) .
+
+!ENTRY org.eclipse.jdt.apt.pluggable.core 1 1 2022-03-23 00:44:40.125
+!MESSAGE -- MapStruct: selecting property mapping: documents.getId().
+
+!ENTRY org.eclipse.jdt.apt.pluggable.core 1 1 2022-03-23 00:44:40.125
+!MESSAGE -- MapStruct: mapping property: documents.getIdUser() to: public void setIdUser(java.lang.String) .
+
+!ENTRY org.eclipse.jdt.apt.pluggable.core 1 1 2022-03-23 00:44:40.126
+!MESSAGE -- MapStruct: selecting property mapping: documents.getIdUser().
+
+!ENTRY org.eclipse.jdt.apt.pluggable.core 1 1 2022-03-23 00:44:40.126
+!MESSAGE -- MapStruct: mapping property: documents.getUrl() to: public void setUrl(java.lang.String) .
+
+!ENTRY org.eclipse.jdt.apt.pluggable.core 1 1 2022-03-23 00:44:40.127
+!MESSAGE -- MapStruct: selecting property mapping: documents.getUrl().
+
+!ENTRY org.eclipse.jdt.apt.pluggable.core 1 1 2022-03-23 00:44:40.346
+!MESSAGE MapStruct: Using accessor naming strategy: org.mapstruct.ap.spi.DefaultAccessorNamingStrategy
+
+!ENTRY org.eclipse.jdt.apt.pluggable.core 1 1 2022-03-23 00:44:40.346
+!MESSAGE MapStruct: Using builder provider: org.mapstruct.ap.spi.DefaultBuilderProvider
+
+!ENTRY org.eclipse.jdt.apt.pluggable.core 1 1 2022-03-23 00:44:40.346
+!MESSAGE MapStruct: Using enum naming strategy: org.mapstruct.ap.spi.DefaultEnumMappingStrategy
+
+!ENTRY org.eclipse.jdt.apt.pluggable.core 1 1 2022-03-23 00:44:40.349
+!MESSAGE  MapStruct: processing: com.carpetaciudadana.documents.mapper.DocumentMapper.
+
+!ENTRY org.eclipse.jdt.apt.pluggable.core 1 1 2022-03-23 00:44:40.384
+!MESSAGE - MapStruct: creating bean mapping method implementation for com.carpetaciudadana.documents.dto.DocumentDTO documentstoDocumentDTO(com.carpetaciudadana.documents.domain.Documents documents).
+
+!ENTRY org.eclipse.jdt.apt.pluggable.core 1 1 2022-03-23 00:44:40.386
+!MESSAGE -- MapStruct: mapping property: documents.getDate() to: public void setDate(java.lang.String) .
+
+!ENTRY org.eclipse.jdt.apt.pluggable.core 1 1 2022-03-23 00:44:40.387
+!MESSAGE -- MapStruct: selecting property mapping: documents.getDate().
+
+!ENTRY org.eclipse.jdt.apt.pluggable.core 1 1 2022-03-23 00:44:40.387
+!MESSAGE -- MapStruct: mapping property: documents.getFileName() to: public void setFileName(java.lang.String) .
+
+!ENTRY org.eclipse.jdt.apt.pluggable.core 1 1 2022-03-23 00:44:40.387
+!MESSAGE -- MapStruct: selecting property mapping: documents.getFileName().
+
+!ENTRY org.eclipse.jdt.apt.pluggable.core 1 1 2022-03-23 00:44:40.388
+!MESSAGE -- MapStruct: mapping property: documents.getFileSize() to: public void setFileSize(java.lang.String) .
+
+!ENTRY org.eclipse.jdt.apt.pluggable.core 1 1 2022-03-23 00:44:40.388
+!MESSAGE -- MapStruct: selecting property mapping: documents.getFileSize().
+
+!ENTRY org.eclipse.jdt.apt.pluggable.core 1 1 2022-03-23 00:44:40.388
+!MESSAGE -- MapStruct: mapping property: documents.getFileType() to: public void setFileType(java.lang.String) .
+
+!ENTRY org.eclipse.jdt.apt.pluggable.core 1 1 2022-03-23 00:44:40.388
+!MESSAGE -- MapStruct: selecting property mapping: documents.getFileType().
+
+!ENTRY org.eclipse.jdt.apt.pluggable.core 1 1 2022-03-23 00:44:40.388
+!MESSAGE -- MapStruct: mapping property: documents.getId() to: public void setId(java.lang.String) .
+
+!ENTRY org.eclipse.jdt.apt.pluggable.core 1 1 2022-03-23 00:44:40.388
+!MESSAGE -- MapStruct: selecting property mapping: documents.getId().
+
+!ENTRY org.eclipse.jdt.apt.pluggable.core 1 1 2022-03-23 00:44:40.388
+!MESSAGE -- MapStruct: mapping property: documents.getIdUser() to: public void setIdUser(java.lang.String) .
+
+!ENTRY org.eclipse.jdt.apt.pluggable.core 1 1 2022-03-23 00:44:40.389
+!MESSAGE -- MapStruct: selecting property mapping: documents.getIdUser().
+
+!ENTRY org.eclipse.jdt.apt.pluggable.core 1 1 2022-03-23 00:44:40.389
+!MESSAGE -- MapStruct: mapping property: documents.getUrl() to: public void setUrl(java.lang.String) .
+
+!ENTRY org.eclipse.jdt.apt.pluggable.core 1 1 2022-03-23 00:44:40.389
+!MESSAGE -- MapStruct: selecting property mapping: documents.getUrl().
+
+!ENTRY org.eclipse.jdt.apt.pluggable.core 1 1 2022-03-23 00:44:40.394
+!MESSAGE - MapStruct: creating bean mapping method implementation for com.carpetaciudadana.documents.domain.Documents documentDTOtoDocuments(com.carpetaciudadana.documents.dto.DocumentDTO documenDTO).
+
+!ENTRY org.eclipse.jdt.apt.pluggable.core 1 1 2022-03-23 00:44:40.395
+!MESSAGE -- MapStruct: mapping property: documenDTO.getDate() to: public void setDate(java.lang.String) .
+
+!ENTRY org.eclipse.jdt.apt.pluggable.core 1 1 2022-03-23 00:44:40.395
+!MESSAGE -- MapStruct: selecting property mapping: documenDTO.getDate().
+
+!ENTRY org.eclipse.jdt.apt.pluggable.core 1 1 2022-03-23 00:44:40.396
+!MESSAGE -- MapStruct: mapping property: documenDTO.getFileName() to: public void setFileName(java.lang.String) .
+
+!ENTRY org.eclipse.jdt.apt.pluggable.core 1 1 2022-03-23 00:44:40.396
+!MESSAGE -- MapStruct: selecting property mapping: documenDTO.getFileName().
+
+!ENTRY org.eclipse.jdt.apt.pluggable.core 1 1 2022-03-23 00:44:40.396
+!MESSAGE -- MapStruct: mapping property: documenDTO.getFileSize() to: public void setFileSize(java.lang.String) .
+
+!ENTRY org.eclipse.jdt.apt.pluggable.core 1 1 2022-03-23 00:44:40.396
+!MESSAGE -- MapStruct: selecting property mapping: documenDTO.getFileSize().
+
+!ENTRY org.eclipse.jdt.apt.pluggable.core 1 1 2022-03-23 00:44:40.396
+!MESSAGE -- MapStruct: mapping property: documenDTO.getFileType() to: public void setFileType(java.lang.String) .
+
+!ENTRY org.eclipse.jdt.apt.pluggable.core 1 1 2022-03-23 00:44:40.396
+!MESSAGE -- MapStruct: selecting property mapping: documenDTO.getFileType().
+
+!ENTRY org.eclipse.jdt.apt.pluggable.core 1 1 2022-03-23 00:44:40.396
+!MESSAGE -- MapStruct: mapping property: documenDTO.getId() to: public void setId(java.lang.String) .
+
+!ENTRY org.eclipse.jdt.apt.pluggable.core 1 1 2022-03-23 00:44:40.397
+!MESSAGE -- MapStruct: selecting property mapping: documenDTO.getId().
+
+!ENTRY org.eclipse.jdt.apt.pluggable.core 1 1 2022-03-23 00:44:40.397
+!MESSAGE -- MapStruct: mapping property: documenDTO.getIdUser() to: public void setIdUser(java.lang.String) .
+
+!ENTRY org.eclipse.jdt.apt.pluggable.core 1 1 2022-03-23 00:44:40.397
+!MESSAGE -- MapStruct: selecting property mapping: documenDTO.getIdUser().
+
+!ENTRY org.eclipse.jdt.apt.pluggable.core 1 1 2022-03-23 00:44:40.397
+!MESSAGE -- MapStruct: mapping property: documenDTO.getUrl() to: public void setUrl(java.lang.String) .
+
+!ENTRY org.eclipse.jdt.apt.pluggable.core 1 1 2022-03-23 00:44:40.397
+!MESSAGE -- MapStruct: selecting property mapping: documenDTO.getUrl().
+
+!ENTRY org.eclipse.jdt.apt.pluggable.core 1 1 2022-03-23 00:44:40.398
+!MESSAGE - MapStruct: creating iterable mapping method implementation for java.util.List<com.carpetaciudadana.documents.dto.DocumentDTO> documentsListTodocumentDTOList(java.util.List<com.carpetaciudadana.documents.domain.Documents> documents).
+
+!ENTRY org.eclipse.jdt.apt.pluggable.core 1 1 2022-03-23 00:44:40.399
+!MESSAGE -- MapStruct: selecting element mapping: com.carpetaciudadana.documents.dto.DocumentDTO #documentstoDocumentDTO(documents1).
+
+!ENTRY org.eclipse.jdt.apt.pluggable.core 1 1 2022-03-23 00:44:40.400
+!MESSAGE - MapStruct: creating iterable mapping method implementation for java.util.List<com.carpetaciudadana.documents.domain.Documents> documentDTOListToDocumentsList(java.util.List<com.carpetaciudadana.documents.dto.DocumentDTO> documentDTO).
+
+!ENTRY org.eclipse.jdt.apt.pluggable.core 1 1 2022-03-23 00:44:40.400
+!MESSAGE -- MapStruct: selecting element mapping: com.carpetaciudadana.documents.domain.Documents #documentDTOtoDocuments(documentDTO1).
+
+!ENTRY org.eclipse.jdt.apt.pluggable.core 1 1 2022-03-23 00:44:43.319
+!MESSAGE MapStruct: Using accessor naming strategy: org.mapstruct.ap.spi.DefaultAccessorNamingStrategy
+
+!ENTRY org.eclipse.jdt.apt.pluggable.core 1 1 2022-03-23 00:44:43.331
+!MESSAGE MapStruct: Using builder provider: org.mapstruct.ap.spi.DefaultBuilderProvider
+
+!ENTRY org.eclipse.jdt.apt.pluggable.core 1 1 2022-03-23 00:44:43.331
+!MESSAGE MapStruct: Using enum naming strategy: org.mapstruct.ap.spi.DefaultEnumMappingStrategy
+
+!ENTRY org.eclipse.jdt.apt.pluggable.core 1 1 2022-03-23 00:44:43.621
+!MESSAGE  MapStruct: processing: com.carpetaciudadana.documents.mapper.DocumentMapper.
+
+!ENTRY org.eclipse.jdt.apt.pluggable.core 1 1 2022-03-23 00:44:43.647
+!MESSAGE - MapStruct: creating bean mapping method implementation for com.carpetaciudadana.documents.dto.DocumentDTO documentstoDocumentDTO(com.carpetaciudadana.documents.domain.Documents documents).
+
+!ENTRY org.eclipse.jdt.apt.pluggable.core 1 1 2022-03-23 00:44:43.651
+!MESSAGE -- MapStruct: mapping property: documents.getDate() to: public void setDate(java.lang.String) .
+
+!ENTRY org.eclipse.jdt.apt.pluggable.core 1 1 2022-03-23 00:44:43.651
+!MESSAGE -- MapStruct: selecting property mapping: documents.getDate().
+
+!ENTRY org.eclipse.jdt.apt.pluggable.core 1 1 2022-03-23 00:44:43.651
+!MESSAGE -- MapStruct: mapping property: documents.getFileName() to: public void setFileName(java.lang.String) .
+
+!ENTRY org.eclipse.jdt.apt.pluggable.core 1 1 2022-03-23 00:44:43.652
+!MESSAGE -- MapStruct: selecting property mapping: documents.getFileName().
+
+!ENTRY org.eclipse.jdt.apt.pluggable.core 1 1 2022-03-23 00:44:43.652
+!MESSAGE -- MapStruct: mapping property: documents.getFileSize() to: public void setFileSize(java.lang.String) .
+
+!ENTRY org.eclipse.jdt.apt.pluggable.core 1 1 2022-03-23 00:44:43.652
+!MESSAGE -- MapStruct: selecting property mapping: documents.getFileSize().
+
+!ENTRY org.eclipse.jdt.apt.pluggable.core 1 1 2022-03-23 00:44:43.652
+!MESSAGE -- MapStruct: mapping property: documents.getFileType() to: public void setFileType(java.lang.String) .
+
+!ENTRY org.eclipse.jdt.apt.pluggable.core 1 1 2022-03-23 00:44:43.652
+!MESSAGE -- MapStruct: selecting property mapping: documents.getFileType().
+
+!ENTRY org.eclipse.jdt.apt.pluggable.core 1 1 2022-03-23 00:44:43.652
+!MESSAGE -- MapStruct: mapping property: documents.getId() to: public void setId(java.lang.String) .
+
+!ENTRY org.eclipse.jdt.apt.pluggable.core 1 1 2022-03-23 00:44:43.652
+!MESSAGE -- MapStruct: selecting property mapping: documents.getId().
+
+!ENTRY org.eclipse.jdt.apt.pluggable.core 1 1 2022-03-23 00:44:43.653
+!MESSAGE -- MapStruct: mapping property: documents.getIdUser() to: public void setIdUser(java.lang.String) .
+
+!ENTRY org.eclipse.jdt.apt.pluggable.core 1 1 2022-03-23 00:44:43.653
+!MESSAGE -- MapStruct: selecting property mapping: documents.getIdUser().
+
+!ENTRY org.eclipse.jdt.apt.pluggable.core 1 1 2022-03-23 00:44:43.653
+!MESSAGE -- MapStruct: mapping property: documents.getUrl() to: public void setUrl(java.lang.String) .
+
+!ENTRY org.eclipse.jdt.apt.pluggable.core 1 1 2022-03-23 00:44:43.653
+!MESSAGE -- MapStruct: selecting property mapping: documents.getUrl().
+
+!ENTRY org.eclipse.jdt.apt.pluggable.core 1 1 2022-03-23 00:44:43.654
+!MESSAGE - MapStruct: creating bean mapping method implementation for com.carpetaciudadana.documents.domain.Documents documentDTOtoDocuments(com.carpetaciudadana.documents.dto.DocumentDTO documenDTO).
+
+!ENTRY org.eclipse.jdt.apt.pluggable.core 1 1 2022-03-23 00:44:43.654
+!MESSAGE -- MapStruct: mapping property: documenDTO.getDate() to: public void setDate(java.lang.String) .
+
+!ENTRY org.eclipse.jdt.apt.pluggable.core 1 1 2022-03-23 00:44:43.655
+!MESSAGE -- MapStruct: selecting property mapping: documenDTO.getDate().
+
+!ENTRY org.eclipse.jdt.apt.pluggable.core 1 1 2022-03-23 00:44:43.655
+!MESSAGE -- MapStruct: mapping property: documenDTO.getFileName() to: public void setFileName(java.lang.String) .
+
+!ENTRY org.eclipse.jdt.apt.pluggable.core 1 1 2022-03-23 00:44:43.655
+!MESSAGE -- MapStruct: selecting property mapping: documenDTO.getFileName().
+
+!ENTRY org.eclipse.jdt.apt.pluggable.core 1 1 2022-03-23 00:44:43.655
+!MESSAGE -- MapStruct: mapping property: documenDTO.getFileSize() to: public void setFileSize(java.lang.String) .
+
+!ENTRY org.eclipse.jdt.apt.pluggable.core 1 1 2022-03-23 00:44:43.655
+!MESSAGE -- MapStruct: selecting property mapping: documenDTO.getFileSize().
+
+!ENTRY org.eclipse.jdt.apt.pluggable.core 1 1 2022-03-23 00:44:43.655
+!MESSAGE -- MapStruct: mapping property: documenDTO.getFileType() to: public void setFileType(java.lang.String) .
+
+!ENTRY org.eclipse.jdt.apt.pluggable.core 1 1 2022-03-23 00:44:43.656
+!MESSAGE -- MapStruct: selecting property mapping: documenDTO.getFileType().
+
+!ENTRY org.eclipse.jdt.apt.pluggable.core 1 1 2022-03-23 00:44:43.656
+!MESSAGE -- MapStruct: mapping property: documenDTO.getId() to: public void setId(java.lang.String) .
+
+!ENTRY org.eclipse.jdt.apt.pluggable.core 1 1 2022-03-23 00:44:43.656
+!MESSAGE -- MapStruct: selecting property mapping: documenDTO.getId().
+
+!ENTRY org.eclipse.jdt.apt.pluggable.core 1 1 2022-03-23 00:44:43.656
+!MESSAGE -- MapStruct: mapping property: documenDTO.getIdUser() to: public void setIdUser(java.lang.String) .
+
+!ENTRY org.eclipse.jdt.apt.pluggable.core 1 1 2022-03-23 00:44:43.657
+!MESSAGE -- MapStruct: selecting property mapping: documenDTO.getIdUser().
+
+!ENTRY org.eclipse.jdt.apt.pluggable.core 1 1 2022-03-23 00:44:43.657
+!MESSAGE -- MapStruct: mapping property: documenDTO.getUrl() to: public void setUrl(java.lang.String) .
+
+!ENTRY org.eclipse.jdt.apt.pluggable.core 1 1 2022-03-23 00:44:43.657
+!MESSAGE -- MapStruct: selecting property mapping: documenDTO.getUrl().
+
+!ENTRY org.eclipse.jdt.apt.pluggable.core 1 1 2022-03-23 00:44:43.660
+!MESSAGE - MapStruct: creating iterable mapping method implementation for java.util.List<com.carpetaciudadana.documents.dto.DocumentDTO> documentsListTodocumentDTOList(java.util.List<com.carpetaciudadana.documents.domain.Documents> documents).
+
+!ENTRY org.eclipse.jdt.apt.pluggable.core 1 1 2022-03-23 00:44:43.661
+!MESSAGE -- MapStruct: selecting element mapping: com.carpetaciudadana.documents.dto.DocumentDTO #documentstoDocumentDTO(documents1).
+
+!ENTRY org.eclipse.jdt.apt.pluggable.core 1 1 2022-03-23 00:44:43.661
+!MESSAGE - MapStruct: creating iterable mapping method implementation for java.util.List<com.carpetaciudadana.documents.domain.Documents> documentDTOListToDocumentsList(java.util.List<com.carpetaciudadana.documents.dto.DocumentDTO> documentDTO).
+
+!ENTRY org.eclipse.jdt.apt.pluggable.core 1 1 2022-03-23 00:44:43.661
+!MESSAGE -- MapStruct: selecting element mapping: com.carpetaciudadana.documents.domain.Documents #documentDTOtoDocuments(documentDTO1).
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-03-23 00:51:27.843
+!MESSAGE Entering DelegatingStreamConnectionProvider()
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-03-23 00:51:27.857
+!MESSAGE DelegatingStreamConnectionProvider classloader = org.eclipse.osgi.internal.loader.EquinoxClassLoader@3d2bcf0a[org.springframework.tooling.boot.ls:1.32.0.202203131529(id=562)]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-03-23 00:51:27.857
+!MESSAGE SpringBootLanguageServer exists!
+
+!ENTRY org.eclipse.lsp4e 4 0 2022-03-23 00:51:28.938
+!MESSAGE TimeoutException
+!STACK 0
+java.util.concurrent.TimeoutException
+	at java.base/java.util.concurrent.CompletableFuture.timedGet(CompletableFuture.java:1960)
+	at java.base/java.util.concurrent.CompletableFuture.get(CompletableFuture.java:2095)
+	at org.eclipse.lsp4e.LanguageServerWrapper.supportsWorkspaceFolderCapability(LanguageServerWrapper.java:550)
+	at org.eclipse.lsp4e.LanguageServerWrapper.canOperate(LanguageServerWrapper.java:539)
+	at org.eclipse.lsp4e.LanguageServerWrapper.canOperate(LanguageServerWrapper.java:872)
+	at org.eclipse.lsp4e.LanguageServiceAccessor.lambda$6(LanguageServiceAccessor.java:361)
+	at java.base/java.util.stream.ReferencePipeline$2$1.accept(ReferencePipeline.java:178)
+	at java.base/java.util.stream.ReferencePipeline$2$1.accept(ReferencePipeline.java:179)
+	at java.base/java.util.HashMap$KeySpliterator.forEachRemaining(HashMap.java:1707)
+	at java.base/java.util.stream.AbstractPipeline.copyInto(AbstractPipeline.java:509)
+	at java.base/java.util.stream.AbstractPipeline.wrapAndCopyInto(AbstractPipeline.java:499)
+	at java.base/java.util.stream.ReduceOps$ReduceOp.evaluateSequential(ReduceOps.java:921)
+	at java.base/java.util.stream.AbstractPipeline.evaluate(AbstractPipeline.java:234)
+	at java.base/java.util.stream.ReferencePipeline.collect(ReferencePipeline.java:682)
+	at org.eclipse.lsp4e.LanguageServiceAccessor.getLSWrappers(LanguageServiceAccessor.java:362)
+	at org.eclipse.lsp4e.LanguageServiceAccessor.getLanguageServers(LanguageServiceAccessor.java:588)
+	at org.eclipse.lsp4e.operations.codelens.CodeLensProvider.provideCodeMinings(CodeLensProvider.java:41)
+	at org.eclipse.lsp4e.operations.codelens.CodeLensProvider.provideCodeMinings(CodeLensProvider.java:73)
+	at org.eclipse.jface.internal.text.codemining.CodeMiningManager.lambda$2(CodeMiningManager.java:189)
+	at java.base/java.util.stream.ReferencePipeline$3$1.accept(ReferencePipeline.java:197)
+	at java.base/java.util.Spliterators$ArraySpliterator.forEachRemaining(Spliterators.java:992)
+	at java.base/java.util.stream.AbstractPipeline.copyInto(AbstractPipeline.java:509)
+	at java.base/java.util.stream.AbstractPipeline.wrapAndCopyInto(AbstractPipeline.java:499)
+	at java.base/java.util.stream.ReduceOps$ReduceOp.evaluateSequential(ReduceOps.java:921)
+	at java.base/java.util.stream.AbstractPipeline.evaluate(AbstractPipeline.java:234)
+	at java.base/java.util.stream.ReferencePipeline.collect(ReferencePipeline.java:682)
+	at org.eclipse.jface.internal.text.codemining.CodeMiningManager.getCodeMinings(CodeMiningManager.java:195)
+	at org.eclipse.jface.internal.text.codemining.CodeMiningManager.updateCodeMinings(CodeMiningManager.java:140)
+	at org.eclipse.jface.internal.text.codemining.CodeMiningManager.run(CodeMiningManager.java:129)
+	at org.eclipse.jface.text.source.SourceViewer.updateCodeMinings(SourceViewer.java:1313)
+	at org.eclipse.jface.text.source.SourceViewer.ensureCodeMiningManagerInstalled(SourceViewer.java:1301)
+	at org.eclipse.jface.text.source.SourceViewer.setCodeMiningAnnotationPainter(SourceViewer.java:1320)
+	at org.eclipse.ui.texteditor.SourceViewerDecorationSupport.showAnnotations(SourceViewerDecorationSupport.java:830)
+	at org.eclipse.ui.texteditor.SourceViewerDecorationSupport.updateTextDecorations(SourceViewerDecorationSupport.java:301)
+	at org.eclipse.ui.texteditor.SourceViewerDecorationSupport.install(SourceViewerDecorationSupport.java:269)
+	at org.eclipse.ui.texteditor.AbstractDecoratedTextEditor.createPartControl(AbstractDecoratedTextEditor.java:456)
+	at org.eclipse.ui.internal.genericeditor.ExtensionBasedTextEditor.createPartControl(ExtensionBasedTextEditor.java:166)
+	at org.eclipse.ui.internal.e4.compatibility.CompatibilityPart.createPartControl(CompatibilityPart.java:158)
+	at org.eclipse.ui.internal.e4.compatibility.CompatibilityEditor.createPartControl(CompatibilityEditor.java:96)
+	at org.eclipse.ui.internal.e4.compatibility.CompatibilityPart.create(CompatibilityPart.java:365)
+	at jdk.internal.reflect.GeneratedMethodAccessor151.invoke(Unknown Source)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:568)
+	at org.eclipse.e4.core.internal.di.MethodRequestor.execute(MethodRequestor.java:58)
+	at org.eclipse.e4.core.internal.di.InjectorImpl.processAnnotated(InjectorImpl.java:995)
+	at org.eclipse.e4.core.internal.di.InjectorImpl.processAnnotated(InjectorImpl.java:960)
+	at org.eclipse.e4.core.internal.di.InjectorImpl.internalInject(InjectorImpl.java:140)
+	at org.eclipse.e4.core.internal.di.InjectorImpl.internalMake(InjectorImpl.java:403)
+	at org.eclipse.e4.core.internal.di.InjectorImpl.make(InjectorImpl.java:330)
+	at org.eclipse.e4.core.contexts.ContextInjectionFactory.make(ContextInjectionFactory.java:202)
+	at org.eclipse.e4.ui.internal.workbench.ReflectionContributionFactory.createFromBundle(ReflectionContributionFactory.java:91)
+	at org.eclipse.e4.ui.internal.workbench.ReflectionContributionFactory.doCreate(ReflectionContributionFactory.java:60)
+	at org.eclipse.e4.ui.internal.workbench.ReflectionContributionFactory.create(ReflectionContributionFactory.java:42)
+	at org.eclipse.e4.ui.workbench.renderers.swt.ContributedPartRenderer.createWidget(ContributedPartRenderer.java:132)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.createWidget(PartRenderingEngine.java:995)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.safeCreateGui(PartRenderingEngine.java:659)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.safeCreateGui(PartRenderingEngine.java:763)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine$2.run(PartRenderingEngine.java:728)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:45)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.createGui(PartRenderingEngine.java:712)
+	at org.eclipse.e4.ui.internal.workbench.PartServiceImpl.lambda$0(PartServiceImpl.java:105)
+	at org.eclipse.e4.ui.services.internal.events.UIEventHandler.lambda$0(UIEventHandler.java:38)
+	at org.eclipse.swt.widgets.Synchronizer.syncExec(Synchronizer.java:236)
+	at org.eclipse.ui.internal.UISynchronizer.syncExec(UISynchronizer.java:133)
+	at org.eclipse.swt.widgets.Display.syncExec(Display.java:5186)
+	at org.eclipse.e4.ui.workbench.swt.DisplayUISynchronize.syncExec(DisplayUISynchronize.java:34)
+	at org.eclipse.e4.ui.services.internal.events.UIEventHandler.handleEvent(UIEventHandler.java:38)
+	at org.eclipse.equinox.internal.event.EventHandlerWrapper.handleEvent(EventHandlerWrapper.java:205)
+	at org.eclipse.equinox.internal.event.EventHandlerTracker.dispatchEvent(EventHandlerTracker.java:203)
+	at org.eclipse.equinox.internal.event.EventHandlerTracker.dispatchEvent(EventHandlerTracker.java:1)
+	at org.eclipse.osgi.framework.eventmgr.EventManager.dispatchEvent(EventManager.java:234)
+	at org.eclipse.osgi.framework.eventmgr.ListenerQueue.dispatchEventSynchronous(ListenerQueue.java:151)
+	at org.eclipse.equinox.internal.event.EventAdminImpl.dispatchEvent(EventAdminImpl.java:133)
+	at org.eclipse.equinox.internal.event.EventAdminImpl.sendEvent(EventAdminImpl.java:75)
+	at org.eclipse.equinox.internal.event.EventComponent.sendEvent(EventComponent.java:44)
+	at org.eclipse.e4.ui.services.internal.events.EventBroker.send(EventBroker.java:55)
+	at org.eclipse.e4.ui.internal.workbench.UIEventPublisher.notifyChanged(UIEventPublisher.java:63)
+	at org.eclipse.emf.common.notify.impl.BasicNotifierImpl.eNotify(BasicNotifierImpl.java:424)
+	at org.eclipse.e4.ui.model.application.ui.impl.ElementContainerImpl.setSelectedElementGen(ElementContainerImpl.java:170)
+	at org.eclipse.e4.ui.model.application.ui.impl.ElementContainerImpl.setSelectedElement(ElementContainerImpl.java:188)
+	at org.eclipse.e4.ui.internal.workbench.ModelServiceImpl.showElementInWindow(ModelServiceImpl.java:660)
+	at org.eclipse.e4.ui.internal.workbench.ModelServiceImpl.bringToTop(ModelServiceImpl.java:624)
+	at org.eclipse.e4.ui.internal.workbench.PartServiceImpl.delegateBringToTop(PartServiceImpl.java:787)
+	at org.eclipse.e4.ui.internal.workbench.PartServiceImpl.bringToTop(PartServiceImpl.java:401)
+	at org.eclipse.e4.ui.internal.workbench.PartServiceImpl.showPart(PartServiceImpl.java:1261)
+	at org.eclipse.ui.internal.WorkbenchPage.busyOpenEditor(WorkbenchPage.java:3207)
+	at org.eclipse.ui.internal.WorkbenchPage.lambda$9(WorkbenchPage.java:3097)
+	at org.eclipse.swt.custom.BusyIndicator.showWhile(BusyIndicator.java:74)
+	at org.eclipse.ui.internal.WorkbenchPage.openEditor(WorkbenchPage.java:3095)
+	at org.eclipse.ui.internal.WorkbenchPage.openEditor(WorkbenchPage.java:3065)
+	at org.eclipse.ui.internal.WorkbenchPage.openEditor(WorkbenchPage.java:3056)
+	at org.eclipse.ui.ide.IDE.openEditor(IDE.java:569)
+	at org.eclipse.ui.ide.IDE.openEditor(IDE.java:524)
+	at org.eclipse.jdt.internal.ui.javaeditor.EditorUtility.openInEditor(EditorUtility.java:367)
+	at org.eclipse.jdt.internal.ui.javaeditor.EditorUtility.openInEditor(EditorUtility.java:172)
+	at org.eclipse.jdt.ui.actions.OpenAction.run(OpenAction.java:288)
+	at org.eclipse.jdt.ui.actions.OpenAction.run(OpenAction.java:254)
+	at org.eclipse.jdt.ui.actions.SelectionDispatchAction.dispatchRun(SelectionDispatchAction.java:274)
+	at org.eclipse.jdt.ui.actions.SelectionDispatchAction.run(SelectionDispatchAction.java:252)
+	at org.eclipse.jdt.internal.ui.packageview.PackageExplorerActionGroup.handleOpen(PackageExplorerActionGroup.java:366)
+	at org.eclipse.jdt.internal.ui.packageview.PackageExplorerPart$3.open(PackageExplorerPart.java:545)
+	at org.eclipse.ui.OpenAndLinkWithEditorHelper$InternalListener.open(OpenAndLinkWithEditorHelper.java:48)
+	at org.eclipse.jface.viewers.StructuredViewer$2.run(StructuredViewer.java:800)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:45)
+	at org.eclipse.jface.util.SafeRunnable.run(SafeRunnable.java:174)
+	at org.eclipse.jface.viewers.StructuredViewer.fireOpen(StructuredViewer.java:797)
+	at org.eclipse.jface.viewers.StructuredViewer.handleOpen(StructuredViewer.java:1116)
+	at org.eclipse.jface.util.OpenStrategy.fireOpenEvent(OpenStrategy.java:296)
+	at org.eclipse.jface.util.OpenStrategy$1.handleEvent(OpenStrategy.java:331)
+	at org.eclipse.swt.widgets.EventTable.sendEvent(EventTable.java:89)
+	at org.eclipse.swt.widgets.Display.sendEvent(Display.java:4579)
+	at org.eclipse.swt.widgets.Widget.sendEvent(Widget.java:1524)
+	at org.eclipse.swt.widgets.Widget.sendEvent(Widget.java:1547)
+	at org.eclipse.swt.widgets.Widget.sendEvent(Widget.java:1532)
+	at org.eclipse.swt.widgets.Widget.notifyListeners(Widget.java:1325)
+	at org.eclipse.swt.widgets.Display.runDeferredEvents(Display.java:4365)
+	at org.eclipse.swt.widgets.Display.readAndDispatch(Display.java:3941)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine$5.run(PartRenderingEngine.java:1155)
+	at org.eclipse.core.databinding.observable.Realm.runWithDefault(Realm.java:338)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.run(PartRenderingEngine.java:1046)
+	at org.eclipse.e4.ui.internal.workbench.E4Workbench.createAndRunUI(E4Workbench.java:155)
+	at org.eclipse.ui.internal.Workbench.lambda$3(Workbench.java:644)
+	at org.eclipse.core.databinding.observable.Realm.runWithDefault(Realm.java:338)
+	at org.eclipse.ui.internal.Workbench.createAndRunWorkbench(Workbench.java:551)
+	at org.eclipse.ui.PlatformUI.createAndRunWorkbench(PlatformUI.java:156)
+	at org.eclipse.ui.internal.ide.application.IDEApplication.start(IDEApplication.java:152)
+	at org.eclipse.equinox.internal.app.EclipseAppHandle.run(EclipseAppHandle.java:203)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.runApplication(EclipseAppLauncher.java:136)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.start(EclipseAppLauncher.java:104)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:401)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:255)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:568)
+	at org.eclipse.equinox.launcher.Main.invokeFramework(Main.java:659)
+	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:596)
+	at org.eclipse.equinox.launcher.Main.run(Main.java:1467)
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-03-23 00:51:29.103
+!MESSAGE Boot LS startup time from start to initialized: 1231ms
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-03-23 00:51:29.197
+!MESSAGE ClasspathListenerHandler addClasspathListener sts4.classpath.wbHFFpseisBatched = true
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-03-23 00:51:29.199
+!MESSAGE Setting up ClasspathListenerManager
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-03-23 00:51:29.200
+!MESSAGE Scheduling initial event for all projects ...
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-03-23 00:51:29.200
+!MESSAGE Scheduling initial event for all projects DONE
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-03-23 00:51:29.200
+!MESSAGE ClasspathListenerHandler addClasspathListener sts4.classpath.wbHFFpse => OK
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-03-23 00:51:29.200
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-03-23 00:51:29.210
+!MESSAGE classpath=187 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-03-23 00:51:29.212
+!MESSAGE buffering callback sts4.classpath.wbHFFpse carpeta-ciudadana-authentication false 187
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-03-23 00:51:29.213
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-03-23 00:51:29.215
+!MESSAGE classpath=144 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-03-23 00:51:29.216
+!MESSAGE buffering callback sts4.classpath.wbHFFpse carpeta-ciudadana-documents false 144
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-03-23 00:51:29.216
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-03-23 00:51:29.221
+!MESSAGE classpath=149 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-03-23 00:51:29.222
+!MESSAGE buffering callback sts4.classpath.wbHFFpse api-gateway false 149
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-03-23 00:51:29.222
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-03-23 00:51:29.224
+!MESSAGE classpath=154 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-03-23 00:51:29.225
+!MESSAGE buffering callback sts4.classpath.wbHFFpse carpeta-ciudadana-users false 154
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-03-23 00:51:29.227
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-03-23 00:51:29.236
+!MESSAGE classpath=129 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-03-23 00:51:29.237
+!MESSAGE buffering callback sts4.classpath.wbHFFpse eureka-server false 129
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-03-23 00:51:29.240
+!MESSAGE executing callback sts4.classpath.wbHFFpse 5 batched events
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-03-23 00:51:30.036
+!MESSAGE executing callback sts4.classpath.wbHFFpse SUCCESS [done]
+
+!ENTRY org.eclipse.lsp4e 4 0 2022-03-23 00:52:42.676
+!MESSAGE TimeoutException
+!STACK 0
+java.util.concurrent.TimeoutException
+	at java.base/java.util.concurrent.CompletableFuture.timedGet(CompletableFuture.java:1960)
+	at java.base/java.util.concurrent.CompletableFuture.get(CompletableFuture.java:2095)
+	at org.eclipse.lsp4e.operations.declaration.OpenDeclarationHyperlinkDetector.detectHyperlinks(OpenDeclarationHyperlinkDetector.java:94)
+	at org.eclipse.ui.texteditor.HyperlinkDetectorRegistry$HyperlinkDetectorDelegate.detectHyperlinks(HyperlinkDetectorRegistry.java:81)
+	at org.eclipse.jface.text.hyperlink.HyperlinkManager.findHyperlinks(HyperlinkManager.java:289)
+	at org.eclipse.jface.text.hyperlink.HyperlinkManager.findHyperlinks(HyperlinkManager.java:262)
+	at org.eclipse.jface.text.hyperlink.HyperlinkManager.mouseMove(HyperlinkManager.java:457)
+	at org.eclipse.swt.widgets.TypedListener.handleEvent(TypedListener.java:216)
+	at org.eclipse.swt.widgets.EventTable.sendEvent(EventTable.java:89)
+	at org.eclipse.swt.widgets.Display.sendEvent(Display.java:4579)
+	at org.eclipse.swt.widgets.Widget.sendEvent(Widget.java:1524)
+	at org.eclipse.swt.widgets.Widget.sendEvent(Widget.java:1547)
+	at org.eclipse.swt.widgets.Widget.sendEvent(Widget.java:1532)
+	at org.eclipse.swt.widgets.Widget.notifyListeners(Widget.java:1325)
+	at org.eclipse.swt.widgets.Display.runDeferredEvents(Display.java:4365)
+	at org.eclipse.swt.widgets.Display.readAndDispatch(Display.java:3941)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine$5.run(PartRenderingEngine.java:1155)
+	at org.eclipse.core.databinding.observable.Realm.runWithDefault(Realm.java:338)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.run(PartRenderingEngine.java:1046)
+	at org.eclipse.e4.ui.internal.workbench.E4Workbench.createAndRunUI(E4Workbench.java:155)
+	at org.eclipse.ui.internal.Workbench.lambda$3(Workbench.java:644)
+	at org.eclipse.core.databinding.observable.Realm.runWithDefault(Realm.java:338)
+	at org.eclipse.ui.internal.Workbench.createAndRunWorkbench(Workbench.java:551)
+	at org.eclipse.ui.PlatformUI.createAndRunWorkbench(PlatformUI.java:156)
+	at org.eclipse.ui.internal.ide.application.IDEApplication.start(IDEApplication.java:152)
+	at org.eclipse.equinox.internal.app.EclipseAppHandle.run(EclipseAppHandle.java:203)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.runApplication(EclipseAppLauncher.java:136)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.start(EclipseAppLauncher.java:104)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:401)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:255)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:568)
+	at org.eclipse.equinox.launcher.Main.invokeFramework(Main.java:659)
+	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:596)
+	at org.eclipse.equinox.launcher.Main.run(Main.java:1467)
