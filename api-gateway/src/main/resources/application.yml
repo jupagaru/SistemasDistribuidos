@@ -10,11 +10,6 @@ spring:
         locator:
           enabled: true
           lower-case-service-id: true
-      routes:
-      - id: users
-        uri: lb://users
-        predicates:
-          - Path=/api/v1/user/**
       default-filters: 
       - DedupeResponseHeader=Access-Control-Allow-Origin Access-Control-Allow-Credentials, RETAIN_UNIQUE
       globalcors:
@@ -37,3 +32,5 @@ eureka:
     serviceUrl:
       defaultZone: http://localhost:1111/eureka
     register-with-eureka: true
+  instance:
+    prefer-ip-address: true
