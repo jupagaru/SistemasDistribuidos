@@ -1,5 +1,0 @@
-package com.carpetaciudadana.apigateway.config;
-
-public class FirebaseAuthConfig {
-
-}

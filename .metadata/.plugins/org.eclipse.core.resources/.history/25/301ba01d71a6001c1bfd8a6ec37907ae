@@ -1,5 +1,0 @@
-package com.carpetaciudadana.oauth.clients;
-
-public interface UserFeignClient {
-
-}

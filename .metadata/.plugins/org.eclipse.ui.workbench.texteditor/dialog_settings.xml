@@ -6,23 +6,23 @@
 		<item key="wholeword" value="false"/>
 		<item key="incremental" value="false"/>
 		<item key="isRegEx" value="false"/>
-		<item key="selection" value="org.mapstruct.version"/>
+		<item key="selection" value="config"/>
 		<list key="findhistory">
+			<item value="config"/>
+			<item value="client"/>
+			<item value="conf"/>
+			<item value="ACTUATOR_BASE"/>
+			<item value="feignClientValidate"/>
+			<item value="mapstruct"/>
+			<item value="email"/>
+			<item value="dependecie"/>
+			<item value="depende"/>
+			<item value="FeignInterceptor"/>
+			<item value="openfeign"/>
+			<item value="jsr"/>
+			<item value="ws"/>
+			<item value="javax"/>
 			<item value="org.mapstruct.version"/>
-			<item value="map"/>
-			<item value="keycloak"/>
-			<item value="data"/>
-			<item value="resilience4j"/>
-			<item value="mongo"/>
-			<item value="h2"/>
-			<item value="user"/>
-			<item value="users"/>
-			<item value="spring-cloud-start"/>
-			<item value="boots"/>
-			<item value="starter"/>
-			<item value="this"/>
-			<item value="column"/>
-			<item value="|"/>
 		</list>
 		<list key="replacehistory">
 		</list>
