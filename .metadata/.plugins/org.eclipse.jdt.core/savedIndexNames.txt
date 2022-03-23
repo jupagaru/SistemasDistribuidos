@@ -276,7 +276,6 @@ INDEX VERSION 1.131+/Users/juanpablogarciaurrea/Documents/Academia/Sistemas Dist
 2334319177.index
 3946343915.index
 595788905.index
-1238731728.index
 1993961494.index
 4116512232.index
 3387200430.index
@@ -285,6 +284,5 @@ INDEX VERSION 1.131+/Users/juanpablogarciaurrea/Documents/Academia/Sistemas Dist
 2246473207.index
 4249880214.index
 260828961.index
-314870621.index
 159566996.index
 3430443442.index
