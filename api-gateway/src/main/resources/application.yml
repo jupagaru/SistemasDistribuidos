@@ -28,12 +28,12 @@ spring:
     oauth2:
       resourceserver:
         jwt:
-          #issuer-uri: http://localhost:31002/auth/realms/master
-          issuer-uri: http://localhost:8080/auth/realms/master
+          issuer-uri: http://localhost:31002/auth/realms/master
+          #issuer-uri: http://localhost:8080/auth/realms/master
           
 #Register in Eureka Server
 eureka:
   client:
     serviceUrl:
-      defaultZone: http://localhost:31001/eureka
+      defaultZone: http://localhost:1111/eureka
     register-with-eureka: true
