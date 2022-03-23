@@ -12,7 +12,7 @@ public class KeycloakConfig {
     //final static String serverUrl = "http://localhost:8080/auth";
     public final static String realm = "master";
     final static String clientId = "carpeta-ciudadana";
-    final static String clientSecret = "a2b5144a-a39e-4d8b-af98-7c0caca2e05c";
+    final static String clientSecret = "6e3ddd2e-eeb6-4022-b7b1-29b8e645adb5";
     //final static String clientSecret = "3e32405d-e9f2-46a4-a449-e53df4325a2c";
     final static String userName = "admin";
     final static String password = "admin";
