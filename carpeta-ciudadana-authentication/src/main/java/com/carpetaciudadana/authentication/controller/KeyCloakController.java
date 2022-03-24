@@ -25,8 +25,7 @@ public class KeyCloakController {
 
 	@PostMapping()
 	public String addUser(@RequestBody UserDTO userDTO) {
-		service.addUser(userDTO);
-		return "User Added Successfully.";
+		return service.addUser(userDTO);
 	}
 
 	@PostMapping("/login")

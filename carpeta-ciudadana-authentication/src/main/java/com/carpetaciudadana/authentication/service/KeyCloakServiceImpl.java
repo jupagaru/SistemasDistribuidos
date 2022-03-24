@@ -30,7 +30,7 @@ public class KeyCloakServiceImpl {
 	@Autowired
 	FeignClientValidate feignClientValidate;
 
-	public void addUser(UserDTO user) {
+	public String addUser(UserDTO user) {
 		UsersResource usersResource = KeycloakConfig.getInstance().realm(KeycloakConfig.realm).users();
 		CredentialRepresentation credentialRepresentation = createPasswordCredentials(user.getPassword());
 
@@ -42,12 +42,18 @@ public class KeyCloakServiceImpl {
 		kcUser.setEmail(user.getEmail());
 		kcUser.setEnabled(true);
 		kcUser.setEmailVerified(true);
-		usersResource.create(kcUser);
 
 		try {
-			saveUserFeign(user);
+			String userRegister = feignClientValidate.validateCitizen(Integer.parseInt(user.getNumIdentificacion()));
+			if (userRegister == null) {
+				usersResource.create(kcUser);
+				saveUserFeign(user);
+				return "User Added Successfully.";
+			}else {
+				return userRegister;
+			}
 		} catch (Exception e) {
-			e.printStackTrace();
+			return e.getMessage();
 		}
 
 	}
@@ -63,9 +69,9 @@ public class KeyCloakServiceImpl {
 		userSwagger.setOperatorName("Operador Franco Garcia"); // TODO Defiir en las propiedades
 		
 		// TODO Descomentar para que vaya al centralizador
-		//String respuesta = feignClientValidate.registerCitizen(userSwagger);
-		//System.out.println("Respuesta de swagger = " + respuesta);
-		
+		String respuesta = feignClientValidate.registerCitizen(userSwagger);
+		System.out.println("Respuesta de swagger = " + respuesta);
+				
 		return feignClients.save(user);
 	}
 
