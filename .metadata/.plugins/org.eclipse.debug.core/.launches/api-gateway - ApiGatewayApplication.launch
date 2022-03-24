@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <launchConfiguration type="org.springframework.ide.eclipse.boot.launch">
     <listAttribute key="org.eclipse.debug.core.MAPPED_RESOURCE_PATHS">
-        <listEntry value="/api-gateway/src/main/java/com/carpetaciudadana/apigateway/ApiGatewayApplication.java"/>
+        <listEntry value="/api-gateway/src/main/java/com/carpetaciudadana/eureka/ApiGatewayApplication.java"/>
     </listAttribute>
     <listAttribute key="org.eclipse.debug.core.MAPPED_RESOURCE_TYPES">
         <listEntry value="1"/>
     </listAttribute>
     <booleanAttribute key="org.eclipse.jdt.launching.ATTR_EXCLUDE_TEST_CODE" value="true"/>
     <stringAttribute key="org.eclipse.jdt.launching.CLASSPATH_PROVIDER" value="org.springframework.ide.eclipse.boot.launch.BootMavenClassPathProvider"/>
-    <stringAttribute key="org.eclipse.jdt.launching.MAIN_TYPE" value="com.carpetaciudadana.apigateway.ApiGatewayApplication"/>
+    <stringAttribute key="org.eclipse.jdt.launching.MAIN_TYPE" value="com.carpetaciudadana.eureka.ApiGatewayApplication"/>
     <stringAttribute key="org.eclipse.jdt.launching.PROJECT_ATTR" value="api-gateway"/>
     <stringAttribute key="org.eclipse.jdt.launching.SOURCE_PATH_PROVIDER" value="org.springframework.ide.eclipse.boot.launch.BootMavenSourcePathProvider"/>
     <stringAttribute key="org.eclipse.jdt.launching.VM_ARGUMENTS" value="-Djava.security.egd=file:/dev/./urandom "/>

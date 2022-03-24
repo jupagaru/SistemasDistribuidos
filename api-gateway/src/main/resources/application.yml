@@ -6,6 +6,16 @@ spring:
     name: api-gateway
   cloud:
     gateway:
+      routes:
+      - uri: lb://authentication
+        predicates:
+        - Path=/authentication/**
+      - uri: lb://documents
+        predicates:
+        - Path=/documents/**
+      - uri: lb://users
+        predicates:
+        - Path=/users/**
       discovery:
         locator:
           enabled: true
@@ -23,14 +33,22 @@ spring:
     oauth2:
       resourceserver:
         jwt:
-          #issuer-uri: http://localhost:31002/auth/realms/master
-          issuer-uri: http://localhost:8080/auth/realms/master
+          #issuer-uri: http://localhost:8080/auth/realms/master
+          issuer-uri: http://localhost:31002/auth/realms/master
           
+#Usar la instrumentacion de Sleuth
+  #sleuth:
+   # reactor:
+    #  instrumentation-type: decorate-on-each
+      
+#Conectarse con el servidor de Zipkin
+  #zipkin:
+   # base-url: http://localhost:9411
+    
 #Register in Eureka Server
 eureka:
   client:
-    serviceUrl:
+    service-url:
       defaultZone: http://localhost:1111/eureka
     register-with-eureka: true
-  instance:
-    prefer-ip-address: true
+      
