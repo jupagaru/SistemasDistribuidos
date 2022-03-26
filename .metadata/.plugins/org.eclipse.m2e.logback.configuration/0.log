@@ -21679,3 +21679,19 @@ org.eclipse.core.runtime.CoreException: Could not resolve artifact de.codecentri
 2022-03-25 21:41:49,332 [Worker-34: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
 2022-03-25 21:41:49,333 [Worker-34: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
 2022-03-25 21:41:49,333 [Worker-34: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/juanpablogarciaurrea/Documents/Academia/Sistemas Distribuidos/workspace/carpeta-ciudadana-documents/src/test/resources
+2022-03-25 22:39:36,746 [Worker-42: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-03-25 22:39:36,751 [Worker-42: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-03-25 22:39:36,758 [Worker-42: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-03-25 22:39:36,762 [Worker-42: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-03-25 22:39:36,763 [Worker-42: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-03-25 22:39:36,763 [Worker-42: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-03-25 22:39:36,763 [Worker-42: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/juanpablogarciaurrea/Documents/Academia/Sistemas Distribuidos/workspace/carpeta-ciudadana-authentication/src/test/resources
+2022-03-25 22:39:51,927 [Worker-40: Launching Executing install in _Users_juanpablogarciaurrea_Documents_Academia_Sistemas Distribuidos_workspace_carpeta-ciudadana-authentication] INFO  o.e.m.i.launch.MavenLaunchDelegate - /Users/juanpablogarciaurrea/Documents/Academia/Sistemas Distribuidos/workspace/carpeta-ciudadana-authentication
+2022-03-25 22:39:51,933 [Worker-40: Launching Executing install in _Users_juanpablogarciaurrea_Documents_Academia_Sistemas Distribuidos_workspace_carpeta-ciudadana-authentication] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -Ppom.xml -B install -Dstyle.color=always
+2022-03-25 22:39:59,250 [Worker-43: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-03-25 22:39:59,250 [Worker-43: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-03-25 22:39:59,251 [Worker-43: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-03-25 22:39:59,251 [Worker-43: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-03-25 22:39:59,251 [Worker-43: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-03-25 22:39:59,251 [Worker-43: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-03-25 22:39:59,251 [Worker-43: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/juanpablogarciaurrea/Documents/Academia/Sistemas Distribuidos/workspace/carpeta-ciudadana-authentication/src/test/resources
