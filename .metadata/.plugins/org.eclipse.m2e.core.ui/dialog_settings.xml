@@ -2,6 +2,7 @@
 <section name="Workbench">
 	<section name="MavenProjectImportWizardPage">
 		<list key="rootDirectory">
+			<item value="/Users/juanpablogarciaurrea/Documents/Academia/Sistemas Distribuidos/workspace/config-server"/>
 			<item value="/Users/juanpablogarciaurrea/Documents/Academia/Sistemas Distribuidos/workspace/api-gateway"/>
 			<item value="/Users/juanpablogarciaurrea/Documents/Academia/Arquitectura Avanzada/Repositorios/bank-balance"/>
 			<item value="/Users/juanpablogarciaurrea/Documents/Academia/Sistemas Distribuidos/Repositorios/PruebaEurekaKubernetes/microservices-netflix-sample"/>

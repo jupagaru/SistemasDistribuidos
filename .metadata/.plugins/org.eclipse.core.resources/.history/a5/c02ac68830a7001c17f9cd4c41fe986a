@@ -1,5 +1,0 @@
-package com.carpetaciudadana.users.config;
-
-public class SecurityConfig {
-
-}
