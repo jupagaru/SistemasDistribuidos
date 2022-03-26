@@ -6,8 +6,10 @@
 		<item key="wholeword" value="false"/>
 		<item key="incremental" value="false"/>
 		<item key="isRegEx" value="false"/>
-		<item key="selection" value="config"/>
+		<item key="selection" value=""/>
 		<list key="findhistory">
+			<item value="bank"/>
+			<item value="bovi"/>
 			<item value="config"/>
 			<item value="client"/>
 			<item value="conf"/>
@@ -21,8 +23,6 @@
 			<item value="openfeign"/>
 			<item value="jsr"/>
 			<item value="ws"/>
-			<item value="javax"/>
-			<item value="org.mapstruct.version"/>
 		</list>
 		<list key="replacehistory">
 		</list>

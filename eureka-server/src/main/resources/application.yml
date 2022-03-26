@@ -1,13 +1,11 @@
 spring:
   application:
     name: eureka
-
 server:
-  port: 1111
-
+  port: 8761
 eureka:
-  #instance:
-   # hostname: localhost
+  instance:
+    hostname: localhost 
   client:
-    register-with-eureka: false
-    fetch-registry: false
+    registerWithEureka: false
+    fetchRegistry: false

@@ -33,8 +33,8 @@ spring:
     oauth2:
       resourceserver:
         jwt:
-          #issuer-uri: http://localhost:8080/auth/realms/master
-          issuer-uri: http://localhost:31002/auth/realms/master
+          #issuerUri: http://localhost:8080/auth/realms/master
+          issuerUri: http://localhost:31002/auth/realms/master
           
 #Usar la instrumentacion de Sleuth
   #sleuth:
@@ -48,7 +48,10 @@ spring:
 #Register in Eureka Server
 eureka:
   client:
-    service-url:
-      defaultZone: http://localhost:1111/eureka
-    register-with-eureka: true
+    registerWithEureka: true
+    fetchRegistry: true
+    serviceUrl:
+      defaultZone: http://eureka:8761/eureka
+  instance:
+    preferIpAddress: true
       
